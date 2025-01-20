@@ -62,7 +62,7 @@ Task examples without answer:
 
 Adapt each reasoning module description to better solve the tasks."""
 
-IMPLMENT_PROMPT = """Operationalize the reasoning modules into a step-by-step reasoning plan in JSON format:
+IMPLEMENT_PROMPT = """Operationalize the reasoning modules into a step-by-step reasoning plan in JSON format:
 
 Here is an example of a task and its operationalized reasoning plan:
 Task Example:
@@ -98,7 +98,7 @@ REASONING_PROMPT = """Solve the given task by following the step-by-step reasoni
 Phrase your final answer always as "The final answer is [answer]".
 
 [answer] should be in one of the following formats:
-{reasoning_formats}
+{answer_formats}
     
 Reasoning Structure:
 {reasoning_structure}
