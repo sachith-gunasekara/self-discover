@@ -20,6 +20,10 @@ langfuse = "^2.57.13"
 [tool.poetry.group.experiments.dependencies]
 langchain-mistralai = "^0.2.4"
 
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.4"
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
