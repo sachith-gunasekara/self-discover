@@ -1,4 +1,5 @@
 import os
+import sys
 import random
 import operator
 from typing import TypedDict, Annotated
@@ -11,10 +12,11 @@ from langchain_core.language_models.chat_models import BaseChatModel
 from langchain_core.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langfuse.callback import CallbackHandler
+from langgraph.checkpoint.memory import MemorySaver
+from langgraph.types import Send
 from langgraph.graph import END, START, StateGraph
 
 from self_discover import prompts
-
 
 load_dotenv()
 
@@ -23,8 +25,6 @@ langfuse_handler = CallbackHandler(
     secret_key=os.environ["LANGFUSE_SECRET_KEY"],
     host=os.environ["LANGFUSE_HOST"],
 )
-
-config = {"configurable": {"thread_id": "1"}, "callbacks": [langfuse_handler]}
 
 
 class SelfDiscoverState(TypedDict):
@@ -39,9 +39,9 @@ class SelfDiscoverState(TypedDict):
 
 
 class PhaseIIState(TypedDict):
+    task_description: str
     answer_formats: str
     reasoning_structure: str
-    reasoning: str
 
 
 @dataclass
@@ -78,62 +78,54 @@ def implement(state: SelfDiscoverState):
 
     result = chain.invoke(state)
 
-    return {"reasoning": result}
+    return {"reasoning_structure": result}
 
-
-phaseI_graph_builder = StateGraph(SelfDiscoverState)
-
-phaseI_graph_builder.add_node(select)
-phaseI_graph_builder.add_node(adapt)
-phaseI_graph_builder.add_node(implement)
-
-phaseI_graph_builder.add_edge(START, "select")
-phaseI_graph_builder.add_edge("select", "adapt")
-phaseI_graph_builder.add_edge("adapt", "implement")
-
-phaseI_graph = phaseI_graph_builder.compile()
 
 ### Phase 2: Reasoning with Task-Specific Reasoning Structures ###
 
 
-def continue_to_reason(state)
+def continue_to_reason(state: SelfDiscoverState):
+    return [
+        Send(
+            "reason",
+            {
+                "task_description": task_description,
+                "answer_formats": state["answer_formats"],
+                "reasoning_structure": state["reasoning_structure"],
+            },
+        )
+        for task_description in state["task_descriptions"]
+    ]
+
 
 def reason(state: PhaseIIState):
     chain = reasoning_prompt | Config.model | StrOutputParser()
-    
-    for task in state["task_descriptions"]:
-        result = chain.invoke({"task_description": task})
 
     result = chain.invoke(state)
 
-    graph.update_state(config, {})
+    return {"reasonings": [result]}
 
 
+graph_builder = StateGraph(SelfDiscoverState)
 
-phaseII_graph_builder = StateGraph(PhaseIIState)
+## Phase I
+graph_builder.add_node(select)
+graph_builder.add_node(adapt)
+graph_builder.add_node(implement)
 
-phaseII_graph_builder.add_node(iterate_tasks)
-phaseII_graph_builder.add_node(reason)
+graph_builder.add_edge(START, "select")
+graph_builder.add_edge("select", "adapt")
+graph_builder.add_edge("adapt", "implement")
 
-phaseII_graph_builder.add_edge(START, "iterate_tasks")
-phaseII_graph_builder.add_edge("iterate_tasks", "reason")
-phaseII_graph_builder.add_conditional_edges("reason", should_continue)
+## Phase II
+graph_builder.add_node(reason)
 
-phaseII_graph = phaseII_graph_builder.compile()
+graph_builder.add_conditional_edges("implement", continue_to_reason, ["reason"])
+graph_builder.add_edge("reason", END)
 
-### Self-Discover ###
+memory = MemorySaver()
 
-self_discover_graph_builder = StateGraph(SelfDiscoverState)
-
-self_discover_graph_builder.add_node("pI", phaseI_graph)
-
-self_discover_graph_builder.add_node("pII", phaseII_graph)
-
-self_discover_graph_builder.add_edge(START, "pI")
-self_discover_graph_builder.add_edge("pI", "pII")
-self_discover_graph_builder.add_edge("pII", END)
-
-self_discover_graph = self_discover_graph_builder.compile()
+graph = graph_builder.compile(checkpointer=memory)
 
 
 ### Function to execute Self-Discover on a series of tasks
@@ -151,8 +143,12 @@ def self_discover(task_descriptions: list[str], model, answer_formats: str):
     Config.model = model
     state = {
         "task_descriptions": task_descriptions,
-        "task_examples": "\n".join(random.sample(task_descriptions, min(4, n))),
+        "task_examples": "\n".join(random.sample(task_descriptions, min(3, n))),
         "answer_formats": answer_formats,
     }
 
-    return self_discover_graph.invoke(state, config=config)
+    config = {"configurable": {"thread_id": 1}, "callbacks": [langfuse_handler]}
+    for s in graph.stream(state, config=config):
+        print(s)
+
+    return graph.get_state(config).values

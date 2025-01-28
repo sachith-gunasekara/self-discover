@@ -920,15 +920,15 @@ langchain-core = ">=0.3.29,<0.4.0"
 
 [[package]]
 name = "langfuse"
-version = "2.57.10"
+version = "2.57.13"
 description = "A client library for accessing langfuse"
 optional = false
 python-versions = "<4.0,>=3.9"
 groups = ["main"]
 markers = "python_version <= \"3.11\" or python_version >= \"3.12\""
 files = [
-    {file = "langfuse-2.57.10-py3-none-any.whl", hash = "sha256:db7e8f7cf8d0204e17074e6729b144e7f9c7198499cd84a824bbc81fb5e37e4a"},
-    {file = "langfuse-2.57.10.tar.gz", hash = "sha256:751dd03271809f4bf50f6e4e0d1138b0e0eb028efefc984fdc6948d2bfddd95d"},
+    {file = "langfuse-2.57.13-py3-none-any.whl", hash = "sha256:efc8021a52fc834418645312bd92d27205ad704ae1559788335fc7fe0945a91d"},
+    {file = "langfuse-2.57.13.tar.gz", hash = "sha256:605f03e6607554217a1f711bcd16273ac1e072a5b4e1086379855ca83ba7b56b"},
 ]
 
 [package.dependencies]
@@ -2536,4 +2536,4 @@ propcache = ">=0.2.0"
 [metadata]
 lock-version = "2.1"
 python-versions = "^3.10"
-content-hash = "a51014059eba4c9d29f92c3101cfe70ed14b795046e20706f471777353eccd32"
+content-hash = "e336fb4c87872cd784171067b2b224b0087711f3214c3634626a168f6ad571de"
