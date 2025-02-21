@@ -12,17 +12,17 @@ langgraph = "^0.2.64"
 langchain-core = "^0.3.30"
 pyprojroot = "^0.3.0"
 langchain = "^0.3.14"
-datasets = "^3.2.0"
-langfuse = "^2.57.13"
-
-
 
 [tool.poetry.group.experiments.dependencies]
 langchain-mistralai = "^0.2.4"
-
+langchain-sambanova = "^0.1.0"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.3.4"
+langchain-sambanova = "^0.1.0"
+datasets = "^3.2.0"
+langfuse = "^2.57.13"
+tomlkit = "^0.13.2"
 
 [build-system]
 requires = ["poetry-core"]

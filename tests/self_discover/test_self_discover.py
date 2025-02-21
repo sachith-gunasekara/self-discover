@@ -37,12 +37,14 @@ def test_self_discover_valid_input():
 def test_self_discover_invalid_model():
     model = "invalid model"
 
-    with pytest.raises(ValueError, match="model must be an instance of BaseChatModel"):
+    with pytest.raises(ValueError, match="model must be an instance of BaseChatModel. Are you sure you defined your LanggChain Chat Model properly."):
         self_discover(task_descriptions, model, answer_formats)
 
 
 def test_self_discover_empty_task_descriptions():
+    task_descriptions = []
+    
     with pytest.raises(
-        ValueError, match="task_descriptions must be a non-empty list of strings"
+        ValueError, match="task_descriptions must be a non-empty list of strings."
     ):
         self_discover(task_descriptions, model, answer_formats)
