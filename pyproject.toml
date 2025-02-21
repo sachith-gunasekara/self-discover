@@ -12,6 +12,9 @@ langgraph = "^0.2.64"
 langchain-core = "^0.3.30"
 pyprojroot = "^0.3.0"
 langchain = "^0.3.14"
+loguru = "^0.7.3"
+logtail-python = "^0.3.3"
+fire = "^0.7.0"
 
 [tool.poetry.group.experiments.dependencies]
 langchain-mistralai = "^0.2.4"
