@@ -1,0 +1,93 @@
+```json
+{
+    "Experiment Design": {
+        "Design a mathematical model": "Identify the key variables and relationships in the problem to create a mathematical model."
+    },
+    "Systematic Problem Solving": {
+        "List potential approaches": "List all potential mathematical approaches or formulas that could be applied to this problem.",
+        "Test approaches one by one": "Test each approach systematically to find the most effective solution."
+    },
+    "Progress Tracking": {
+        "Identify interim steps": "Identify interim steps or milestones to track progress towards solving the problem."
+    },
+    "Problem Simplification": {
+        "Break down the problem": "Break down or simplify the problem into smaller, more manageable parts or sub-problems."
+    },
+    "Assumption Identification": {
+        "Identify key assumptions": "Identify the key mathematical assumptions or given information underlying this problem."
+    },
+    "Critical Thinking in Mathematics": {
+        "Analyze from different perspectives": "Analyze the problem from different mathematical perspectives, question assumptions, and evaluate the mathematical evidence or information available.",
+        "Focus on logical reasoning": "Focus on logical reasoning, theorem application, and identifying potential mathematical errors or oversights."
+    },
+    "Creative Mathematical Thinking": {
+        "Explore unconventional solutions": "Explore unconventional mathematical solutions, think beyond traditional formulas or theories, and encourage innovative approaches to solve the problem."
+    },
+    "Collaborative Problem Solving": {
+        "Consult with peers or resources": "Consult with peers, mentors, or mathematical resources to gain different perspectives and collaboratively work towards a solution."
+    },
+    "Systems Analysis": {
+        "Consider the problem as part of a larger system": "Consider the problem as part of a larger mathematical system, identify interconnected elements, underlying causes, and feedback loops to develop a holistic solution."
+    },
+    "Risk Analysis in Mathematics": {
+        "Evaluate potential errors": "Evaluate potential mathematical errors, uncertainties, or trade-offs associated with different approaches or solutions to the problem."
+    },
+    "Reflective Mathematical Thinking": {
+        "Reflect on the problem-solving process": "Reflect on the problem-solving process, examine personal mathematical biases or assumptions, and be open to learning from past mathematical experiences to improve future approaches."
+    },
+    "Core Problem Identification": {
+        "Identify the main mathematical question": "Identify the main mathematical question or issue that needs to be addressed."
+    },
+    "Root Cause Analysis": {
+        "Identify underlying principles": "Identify the underlying mathematical principles, theorems, or concepts contributing to the problem."
+    },
+    "Previous Solutions Analysis": {
+        "Analyze previous solutions": "Analyze any previous solutions, formulas, or theories that have been applied to similar problems. If yes, what were the outcomes and lessons learned?"
+    },
+    "Obstacle Anticipation": {
+        "Anticipate potential challenges": "Anticipate potential mathematical challenges or obstacles that might arise while solving this problem."
+    },
+    "Data Utilization": {
+        "Utilize relevant data": "Utilize any relevant mathematical data, formulas, or theorems that can provide insights into the problem. If yes, how can they be applied?"
+    },
+    "Stakeholder Perspectives": {
+        "Consider specific mathematical viewpoints": "Consider any specific mathematical viewpoints or needs that should be considered while solving the problem."
+    },
+    "Resource Assessment": {
+        "Identify needed resources": "Identify the mathematical tools, techniques, or resources needed to effectively tackle the problem."
+    },
+    "Success Metrics": {
+        "Define key indicators": "Define how progress or success in solving the problem can be mathematically measured or evaluated. What are the key indicators or metrics?"
+    },
+    "Problem Classification": {
+        "Classify the problem": "Classify the problem as primarily computational, geometrical, algebraic, or related to another mathematical branch. Does it require a specific skill set or expertise?"
+    },
+    "Constraint Identification": {
+        "Identify constraints": "Identify any physical, geometrical, or mathematical constraints that need to be considered."
+    },
+    "Behavioral Analysis": {
+        "Analyze human behavior": "Analyze if the problem involves mathematical modeling of human behavior, or if it is related to social, cultural, or psychological issues."
+    },
+    "Decision-Making Analysis": {
+        "Analyze decision-making": "Analyze if the problem involves mathematical decision-making, optimization, or planning under uncertainty or competing objectives."
+    },
+    "Analytical Problem Identification": {
+        "Identify analytical problems": "Identify if the problem is primarily analytical, requiring data analysis, mathematical modeling, or optimization techniques."
+    },
+    "Design Challenge Identification": {
+        "Identify design challenges": "Identify if the problem is a design challenge that requires creative mathematical solutions and innovations."
+    },
+    "Systemic Issue Identification": {
+        "Identify systemic issues": "Identify if the problem requires addressing systemic or structural mathematical issues rather than just individual instances."
+    },
+    "Urgency Assessment": {
+        "Assess urgency": "Assess if the problem is time-sensitive or urgent, requiring immediate mathematical attention and action."
+    },
+    "Step-by-Step Planning": {
+        "Break down the problem into steps": "Break down the problem into a step-by-step mathematical plan, ensuring each step is clearly defined and logically follows from the previous one."
+    },
+    "Detailed Plan Implementation": {
+        "Implement the step-by-step plan": "Implement the step-by-step plan with clear mathematical notations, explanations, and justifications for each step."
+    }
+}
+```

@@ -1,0 +1,33 @@
+```json
+{
+    "Identify Key Assumptions": {
+        "Explicit Premises": "Identify the explicitly stated premises in the argument.",
+        "Implicit Premises": "Identify any implicit assumptions that the argument relies on."
+    },
+    "Break Down the Argument": {
+        "Logical Steps": "Deconstruct the argument into smaller logical steps or components."
+    },
+    "Critical Analysis": {
+        "Evaluate Premises": "Evaluate each premise for logical consistency.",
+        "Identify Fallacies": "Identify any logical fallacies or gaps in the argument."
+    },
+    "Core Logical Issue": {
+        "Main Logical Relationship": "Identify the main logical relationship or principle that the argument hinges on."
+    },
+    "Underlying Logical Structures": {
+        "Logical Rules": "Identify the logical rules or forms (e.g., modus ponens, modus tollens) that underpin the argument."
+    },
+    "Decision-Making or Planning": {
+        "Evaluate Choices": "Evaluate choices or planning based on logical inferences if applicable."
+    },
+    "Analytical Problem": {
+        "Structured Analysis": "Perform a structured analysis of logical statements or relationships if required."
+    },
+    "Step-by-Step Reasoning": {
+        "Logical Consistency": "Evaluate each step of the argument individually for logical consistency."
+    },
+    "Structured Plan": {
+        "Step-by-Step Plan": "Create a step-by-step plan to analyze the argument, ensuring each step is logically sound and clearly explained."
+    }
+}
+```

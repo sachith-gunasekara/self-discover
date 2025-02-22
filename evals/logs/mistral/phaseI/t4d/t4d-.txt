@@ -1,0 +1,25 @@
+```json
+{
+    "Identify the core information gap": {
+        "Determine which individual(s) lack crucial information about the current state or plans involving a specific object."
+    },
+    "Assume innocence of knowledge": {
+        "Assume that each individual only knows about the actions they were present for, and doesn't know about actions that occurred in their absence."
+    },
+    "Consider each individual's perspective": {
+        "Evaluate what each person knows based on their observations and actions, and how this might differ from others' perspectives."
+    },
+    "Analytical Thinking": {
+        "Analyze the sequence of events and the knowledge state of each individual. Question what information each person has access to, and evaluate who might be lacking information necessary for their planned actions."
+    },
+    "Identify affected individuals and their needs": {
+        "Determine who is directly affected by the current state of the object and who intends to use it, and assess their need for up-to-date information."
+    },
+    "Chronologically assess knowledge states": {
+        "Step by step, track the entry, exit, and actions of each individual to determine their knowledge state at each point."
+    },
+    "Formulate and execute an information-sharing plan": {
+        "Create a step-by-step plan to update the individual(s) who would benefit from receiving helpful information, explaining what they need to know and why."
+    }
+}
+```

@@ -1,0 +1,29 @@
+```json
+{
+    "Break down the sequence of swaps": {
+        "List each swap in the order they occur": {
+            "Identify the individuals involved in each swap": {},
+            "Identify the items or positions being swapped": {}
+        }
+    },
+    "Identify the final position/gift": {
+        "Determine the individual whose final position or gift needs to be found": {}
+    },
+    "Evaluate swap dynamics": {
+        "Check if the problem involves multiple sequential swaps": {}
+    },
+    "Step-by-step tracking": {
+        "Track each swap step by step": {
+            "Update the positions or gifts of the individuals involved in each swap": {}
+        }
+    },
+    "Create and implement a swap plan": {
+        "Make a step-by-step plan of each swap": {
+            "Explain how each exchange affects the final outcome": {}
+        },
+        "Implement the swap plan": {
+            "Follow the plan to determine the final positions or gifts of all individuals": {}
+        }
+    }
+}
+```

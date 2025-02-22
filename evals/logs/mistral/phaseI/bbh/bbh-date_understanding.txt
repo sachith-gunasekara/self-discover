@@ -1,0 +1,34 @@
+```json
+{
+    "Identify the core date issue": {
+        "Determine the primary date or time-related question that needs to be answered": {}
+    },
+    "Relevant date data": {
+        "Identify given dates, time intervals, or formats that can provide insights into the problem": {}
+    },
+    "Break down the date problem": {
+        "Dissect the problem into smaller, manageable parts, such as calculating days, months, or years separately": {}
+    },
+    "Critical date analysis": {
+        "Analyze the problem from different temporal perspectives, question assumptions about dates, and evaluate the given date information": {}
+    },
+    "Design a time-based experiment": {
+        "Create a step-by-step experimental process that involves manipulating dates and times to solve this problem": {}
+    },
+    "Systematic date problem-solving": {
+        "List all possible date calculation methods applicable to this problem, and test them one by one to see which leads to a solution": {}
+    },
+    "Step-by-step date reasoning": {
+        "Think through this date problem step by step, breaking it down into smaller calculations": {}
+    },
+    "Implement a step-by-step date plan": {
+        "Create a detailed, step-by-step plan for solving this date problem, explaining each part clearly and executing it precisely": {}
+    },
+    "Measure date progress": {
+        "Verify each step in solving the date problem or validate the final answer to ensure it is correct": {}
+    },
+    "Date-based decision-making": {
+        "If the problem involves choosing between different dates or time intervals, use strategies to help make the right choice": {}
+    }
+}
+```

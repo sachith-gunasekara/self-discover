@@ -1,0 +1,27 @@
+```json
+{
+    "Core Problem Identification": {
+        "Identify the primary mathematical question or relationship that needs to be addressed": {}
+    },
+    "Problem Decomposition": {
+        "Divide the problem into smaller, more solvable components": {}
+    },
+    "Critical Mathematical Thinking": {
+        "Analyze the problem from different mathematical perspectives": {},
+        "Question assumptions and evaluate the given data": {},
+        "Identify potential mathematical errors or oversights": {}
+    },
+    "Data and Information Analysis": {
+        "Identify relevant mathematical formulas, theorems, or patterns": {},
+        "Apply the identified formulas, theorems, or patterns to the problem": {}
+    },
+    "Step-by-Step Reasoning": {
+        "Break down the solution into detailed, logical steps": {},
+        "Ensure each step is clearly explained and follows from the previous": {}
+    },
+    "Step-by-Step Planning and Execution": {
+        "Create a detailed plan outlining each calculation or logical step required to solve the problem": {},
+        "Implement the plan with clear explanations": {}
+    }
+}
+```

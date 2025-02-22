@@ -1,0 +1,34 @@
+```json
+{
+    "Simplify the Problem": {
+        "Identify the key elements and their relationships": {}
+    },
+    "Break Down the Problem": {
+        "List the given statements and their implications": {},
+        "Identify the positions or ranks to be determined": {}
+    },
+    "Critical Thinking": {
+        "Analyze the given statements for logical consistency": {},
+        "Question assumptions about the sequence": {},
+        "Evaluate the given information to determine the correct order or rank": {}
+    },
+    "Analytical Approach": {
+        "Model the sequence or ranking based on the given statements": {},
+        "Systematically evaluate the positions or ranks of each element": {}
+    },
+    "Step-by-Step Reasoning": {
+        "Consider each piece of information one at a time": {},
+        "Determine the position or rank of each element based on the given statements": {}
+    },
+    "Structured Plan": {
+        "Create a step-by-step plan to determine the correct order or rank": {
+            "Step 1: Identify the key elements and their relationships": {},
+            "Step 2: List the given statements and their implications": {},
+            "Step 3: Analyze the given statements for logical consistency": {},
+            "Step 4: Model the sequence or ranking based on the given statements": {},
+            "Step 5: Systematically evaluate the positions or ranks of each element": {},
+            "Step 6: Determine the position or rank of each element based on the given statements": {}
+        }
+    }
+}
+```

@@ -1,0 +1,118 @@
+Here are the operationalized reasoning plans in JSON format:
+
+**Problem Decomposition**
+{
+    Break down the problem into smaller sub-problems: {
+        Identify key elements such as variables, relationships, and constraints:,
+        Determine the relationships between the sub-problems:,
+    },
+    Simplify the problem by eliminating unnecessary information: {
+        Identify patterns and make reasonable assumptions:,
+        Eliminate irrelevant variables and constraints:,
+    },
+    Identify the underlying causes or factors contributing to the problem: {
+        Analyze the relationships between the sub-problems:,
+        Identify potential solutions based on the analysis:,
+    },
+}
+
+**Pattern Recognition**
+{
+    Identify patterns in the problem: {
+        Look for relationships between variables:,
+        Identify any regularities or irregularities:,
+    },
+    Use analogies to solve the problem: {
+        Identify similar problems or situations:,
+        Apply the solutions from the similar problems:,
+    },
+    Make predictions based on the patterns: {
+        Use the patterns to make educated guesses:,
+        Test the predictions and refine them:,
+    },
+}
+
+**Logical Reasoning**
+{
+    Use logical operators to solve the problem: {
+        Apply AND, OR, and NOT operators:,
+        Use logical equivalences and implications:,
+    },
+    Use syllogisms to solve the problem: {
+        Identify the premises and conclusion:,
+        Apply the rules of syllogisms:,
+    },
+    Use mathematical logic to solve the problem: {
+        Apply mathematical concepts such as sets and functions:,
+        Use mathematical proofs and theorems:,
+    },
+}
+
+**Mathematical Reasoning**
+{
+    Use mathematical concepts to solve the problem: {
+        Apply mathematical formulas and equations:,
+        Use mathematical functions and graphs:,
+    },
+    Use mathematical proofs and theorems to solve the problem: {
+        Apply mathematical induction and deduction:,
+        Use mathematical theorems and lemmas:,
+    },
+    Use statistical reasoning to solve the problem: {
+        Apply statistical concepts such as mean and standard deviation:,
+        Use statistical tests and confidence intervals:,
+    },
+}
+
+**Step-by-Step Problem Solving**
+{
+    Break down the problem into a logical sequence of events: {
+        Identify the key steps and milestones:,
+        Determine the order of operations:,
+    },
+    Evaluate the potential consequences of each step: {
+        Identify potential risks and benefits:,
+        Determine the feasibility of each step:,
+    },
+    Implement the plan and adapt as needed: {
+        Take action and monitor progress:,
+        Adjust the plan based on new information:,
+    },
+}
+
+Here is an example of how these reasoning plans can be applied to a specific task:
+
+Task: Tom got a Mr. Potato Head for his birthday. It came with 3 hairstyles, 2 sets of eyebrows, 1 pair of googly eyes, 2 sets of ears, and 2 sets of lips, a pair of regular shoes, and a bonus pair of clown shoes. If a complete Mr. Potato Head personality includes eyebrows, eyes, ears, lips, shoes and optionally hair, how many different wacky personalities can Tom come up with?
+
+Reasoning Plan:
+{
+    Break down the problem into smaller sub-problems: {
+        Identify the key elements such as variables, relationships, and constraints:,
+        Determine the relationships between the sub-problems:,
+    },
+    Use mathematical concepts to solve the problem: {
+        Apply mathematical formulas and equations:,
+        Use mathematical functions and graphs:,
+    },
+    Evaluate the potential consequences of each step: {
+        Identify potential risks and benefits:,
+        Determine the feasibility of each step:,
+    },
+}
+
+Solution:
+{
+    Break down the problem into smaller sub-problems: {
+        Identify the key elements: 3 hairstyles, 2 sets of eyebrows, 1 pair of googly eyes, 2 sets of ears, and 2 sets of lips, a pair of regular shoes, and a bonus pair of clown shoes:,
+        Determine the relationships: each personality requires eyebrows, eyes, ears, lips, shoes, and optionally hair:,
+    },
+    Use mathematical concepts to solve the problem: {
+        Apply mathematical formulas: 2 x 2 x 2 x 2 x 2 x (3 + 1) = 64:,
+    },
+    Evaluate the potential consequences of each step: {
+        Identify potential risks: none:,
+        Determine the feasibility: the calculation is feasible:,
+    },
+}
+
+Answer: 64.

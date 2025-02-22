@@ -1,0 +1,82 @@
+```json
+{
+    "Problem Decomposition": {
+        "Identify Core Problem": {
+            "Core Problem Identification": "Identify the main mathematical question or issue that needs to be addressed."
+        },
+        "Break Down Problem": {
+            "Problem Decomposition": "Break down the problem into smaller, more manageable parts or sub-problems."
+        }
+    },
+    "Data and Information Analysis": {
+        "Gather Relevant Data": {
+            "Data and Information Analysis": "Identify relevant mathematical data, formulas, or theorems that can provide insights into the problem."
+        },
+        "Analyze Data": {
+            "Data and Information Analysis": "Analyze the gathered data to understand its implications for the problem."
+        }
+    },
+    "Systematic Problem Solving": {
+        "List Potential Approaches": {
+            "Systematic Problem Solving": "List all potential mathematical approaches or formulas that could be applied to this problem."
+        },
+        "Test Approaches": {
+            "Systematic Problem Solving": "Test each approach one by one to find the most effective solution."
+        }
+    },
+    "Critical Mathematical Thinking": {
+        "Question Assumptions": {
+            "Critical Mathematical Thinking": "Question assumptions and evaluate given information."
+        },
+        "Ensure Logical Reasoning": {
+            "Critical Mathematical Thinking": "Ensure logical reasoning and evidence-based decision-making."
+        }
+    },
+    "Creative Mathematical Thinking": {
+        "Explore Unconventional Solutions": {
+            "Creative Mathematical Thinking": "Explore unconventional solutions or approaches."
+        },
+        "Think Beyond Traditional Methods": {
+            "Creative Mathematical Thinking": "Think beyond traditional mathematical methods and encourage innovative ideas."
+        }
+    },
+    "Systems Analysis": {
+        "Consider Larger System": {
+            "Systems Analysis": "Consider the problem within a larger mathematical system."
+        },
+        "Identify Interdependencies": {
+            "Systems Analysis": "Identify underlying causes, interdependencies, and feedback loops that influence the problem."
+        }
+    },
+    "Root Cause Analysis": {
+        "Identify Underlying Factors": {
+            "Root Cause Analysis": "Identify the underlying mathematical factors or causes contributing to the problem."
+        }
+    },
+    "Success Metrics": {
+        "Measure Progress": {
+            "Success Metrics": "Measure or evaluate progress or success in solving the problem mathematically."
+        }
+    },
+    "Problem Classification": {
+        "Classify Problem": {
+            "Problem Classification": "Classify the problem as primarily computational, conceptual, or analytical."
+        }
+    },
+    "Analytical Problem Identification": {
+        "Identify Analytical Problem": {
+            "Analytical Problem Identification": "Identify if the problem requires data analysis, mathematical modeling, or optimization techniques."
+        }
+    },
+    "Step-by-Step Reasoning": {
+        "Approach Problem Step by Step": {
+            "Step-by-Step Reasoning": "Approach the problem step by step, ensuring each step logically follows from the previous one."
+        }
+    },
+    "Detailed Solution Planning": {
+        "Create Detailed Plan": {
+            "Detailed Solution Planning": "Create a detailed, step-by-step plan to solve the problem, ensuring each step is clearly explained and logically sound."
+        }
+    }
+}
+```

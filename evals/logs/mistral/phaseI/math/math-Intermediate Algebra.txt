@@ -1,0 +1,42 @@
+```json
+{
+    "Step-by-Step Reasoning": {
+        "Identify Core Mathematical Issue": {
+            "Description": "Determine the central mathematical question or problem that needs to be addressed."
+        },
+        "Problem Decomposition": {
+            "Description": "Break down the problem into smaller, more manageable sub-problems or steps."
+        },
+        "Critical Mathematical Analysis": {
+            "Description": "Analyze the problem from different mathematical perspectives, question assumptions, and evaluate the given information."
+        },
+        "Methodical Exploration": {
+            "Description": "Generate a list of mathematical techniques, theorems, or approaches that could be applied to the problem, and systematically attempt each one to make progress."
+        },
+        "Experimental Design": {
+            "Description": "Design a mathematical investigation or test cases to explore the behavior of the function or equation and gain insights into the problem."
+        },
+        "Data and Information Analysis": {
+            "Description": "Identify any relevant mathematical data, patterns, or information that can provide insights into the problem. Analyze available data sources mathematically."
+        },
+        "Root Cause Analysis": {
+            "Description": "Identify the underlying mathematical factors or causes contributing to the problem."
+        },
+        "Creative Mathematical Thinking": {
+            "Description": "Explore unconventional solutions, think beyond traditional mathematical techniques, and encourage innovative approaches to solve the problem."
+        },
+        "Systems Analysis": {
+            "Description": "Consider the problem as part of a larger mathematical system, identifying interconnected variables, underlying causes, and feedback loops that influence the problem, and develop holistic solutions that address the system as a whole."
+        },
+        "Expertise Identification": {
+            "Description": "Determine if the problem is primarily technical or practical, requiring specific mathematical skills or knowledge, or if it is more conceptual or theoretical in nature."
+        },
+        "Analytical Problem Identification": {
+            "Description": "Determine if the problem is an analytical one that requires mathematical techniques such as data analysis, modeling, or optimization."
+        },
+        "Detailed Solution Plan": {
+            "Description": "Create a step-by-step plan to solve the problem, ensuring each step is well-explained and logically coherent, and then implement this plan meticulously."
+        }
+    }
+}
+```

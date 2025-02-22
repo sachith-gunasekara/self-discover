@@ -1,0 +1,49 @@
+```json
+{
+    "Experiment Design": {
+        "Set up a mathematical or logical experiment to explore and solve this problem": {}
+    },
+    "Systematic Problem Solving": {
+        "Generate a list of mathematical techniques or approaches applicable to this problem, and apply them one by one to see if progress can be made": {}
+    },
+    "Progress Tracking": {
+        "Measure and monitor progress towards solving this problem, such as identifying intermediate steps or milestones": {}
+    },
+    "Problem Decomposition": {
+        "Break down this problem into smaller, more manageable mathematical or logical parts": {}
+    },
+    "Critical Thinking": {
+        "Analyze the problem from different mathematical perspectives, question assumptions, and evaluate the given information or data. Focus on logical reasoning, evidence-based decision-making, and identifying potential mathematical errors or biases": {}
+    },
+    "Creative Thinking": {
+        "Explore unconventional mathematical solutions, think beyond traditional boundaries, and encourage innovative and original approaches": {}
+    },
+    "Systems Thinking": {
+        "Consider the problem as part of a larger mathematical system, understanding the interconnectedness of various elements. Focus on identifying underlying causes, feedback loops, and interdependencies that influence the problem, and develop holistic solutions that address the system as a whole": {}
+    },
+    "Core Issue Identification": {
+        "Identify the main mathematical or logical problem that needs to be addressed": {}
+    },
+    "Root Cause Analysis": {
+        "Identify the underlying mathematical or logical causes or factors contributing to the problem": {}
+    },
+    "Data and Information Analysis": {
+        "Identify any relevant data, formulas, or theorems that can provide insights into the problem. Analyze and apply them": {}
+    },
+    "Stakeholder Analysis": {
+        "Identify any specific mathematical or logical conditions, constraints, or requirements that need to be considered": {}
+    },
+    "Expertise Identification": {
+        "Determine if the problem is primarily technical or practical, requiring specific mathematical or logical skills or knowledge. Or is it more conceptual or theoretical": {}
+    },
+    "Analytical Problem Identification": {
+        "Determine if the problem is primarily analytical, requiring data analysis, mathematical modeling, or optimization techniques": {}
+    },
+    "Step-by-Step Reasoning": {
+        "Approach this problem step by step, ensuring each step logically follows from the previous one": {}
+    },
+    "Action Plan Development": {
+        "Create a step-by-step plan to solve this problem, ensuring each step is well-explained and logically sound": {}
+    }
+}
+```

@@ -1,0 +1,31 @@
+```json
+{
+    "Core Issue Identification": {
+        "Identify the primary question or issue that needs to be resolved": {}
+    },
+    "Relevant Data Identification and Analysis": {
+        "Identify specific details about the colors, positions, or types of items provided": {}
+    },
+    "Problem Decomposition": {
+        "Break down the problem into smaller parts, such as analyzing each item's color or position one by one": {}
+    },
+    "Multi-Perspective Analysis": {
+        "Analyze the problem from different viewpoints, such as considering various color groupings or positional relationships": {}
+    },
+    "Sequential Logical Reasoning": {
+        "Analyze the problem step by step, considering each item's color and position in a logical sequence": {}
+    },
+    "Detailed Step-by-Step Planning": {
+        "Create a clear, step-by-step plan to analyze the items, their colors, and positions, and then implement this plan with thorough explanations": {}
+    },
+    "Decision-Making Under Uncertainty": {
+        "Make choices based on incomplete information or competing criteria, such as determining the most distant color from a given item": {}
+    },
+    "Design an Observational Experiment": {
+        "Set up a systematic observation or mental experiment to analyze the arrangement and colors of items to solve this problem": {}
+    },
+    "Iterative Idea Testing": {
+        "Generate a list of strategies to determine the colors or count of items, and apply each one systematically to the problem to assess progress": {}
+    }
+}
+```

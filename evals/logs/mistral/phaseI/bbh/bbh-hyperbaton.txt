@@ -1,0 +1,24 @@
+```json
+{
+    "Identify the core grammatical issue": {
+        "Determine the core grammatical issue or problem that needs to be addressed in the adjective ordering": {}
+    },
+    "Gather relevant linguistic rules": {
+        "Identify relevant linguistic rules or information that can provide insights into the correct adjective order": {
+            "Identify available language resources": {},
+            "Determine how to apply these resources": {}
+        }
+    },
+    "Analyze the problem type": {
+        "Determine if the problem requires linguistic analysis, rule application, or comparison techniques to determine the correct adjective sequence": {}
+    },
+    "Evaluate each sentence option": {
+        "Evaluate each sentence option step by step based on established adjective order rules": {}
+    },
+    "Create an analysis plan": {
+        "Create a step-by-step plan to analyze each adjective's category (e.g., opinion, size, age, shape, color, origin, material, purpose)": {
+            "Implement the correct ordering with clear explanations": {}
+        }
+    }
+}
+```

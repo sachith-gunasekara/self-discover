@@ -1,0 +1,31 @@
+```json
+{
+    "Decompose the Problem": {
+        "Parse the table": {},
+        "Isolate relevant columns": {},
+        "Identify the task type (e.g., finding maximum value, counting entries)": {}
+    },
+    "Identify and Analyze Relevant Data": {
+        "Determine relevant data from the table": {},
+        "Identify available data sources (the tables provided)": {}
+    },
+    "Define Success Metrics": {
+        "Establish clear criteria for measuring progress or success": {}
+    },
+    "Select Appropriate Metrics": {
+        "Choose specific indicators or metrics that will help in evaluating the solution": {}
+    },
+    "Determine Problem Type": {
+        "Assess whether the problem requires analytical techniques (e.g., data comparison, filtering, aggregation)": {}
+    },
+    "Step-by-Step Reasoning": {
+        "Identify the relevant column": {},
+        "Compare the values": {},
+        "Select the correct option based on the comparison": {}
+    },
+    "Create and Implement a Step-by-Step Plan": {
+        "Develop a detailed plan that outlines each step needed to solve the problem": {},
+        "Implement this plan with clear explanations for each step": {}
+    }
+}
+```

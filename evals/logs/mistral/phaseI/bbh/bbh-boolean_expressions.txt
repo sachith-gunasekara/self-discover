@@ -1,0 +1,25 @@
+```json
+{
+    "Identify the logical statement": {
+        "Parse the input statement to identify logical operators and operands": {}
+    },
+    "Break down the logical statement into smaller parts": {
+        "Identify and separate logical operators (and, or, not) and their operands": {}
+    },
+    "Simplify the logical expression": {
+        "Apply logical rules to simplify the expression, such as De Morgan's laws or distributive properties": {}
+    },
+    "Evaluate the statement step by step": {
+        "Respect the order of operations for logical operators (not, and, or)": {}
+    },
+    "Analyze the logical statement from different perspectives": {
+        "Question assumptions and evaluate the truth values step by step": {}
+    },
+    "Create a step-by-step plan to evaluate the statement": {
+        "Clearly explain each step and the reasoning behind it": {}
+    },
+    "Determine the truth value of the statement": {
+        "Evaluate the final simplified expression to determine if it is True or False": {}
+    }
+}
+```

@@ -1,0 +1,16 @@
+```json
+{
+    "Identify the core linguistic or contextual incongruity that suggests sarcasm": {
+        "Examine each statement step by step, comparing the literal meaning with the context and tone": {}
+    },
+    "What are the key assumptions about the speaker's belief or attitude that underlie this problem?": {
+        "Analyze each statement for inconsistencies between the literal meaning and the implied attitude": {}
+    },
+    "What are the alternative interpretations of these statements, considering both literal and non-literal meanings?": {
+        "Question assumptions about the speaker's sincerity and evaluate contextual clues that might indicate sarcasm": {}
+    },
+    "Critical Thinking: Analyze each statement for inconsistencies between the literal meaning and the implied attitude": {
+        "Let's make a step by step plan to analyze each option, considering the context, the speaker's likely intentions, and any incongruities that might indicate sarcasm": {}
+    }
+}
+```

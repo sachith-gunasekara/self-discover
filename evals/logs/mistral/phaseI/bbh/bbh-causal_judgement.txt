@@ -1,0 +1,34 @@
+```json
+{
+    "Step 1: Core Causal Issue": {
+        "Identify the key causal relationship or question that needs to be addressed:"
+    },
+    "Step 2: Problem Decomposition": {
+        "Break down the causality problem into smaller, more manageable parts, such as individual actions, events, or factors:"
+    },
+    "Step 3: Assumption Analysis": {
+        "Identify implicit or explicit assumptions about responsibility, causality, or normal behavior in this problem:"
+    },
+    "Step 4: Perspective Shifting": {
+        "Consider alternative viewpoints or interpretations of the events, actions, and responsibilities in this problem:"
+    },
+    "Step 5: Underlying Causal Factors": {
+        "Identify the contributing events, actions, or conditions that led to the outcome:"
+    },
+    "Step 6: Stakeholder Analysis": {
+        "Identify the individuals directly or indirectly affected by the actions or outcomes in the problem. Consider their perspectives, responsibilities, and potential contributions to the outcome:"
+    },
+    "Step 7: Critical Causal Thinking": {
+        "Analyze the problem from different perspectives, question causal assumptions, and evaluate the evidence or information available. Focus on identifying the direct and indirect causes, and avoiding biases in reasoning:"
+    },
+    "Step 8: Decision-Making under Uncertainty": {
+        "Assess responsibility or causality under uncertainty or with competing objectives:"
+    },
+    "Step 9: Step-by-Step Causal Analysis": {
+        "Analyze the sequence of events or actions leading to the outcome step by step:"
+    },
+    "Step 10: Causal Chain Planning": {
+        "Create a step-by-step plan to trace the causal chain, evaluating each link carefully with clear explanations:"
+    }
+}
+```

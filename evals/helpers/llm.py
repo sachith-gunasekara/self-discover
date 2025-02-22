@@ -13,8 +13,8 @@ MODEL_ID = "llama3-405b" if llama else "mistral-large-2407"
 logger.info("Using {} for inference", MODEL_ID)
 
 rate_limiter = InMemoryRateLimiter(
-    requests_per_second=1,
-    check_every_n_seconds=1.5,
+    requests_per_second=0.5,
+    check_every_n_seconds=5,
     max_bucket_size=1,
 )
 

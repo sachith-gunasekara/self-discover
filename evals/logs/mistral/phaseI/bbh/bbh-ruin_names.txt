@@ -1,0 +1,31 @@
+```json
+{
+    "Identify the core task": {
+        "Description": "Identify the core task: selecting the most humorous edit of a given name from multiple options."
+    },
+    "Determine underlying factors of humor": {
+        "Description": "Determine the underlying factors that contribute to humor in edited names, such as wordplay, irony, or absurdity."
+    },
+    "Identify relevant humor theories or linguistic principles": {
+        "Description": "Identify any relevant humor theories or linguistic principles that can provide insights into what makes a name edit humorous. Consider available data sources like humor studies or language databases."
+    },
+    "Generate a list of humor criteria": {
+        "Description": "Generate a list of criteria for identifying humorous edits, such as puns, misspellings, or pop culture references."
+    },
+    "Break down the task into smaller parts": {
+        "Description": "Break down the task into smaller parts, such as identifying the original name, analyzing each option for humor, and comparing options based on humor criteria."
+    },
+    "Brainstorm creative ways humor can be derived": {
+        "Description": "Brainstorm creative and unconventional ways humor can be derived from the original name, considering elements like phonetic play, wordplay, or cultural references."
+    },
+    "Recognize subjective decision-making": {
+        "Description": "Recognize that the task involves decision-making with subjective criteria (humor), and plan for evaluating options despite potential disagreements."
+    },
+    "Approach the task step by step": {
+        "Description": "Approach the task step by step: first understand the original name, then analyze each option for humor, and finally compare options."
+    },
+    "Create a step-by-step plan to evaluate each option": {
+        "Description": "Create a step-by-step plan to evaluate each option for humor, clearly outlining the criteria used and explaining why certain options are funnier than others."
+    }
+}
+```

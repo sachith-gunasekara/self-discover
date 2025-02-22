@@ -1,0 +1,50 @@
+```json
+{
+    "Generate and Test Ideas": {
+        "Brainstorm a list of criteria or methods to find similar movies": {},
+        "Apply each method systematically to the given options": {}
+    },
+    "Break Down the Problem": {
+        "Identify key elements that make the reference movies unique": {},
+        "Compare these elements with the options provided": {}
+    },
+    "Critical Analysis": {
+        "Analyze the problem from different perspectives": {},
+        "Question assumptions about what makes movies similar": {},
+        "Evaluate the available information about each option critically": {}
+    },
+    "Creative Association": {
+        "Think creatively about the connections between the reference movies": {},
+        "Consider unconventional similarities": {}
+    },
+    "Collaborative Filtering": {
+        "Seek input from others": {},
+        "Gain diverse perspectives": {},
+        "Identify common threads or unique aspects": {}
+    },
+    "Data-Driven Insights": {
+        "Look for relevant data or information": {},
+        "Identify available data sources": {},
+        "Analyze them to inform the decision": {}
+    },
+    "Stakeholder Perspectives": {
+        "Consider the perspectives and needs of different stakeholders": {}
+    },
+    "Expertise Identification": {
+        "Determine if the problem requires specific expertise": {},
+        "Leverage that expertise to make an informed decision": {}
+    },
+    "Decision-Making Under Uncertainty": {
+        "Recognize that the problem involves decision-making under uncertainty": {},
+        "Use decision-making strategies to navigate these uncertainties": {}
+    },
+    "Step-by-Step Analysis": {
+        "Approach the task step by step": {},
+        "Carefully consider each reference movie and how it compares to the available options": {}
+    },
+    "Structured Plan": {
+        "Create a step-by-step plan to compare the reference movies with the options": {},
+        "Ensure a thorough and well-reasoned analysis of each possibility": {}
+    }
+}
+```

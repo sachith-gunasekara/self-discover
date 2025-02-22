@@ -1,17 +1,10 @@
 [MODEL]
-model_type = "mistral"
+model_type = "llama"
 
 [MODE]
 modified = true
 self_synthesis = false
 
-[PATHS]
-checkpoint_dir = "data"
-log_dir = "logs"
-
 [EVAL]
 batch_size = 5
 wait_time = 30
-
-[CURRENTS]
-log_dir = "/home/ubuntu/jupyter/struct-vs-unstruct/struct_vs_unstruct/logs/mistral_large_2407/modified/non_self_synthesis/evals/math/math-"

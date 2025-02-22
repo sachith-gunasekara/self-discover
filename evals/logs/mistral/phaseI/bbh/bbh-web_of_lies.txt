@@ -1,0 +1,34 @@
+```json
+{
+    "Identify the Core Statement": {
+        "Identify the primary statement or claim that needs to be validated or invalidated:"
+    },
+    "Break Down the Statements": {
+        "Dissect each person's statement into simpler, verifiable components:"
+    },
+    "Design a Truth-Testing Scheme": {
+        "Create a logical sequence of checks to determine who is telling the truth and who is lying:"
+    },
+    "Systematic Truth Verification": {
+        "List all statements, assume each is true one by one, and check for consistency with other statements to make progress:"
+    },
+    "Multi-Perspective Analysis": {
+        "Analyze each statement from different viewpoints, question the assumed truthfulness, and evaluate the consistency of each person's claim:"
+    },
+    "Creative Truth-Finding": {
+        "Generate innovative ways to validate or invalidate each statement, thinking beyond direct affirmations or negations:"
+    },
+    "Underlying Truth Factors": {
+        "Identify the hidden truths or lies that might be influencing each person's statement:"
+    },
+    "Decision-Making Under Uncertainty": {
+        "Determine if the problem requires making choices based on uncertain truth values, and navigate these uncertainties:"
+    },
+    "Step-by-Step Truth Evaluation": {
+        "Evaluate each statement step by step, assuming it's true and checking for contradictions:"
+    },
+    "Detailed Truth Plan": {
+        "Create a detailed, step-by-step plan to evaluate each statement, clearly outlining the logic and explanations behind each step:"
+    }
+}
+```

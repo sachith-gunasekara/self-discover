@@ -1,0 +1,45 @@
+```json
+{
+    "Identify the core issue": {
+        "Compare the source text and the translated text to identify discrepancies": {}
+    },
+    "Break down the problem": {
+        "Segment the translation into smaller parts (entities, values, modifiers, facts, content)": {}
+    },
+    "Gather relevant data": {
+        "Collect linguistic rules, contextual information, and additional translations": {}
+    },
+    "Identify underlying factors": {
+        "List potential error types (Named Entities, Numerical Values, Modifiers or Adjectives, Negation or Antonyms, Facts, Dropped Content)": {}
+    },
+    "Generate and test solutions": {
+        "Evaluate each error type against the source and translated texts to see which applies": {}
+    },
+    "Critical Thinking": {
+        "Analyze the translation from different linguistic perspectives (semantic, syntactic, pragmatic)": {},
+        "Question assumptions about the accuracy of each part and evaluate the evidence for each error type": {}
+    },
+    "Consider stakeholders": {
+        "Identify individuals (translators, subject matter experts) who can provide insights into the translation": {},
+        "Gather their perspectives on the potential error types": {}
+    },
+    "Define success metrics": {
+        "Establish clear criteria for evaluating the successful identification of the error type": {}
+    },
+    "Select indicators": {
+        "Choose specific indicators or examples from the text to validate the identified error type": {}
+    },
+    "Determine problem type": {
+        "Assess if the problem is related to linguistic knowledge or requires specific cultural or contextual understanding": {}
+    },
+    "Analyze data": {
+        "Perform a detailed comparison of text segments, categorization of errors, or other analytical techniques to identify the error type": {}
+    },
+    "Step-by-step reasoning": {
+        "Analyze the translation step by step, comparing each part with the source text": {}
+    },
+    "Create and implement a plan": {
+        "Make a step-by-step plan to compare each segment of the translation with the source text, identify potential errors, and categorize them accurately": {}
+    }
+}
+```

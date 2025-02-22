@@ -1,0 +1,101 @@
+Here is the operationalized reasoning plan in JSON format:
+
+```
+{
+  "Reasoning Plan": [
+    {
+      "Step 1: Analyze the Problem": {
+        "Identify the problem type": "",
+        "Determine the key elements": "",
+        "Understand the problem constraints": ""
+      }
+    },
+    {
+      "Step 2: Outline the Solution Strategy": {
+        "Determine the relevant mathematical concepts": "",
+        "Identify the necessary formulas or theorems": "",
+        "Decide on the solution approach": ""
+      }
+    },
+    {
+      "Step 3: Break Down the Problem": {
+        "Divide the problem into smaller sub-problems": "",
+        "Identify the key variables and relationships": "",
+        "Determine the necessary calculations or manipulations": ""
+      }
+    },
+    {
+      "Step 4: Apply Mathematical Concepts and Formulas": {
+        "Apply relevant mathematical formulas or theorems": "",
+        "Perform necessary calculations or manipulations": "",
+        "Simplify expressions or equations": ""
+      }
+    },
+    {
+      "Step 5: Evaluate and Refine the Solution": {
+        "Check the solution for errors or inconsistencies": "",
+        "Refine the solution as necessary": "",
+        "Verify the solution satisfies the problem constraints": ""
+      }
+    },
+    {
+      "Step 6: Draw Conclusions and Finalize the Answer": {
+        "Interpret the results in the context of the problem": "",
+        "Draw conclusions based on the solution": "",
+        "Finalize the answer in the required format": ""
+      }
+    }
+  ]
+}
+```
+
+Here is a more detailed and task-specific version:
+
+```
+{
+  "Reasoning Plan": [
+    {
+      "Step 1: Analyze the Problem": {
+        "Identify the problem type": "algebraic, geometric, or trigonometric",
+        "Determine the key elements": "variables, constants, equations, or functions",
+        "Understand the problem constraints": "domain, range, or specific conditions"
+      }
+    },
+    {
+      "Step 2: Outline the Solution Strategy": {
+        "Determine the relevant mathematical concepts": "equations, inequalities, functions, or geometry",
+        "Identify the necessary formulas or theorems": "algebraic, geometric, or trigonometric",
+        "Decide on the solution approach": "analytical, numerical, or graphical"
+      }
+    },
+    {
+      "Step 3: Break Down the Problem": {
+        "Divide the problem into smaller sub-problems": "simplifying expressions, solving equations, or finding patterns",
+        "Identify the key variables and relationships": "dependent and independent variables, or functional relationships",
+        "Determine the necessary calculations or manipulations": "algebraic manipulations, numerical calculations, or graphical analysis"
+      }
+    },
+    {
+      "Step 4: Apply Mathematical Concepts and Formulas": {
+        "Apply relevant mathematical formulas or theorems": "equations, inequalities, or functions",
+        "Perform necessary calculations or manipulations": "simplifying expressions, solving equations, or finding patterns",
+        "Simplify expressions or equations": "combining like terms, canceling out variables, or applying mathematical identities"
+      }
+    },
+    {
+      "Step 5: Evaluate and Refine the Solution": {
+        "Check the solution for errors or inconsistencies": "verifying calculations, checking units, or testing hypotheses",
+        "Refine the solution as necessary": "revising calculations, adjusting assumptions, or considering alternative approaches",
+        "Verify the solution satisfies the problem constraints": "checking domain, range, or specific conditions"
+      }
+    },
+    {
+      "Step 6: Draw Conclusions and Finalize the Answer": {
+        "Interpret the results in the context of the problem": "relating the solution to the original question or context",
+        "Draw conclusions based on the solution": "making inferences, identifying patterns, or predicting outcomes",
+        "Finalize the answer in the required format": "presenting the solution in a clear, concise, and well-organized manner"
+      }
+    }
+  ]
+}
+```

@@ -1,0 +1,34 @@
+```json
+{
+    "Determine the core order or sequence that needs to be determined": {
+        "Identify the main sequence to be established (e.g., oldest to newest, left to right)": {}
+    },
+    "Break down the ordering problem into smaller, more manageable comparisons": {
+        "List all given comparative statements": {},
+        "Identify key positional information (e.g., second-oldest, third from the left)": {}
+    },
+    "Analyze the problem from different perspectives": {
+        "Evaluate the information given about each object's position": {},
+        "Question initial assumptions about the order": {}
+    },
+    "Identify the underlying comparisons or relationships that contribute to the overall order": {
+        "Determine direct comparisons (e.g., A is older than B)": {},
+        "Determine indirect comparisons (e.g., A is older than B, B is older than C, therefore A is older than C)": {}
+    },
+    "Create a model of the sequence using logical techniques": {
+        "Use the given comparative information to establish partial orders": {},
+        "Combine partial orders to form a complete sequence": {}
+    },
+    "Evaluate the information for potential contradictions or gaps": {
+        "Check for consistency in the given statements": {},
+        "Resolve any contradictions or fill gaps in the ordering information": {}
+    },
+    "Make a step-by-step plan to establish the order": {
+        "Step 1: List all objects and their known positions": {},
+        "Step 2: Use direct comparisons to place objects in the sequence": {},
+        "Step 3: Use indirect comparisons to place remaining objects": {},
+        "Step 4: Verify the sequence for consistency with all given statements": {},
+        "Step 5: Identify the object that fits the query (e.g., oldest, rightmost)": {}
+    }
+}
+```

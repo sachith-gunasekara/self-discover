@@ -1,0 +1,42 @@
+```json
+{
+    "Brainstorm Solutions": {
+        "Generate a list of potential strategies and methods to solve the problem": {},
+        "Apply each one systematically to assess progress": {}
+    },
+    "Simplify the Problem": {
+        "Identify ways to reduce the complexity of the problem to make it more manageable": {}
+    },
+    "Break Down the Problem": {
+        "Divide the problem into smaller, more tractable components that can be addressed individually": {}
+    },
+    "Critical Thinking": {
+        "Analyze the problem from multiple perspectives": {},
+        "Question assumptions": {},
+        "Evaluate available information": {},
+        "Focus on logical reasoning and evidence-based decision-making to identify biases or flaws": {}
+    },
+    "Identify Core Issue": {
+        "Determine the central problem or issue that needs to be resolved": {}
+    },
+    "Underlying Causes": {
+        "Investigate the root causes or factors contributing to the problem": {}
+    },
+    "Relevant Data": {
+        "Identify any pertinent data or information that can provide insights into the problem": {},
+        "Determine available data sources and methods for analysis": {}
+    },
+    "Problem Type": {
+        "Classify the problem as either technical/practical (requiring specific expertise) or conceptual/theoretical": {}
+    },
+    "Analytical Problem": {
+        "Assess if the problem requires data analysis, modeling, or optimization techniques": {}
+    },
+    "Step-by-Step Thinking": {
+        "Approach the problem methodically, breaking it down into sequential steps": {}
+    },
+    "Step-by-Step Plan": {
+        "Create a detailed, step-by-step plan to solve the problem, ensuring each step is clearly explained and justified": {}
+    }
+}
+```
