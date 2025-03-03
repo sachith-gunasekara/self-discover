@@ -280,7 +280,11 @@ def phaseII(
     full_dataset = full_dataset.map(structure_response, num_proc=4)
 
     logger.info("Saving concatenated dataset.")
-    full_dataset.save_to_disk(here(os.path.join(save_dir, f"{benchmark}_eval")))
+    full_dataset.save_to_disk(
+        here(
+            os.path.join(save_dir, f"{benchmark}{f'-{subset}' if subset else ''}_eval")
+        )
+    )
 
     logger.info("Concatenated dataset contains {} instances.", len(full_dataset))
 
@@ -296,7 +300,7 @@ def phaseII(
     logger.info("Accuracy of {} - {}: {}", benchmark, subset, accuracy)
 
     # Log accuracy
-    with open(os.path.join(save_dir, f"{benchmark}.txt"), "w") as f:
+    with open(accuracy_file, "w") as f:
         f.write(f"Accuracy: {accuracy}\n")
 
     return accuracy
