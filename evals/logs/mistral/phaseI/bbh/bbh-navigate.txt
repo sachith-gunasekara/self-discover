@@ -1,24 +1,34 @@
 ```json
 {
-    "Break down the sequence of movements into smaller, more manageable segments": {
-        "Identify each movement and its direction and distance": {}
+    "Problem Decomposition": {
+        "Break down the sequence of movements into individual steps and direction changes": {}
     },
-    "Track the direction and distance traveled in each segment": {
-        "Initialize starting position": {},
-        "Update position after each movement": {}
+    "Perspective Analysis": {
+        "Consider the impact of each step and turn on the overall direction and distance from the starting point": {}
     },
-    "Analyze the sequence of movements from different perspectives": {
-        "Track changes in direction": {},
-        "Calculate net distance traveled": {}
+    "Assumption Questioning": {
+        "Challenge assumptions about the direction faced after turns and the net distance traveled": {}
     },
-    "Question assumptions about the initial direction or position": {
-        "Verify initial conditions": {}
+    "Evidence Evaluation": {
+        "Assess the cumulative effect of steps and turns based on the given instructions": {}
     },
-    "Evaluate the information available to determine the final position": {
-        "Summarize the net effect of all movements": {}
+    "Bias Identification": {
+        "Recognize patterns or biases in movements, such as repeatedly turning in one direction": {}
     },
-    "Determine if the final position is the same as the starting point": {
-        "Compare final position with starting position": {}
+    "Core Issue Identification": {
+        "Determine the net displacement and final direction relative to the starting point": {}
+    },
+    "Decision-Making Under Uncertainty": {
+        "Evaluate the uncertainty introduced by turns and resolve the final position accordingly": {}
+    },
+    "Competing Objectives": {
+        "Balance the need to track both distance and direction accurately": {}
+    },
+    "Step-by-Step Reasoning": {
+        "Sequentially process each instruction to update the current position and direction": {}
+    },
+    "Plan Formulation and Execution": {
+        "Create a step-by-step plan to track movements, and execute it with clear explanations for each step": {}
     }
 }
 ```

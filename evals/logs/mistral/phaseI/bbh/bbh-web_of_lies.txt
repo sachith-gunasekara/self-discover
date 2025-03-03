@@ -1,34 +1,28 @@
 ```json
 {
-    "Identify the Core Statement": {
-        "Identify the primary statement or claim that needs to be validated or invalidated:"
+    "Break down the sequence of statements": {
+        "Identify each person's statement and their implications one at a time."
     },
-    "Break Down the Statements": {
-        "Dissect each person's statement into simpler, verifiable components:"
+    "Evaluate each statement's truth value": {
+        "Make a list of possibilities (true or false) for each person's statement, starting with the initial person mentioned, and propagate the implications down the chain."
     },
-    "Design a Truth-Testing Scheme": {
-        "Create a logical sequence of checks to determine who is telling the truth and who is lying:"
+    "Critical Thinking: Logical Consistency": {
+        "Analyze the chain of statements for logical consistency. Identify any contradictions or inconsistencies that may arise from assuming a truth value for a particular statement."
     },
-    "Systematic Truth Verification": {
-        "List all statements, assume each is true one by one, and check for consistency with other statements to make progress:"
+    "Identify key assumptions": {
+        "Determine if each person is assumed to be telling the truth or lying, based on the given information."
     },
-    "Multi-Perspective Analysis": {
-        "Analyze each statement from different viewpoints, question the assumed truthfulness, and evaluate the consistency of each person's claim:"
+    "Consider alternative truth-value assignments": {
+        "Explore different scenarios by assigning alternative truth values to each person's statement and trace the implications."
     },
-    "Creative Truth-Finding": {
-        "Generate innovative ways to validate or invalidate each statement, thinking beyond direct affirmations or negations:"
+    "Identify the core statement to be evaluated": {
+        "Clearly state the final person's statement that needs to be verified as true or false."
     },
-    "Underlying Truth Factors": {
-        "Identify the hidden truths or lies that might be influencing each person's statement:"
+    "Step-by-step truth-value propagation": {
+        "Trace the implications of each person's statement step by step, from the first to the last person in the sequence."
     },
-    "Decision-Making Under Uncertainty": {
-        "Determine if the problem requires making choices based on uncertain truth values, and navigate these uncertainties:"
-    },
-    "Step-by-Step Truth Evaluation": {
-        "Evaluate each statement step by step, assuming it's true and checking for contradictions:"
-    },
-    "Detailed Truth Plan": {
-        "Create a detailed, step-by-step plan to evaluate each statement, clearly outlining the logic and explanations behind each step:"
+    "Create and execute a step-by-step plan": {
+        "Develop a clear plan to evaluate each statement systematically, and execute it with careful attention to logical dependencies and implications."
     }
 }
 ```

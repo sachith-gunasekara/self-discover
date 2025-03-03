@@ -1,34 +1,43 @@
 ```json
 {
-    "Identify the core date issue": {
-        "Determine the primary date or time-related question that needs to be answered": {}
+    "Core Issue Identification": {
+        "Identify the key date or time interval that needs to be determined": {}
     },
-    "Relevant date data": {
-        "Identify given dates, time intervals, or formats that can provide insights into the problem": {}
+    "Underlying Factors": {
+        "Identify relevant calendar rules, time units, or date formats that contribute to the problem": {}
     },
-    "Break down the date problem": {
-        "Dissect the problem into smaller, manageable parts, such as calculating days, months, or years separately": {}
+    "Data and Information": {
+        "Gather relevant calendar data or date formats that can provide insights": {}
     },
-    "Critical date analysis": {
-        "Analyze the problem from different temporal perspectives, question assumptions about dates, and evaluate the given date information": {}
+    "Problem Type": {
+        "Determine if the problem is about calculating a specific date or understanding calendar rules and formats": {}
     },
-    "Design a time-based experiment": {
-        "Create a step-by-step experimental process that involves manipulating dates and times to solve this problem": {}
+    "Problem Simplification": {
+        "Break down the date calculation into simpler, more manageable steps": {}
     },
-    "Systematic date problem-solving": {
-        "List all possible date calculation methods applicable to this problem, and test them one by one to see which leads to a solution": {}
+    "Problem Decomposition": {
+        "Divide the date problem into smaller parts, such as calculating individual time units (days, months, years) separately": {}
     },
-    "Step-by-step date reasoning": {
-        "Think through this date problem step by step, breaking it down into smaller calculations": {}
+    "Critical Thinking": {
+        "Analyze the date problem from different perspectives (e.g., considering leap years, month lengths), question assumptions about the calendar, and evaluate the given information": {}
     },
-    "Implement a step-by-step date plan": {
-        "Create a detailed, step-by-step plan for solving this date problem, explaining each part clearly and executing it precisely": {}
+    "Creative Thinking": {
+        "Explore unconventional ways to approach the date calculation, thinking beyond standard calendar rules, and encouraging innovative solutions": {}
     },
-    "Measure date progress": {
-        "Verify each step in solving the date problem or validate the final answer to ensure it is correct": {}
+    "Step-by-Step Thinking": {
+        "Break down the date calculation into clear, sequential steps": {}
     },
-    "Date-based decision-making": {
-        "If the problem involves choosing between different dates or time intervals, use strategies to help make the right choice": {}
+    "Step-by-Step Planning": {
+        "Create a detailed plan to solve the date problem, outlining each calculation step and explaining the reasoning behind it": {}
+    },
+    "Experiment Design": {
+        "Set up a hypothetical timeline or scenario to help solve this date-related problem": {}
+    },
+    "Idea Generation and Testing": {
+        "Brainstorm different approaches to calculate or determine the date, and try each one to see if it leads to a solution": {}
+    },
+    "Decision-Making": {
+        "Choose between multiple date options, using criteria to make an informed decision": {}
     }
 }
 ```

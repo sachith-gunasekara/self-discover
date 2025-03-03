@@ -28,14 +28,13 @@ CONFIG = {"configurable": {"thread_id": 1}, "callbacks": [langfuse_handler]}
 
 
 class SelfDiscoverState(TypedDict):
-    task_descriptions: list[str]
+    task_description: list[str]
     answer_formats: str
     task_examples: str
     selected_modules: str
     adapted_modules: str
     reasoning_structure: str
-    reasonings: Annotated[list[str], operator.add]
-    final_answers: list[str]
+    reasoning: Annotated[list[str], operator.add]
 
 
 class PhaseIIState(TypedDict):
@@ -105,7 +104,7 @@ def continue_to_reason(state: SelfDiscoverState):
                 "reasoning_structure": state["reasoning_structure"],
             },
         )
-        for task_description in state["task_descriptions"]
+        for task_description in state["task_description"]
     ]
 
 
@@ -115,7 +114,7 @@ def reason(state: PhaseIIState):
 
     result = chain.invoke(state)
 
-    return {"reasonings": [result]}
+    return {"reasoning": [result]}
 
 
 ### Compile graph with memory saver ###
@@ -193,7 +192,7 @@ def build_self_discover_phaseII_graph():
 
 
 def validate_params(
-    task_descriptions: list[str], model: BaseChatModel, answer_formats: str
+    task_description: list[str], model: BaseChatModel, answer_formats: str
 ):
     logger.debug("Validating parameters")
 
@@ -203,11 +202,11 @@ def validate_params(
             "The model must be an instance of BaseChatModel. Ensure you have defined your LangChain Chat Model properly."
         )
 
-    if not task_descriptions or not all(
-        isinstance(task, str) for task in task_descriptions
+    if not task_description or not all(
+        isinstance(task, str) for task in task_description
     ):
-        logger.error("Invalid task_descriptions: {}", task_descriptions)
-        raise ValueError("task_descriptions must be a non-empty list of strings.")
+        logger.error("Invalid task_description: {}", task_description)
+        raise ValueError("task_description must be a non-empty list of strings.")
 
     if not isinstance(answer_formats, str):
         logger.error("Invalid answer_formats type: {}", type(answer_formats))
@@ -254,25 +253,32 @@ def call_graph(state, phase, stream):
 
 ### Function to execute Self-Discover on a series of tasks
 def self_discover(
-    task_descriptions: list[str],
+    task_description: list[str],
     model: BaseChatModel,
+    reasoning_structure: str,
     answer_formats: str = "",
     phase: int = -1,
     stream: bool = False,
 ):
     logger.info("Starting self_discover")
-    validate_params(task_descriptions, model, answer_formats)
+    validate_params(task_description, model, answer_formats)
 
     Config.model = model
-    state = {
-        "task_descriptions": task_descriptions,
-        "task_examples": "\n".join(
-            random.sample(task_descriptions, min(5, len(task_descriptions)))
-        ),
-        "answer_formats": answer_formats,
-    }
 
-    config = {"configurable": {"thread_id": 1}, "callbacks": [langfuse_handler]}
+    if phase in (-1, 1):
+        state = {
+            "task_description": task_description,
+            "task_examples": "\n\n".join(
+                random.sample(task_description, min(10, len(task_description)))
+            ),
+            "answer_formats": answer_formats,
+        }
+    elif phase == 2:
+        state = {
+            "task_description": task_description,
+            "answer_formats": answer_formats,
+            "reasoning_structure": reasoning_structure,
+        }
 
     result = call_graph(state, phase, stream)
     logger.info("self_discover result: {}", result.keys())

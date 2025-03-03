@@ -1,25 +1,40 @@
 ```json
 {
-    "Analytical Problem Identification": {
-        "Identify the problem type": "Determine if the problem requires creating a systematic or mathematical representation, such as a ranking or ordering system, to analyze the relationships between objects."
+    "Break down the problem into smaller parts": {
+        "Identify each object and the relationships or comparisons given": {
+            "List these relationships separately": ""
+        }
     },
-    "Problem Decomposition": {
-        "Break down the problem": "Break down the ordering problem into smaller, more manageable parts, such as individual pairs or small groups of objects, to analyze their relationships one at a time."
+    "Critical Thinking": {
+        "Analyze the problem from different perspectives by focusing on each object's position or rank based on the given comparisons": {
+            "Question assumptions about their order and evaluate the information available to form a logical sequence": ""
+        }
     },
-    "Multi-Perspective Analysis": {
-        "Approach from different angles": "Consider the oldest/newest or leftmost/rightmost objects first, question initial assumptions, and evaluate the given information critically. Use logical reasoning and identify potential contradictions or ambiguities."
+    "Identify the core issue": {
+        "Determine what the main question is asking": ""
     },
-    "Design an Experiment": {
-        "Create a hypothetical scenario": "Create a hypothetical scenario or model to simulate the given conditions and test the logical consistency of the statements."
+    "Underlying causes/factors": {
+        "Identify the given comparisons or relationships that lead to the arrangement of the objects in a specific order": {
+            "These are the key factors that will help solve the problem": ""
+        }
     },
-    "Systematic Idea Testing": {
-        "Generate and evaluate orderings": "Generate a list of possible orderings based on initial insights, and evaluate each one against the given statements to check for consistency and progress."
+    "Decision-making/Planning": {
+        "Based on the comparisons given, decide on the most logical order of the objects": {
+            "Plan how to use the given information to deduce this order step by step": ""
+        }
     },
-    "Sequential Reasoning": {
-        "Analyze statements step by step": "Analyze the given statements one by one, building a consistent order step by step."
+    "Analytical approach": {
+        "Use logical deduction and sequential reasoning to analyze the data provided": {
+            "Model the problem as a sequence or ordering task, and optimize the solution by considering all given comparisons": ""
+        }
     },
-    "Detailed Plan Creation and Execution": {
-        "Create and execute a step-by-step plan": "Create a step-by-step plan to determine the correct order, ensuring each step is logically sound and clearly explained, and then implement this plan methodically."
+    "Step-by-step thinking": {
+        "Start with the most definitive piece of information (e.g., the cheapest, the newest, the leftmost) and gradually build the order of the objects based on the given comparisons": ""
+    },
+    "Step-by-step planning and implementation": {
+        "Create a plan that starts with the most clear-cut information, then use each comparison to determine the position of the other objects": {
+            "Implement this plan methodically, explaining each step based on the given information": ""
+        }
     }
 }
 ```

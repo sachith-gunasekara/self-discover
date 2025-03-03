@@ -1,27 +1,50 @@
 ```json
 {
-    "Core Problem Identification": {
-        "Identify the primary mathematical question or relationship that needs to be addressed": {}
+    "Brainstorm Solutions": {
+        "Generate a list of potential methods or approaches to solve the problem": {},
+        "Apply each method systematically to assess progress": {}
     },
-    "Problem Decomposition": {
-        "Divide the problem into smaller, more solvable components": {}
+    "Simplify the Problem": {
+        "Identify ways to reduce the complexity of the problem to make it more manageable": {}
     },
-    "Critical Mathematical Thinking": {
-        "Analyze the problem from different mathematical perspectives": {},
-        "Question assumptions and evaluate the given data": {},
-        "Identify potential mathematical errors or oversights": {}
+    "Break Down the Problem": {
+        "Divide the problem into smaller, more solvable parts or steps": {}
     },
-    "Data and Information Analysis": {
-        "Identify relevant mathematical formulas, theorems, or patterns": {},
-        "Apply the identified formulas, theorems, or patterns to the problem": {}
+    "Critical Thinking": {
+        "Analyze the problem from various angles, question assumptions, and evaluate available information": {},
+        "Focus on logical reasoning and evidence-based decision-making to identify biases or flaws": {}
     },
-    "Step-by-Step Reasoning": {
-        "Break down the solution into detailed, logical steps": {},
-        "Ensure each step is clearly explained and follows from the previous": {}
+    "Creative Thinking": {
+        "Generate innovative and unconventional solutions": {},
+        "Think beyond traditional boundaries and encourage imaginative and original approaches": {}
     },
-    "Step-by-Step Planning and Execution": {
-        "Create a detailed plan outlining each calculation or logical step required to solve the problem": {},
-        "Implement the plan with clear explanations": {}
+    "Identify Core Issue": {
+        "Determine the central problem or issue that needs to be addressed": {}
+    },
+    "Underlying Causes": {
+        "Identify the root causes or factors contributing to the problem": {}
+    },
+    "Anticipate Obstacles": {
+        "Predict potential challenges or obstacles that may arise during the problem-solving process": {}
+    },
+    "Data and Information": {
+        "Identify relevant data or information that can provide insights into the problem": {},
+        "Determine available data sources and methods for analysis": {}
+    },
+    "Measure Progress": {
+        "Define criteria for measuring or evaluating progress and success in solving the problem": {}
+    },
+    "Expertise Required": {
+        "Determine if the problem requires specific technical or practical expertise, or if it is more conceptual or theoretical": {}
+    },
+    "Analytical Problem": {
+        "Assess if the problem requires data analysis, modeling, or optimization techniques": {}
+    },
+    "Step-by-Step Thinking": {
+        "Approach the problem by breaking it down into sequential steps": {}
+    },
+    "Implement Step-by-Step Plan": {
+        "Create a detailed, step-by-step plan for solving the problem and implement it with clear explanations": {}
     }
 }
 ```

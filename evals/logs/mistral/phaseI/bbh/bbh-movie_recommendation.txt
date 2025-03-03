@@ -1,50 +1,43 @@
 ```json
 {
-    "Generate and Test Ideas": {
-        "Brainstorm a list of criteria or methods to find similar movies": {},
-        "Apply each method systematically to the given options": {}
+    "Design an experiment": {
+        "Create a comparison method to identify similarities between movies and the given options": {}
     },
-    "Break Down the Problem": {
-        "Identify key elements that make the reference movies unique": {},
-        "Compare these elements with the options provided": {}
+    "Systematic ideation": {
+        "List strategies to compare movies (e.g., genre, themes, actors) and apply them sequentially to find matches": {}
     },
-    "Critical Analysis": {
-        "Analyze the problem from different perspectives": {},
-        "Question assumptions about what makes movies similar": {},
-        "Evaluate the available information about each option critically": {}
+    "Problem decomposition": {
+        "Break down the movie comparison process into smaller tasks, like analyzing genre, themes, or critical acclaim": {}
     },
-    "Creative Association": {
-        "Think creatively about the connections between the reference movies": {},
-        "Consider unconventional similarities": {}
+    "Critical movie analysis": {
+        "Analyze movies from different perspectives (e.g., plot, characters, cinematography), question assumptions about genres, and evaluate available information": {}
     },
-    "Collaborative Filtering": {
-        "Seek input from others": {},
-        "Gain diverse perspectives": {},
-        "Identify common threads or unique aspects": {}
+    "Creative movie matching": {
+        "Generate innovative and unconventional ideas to find movie similarities, thinking beyond typical genre or actor matches": {}
     },
-    "Data-Driven Insights": {
-        "Look for relevant data or information": {},
-        "Identify available data sources": {},
-        "Analyze them to inform the decision": {}
+    "Collaborative movie selection": {
+        "Seek input from others, emphasize discussion, and leverage diverse movie knowledge and perspectives to find the best match": {}
     },
-    "Stakeholder Perspectives": {
-        "Consider the perspectives and needs of different stakeholders": {}
+    "Core movie similarity issue": {
+        "Identify the main characteristic or theme that needs to be matched between the given movies and the options": {}
     },
-    "Expertise Identification": {
-        "Determine if the problem requires specific expertise": {},
-        "Leverage that expertise to make an informed decision": {}
+    "Underlying movie factors": {
+        "Identify the key elements (e.g., genre, director, mood) contributing to the similarity between the movies": {}
     },
-    "Decision-Making Under Uncertainty": {
-        "Recognize that the problem involves decision-making under uncertainty": {},
-        "Use decision-making strategies to navigate these uncertainties": {}
+    "Relevant movie data": {
+        "Identify data sources (e.g., movie databases, reviews, trailers) available to provide insights into the movies, and how they can be analyzed": {}
     },
-    "Step-by-Step Analysis": {
-        "Approach the task step by step": {},
-        "Carefully consider each reference movie and how it compares to the available options": {}
+    "Affected movie stakeholders": {
+        "Identify the target audiences or fans of the given movies, and what are their preferences and needs": {}
     },
-    "Structured Plan": {
-        "Create a step-by-step plan to compare the reference movies with the options": {},
-        "Ensure a thorough and well-reasoned analysis of each possibility": {}
+    "Movie expertise requirement": {
+        "Determine if the problem is more about technical aspects (e.g., cinematography) or conceptual aspects (e.g., themes) when comparing movies": {}
+    },
+    "Movie decision-making": {
+        "Determine if the problem involves decision-making under uncertainty (e.g., limited movie information) or competing objectives (e.g., matching multiple aspects)": {}
+    },
+    "Step-by-step movie comparison": {
+        "Implement a step-by-step movie matching plan with clear explanations for each step": {}
     }
 }
 ```

@@ -1,31 +1,49 @@
 ```json
 {
-    "Decompose the Problem": {
-        "Parse the table": {},
-        "Isolate relevant columns": {},
-        "Identify the task type (e.g., finding maximum value, counting entries)": {}
+    "Identify Core Issue": {
+        "Understand the key question that needs to be answered using the data in the tables."
     },
-    "Identify and Analyze Relevant Data": {
-        "Determine relevant data from the table": {},
-        "Identify available data sources (the tables provided)": {}
+    "Understand Underlying Factors": {
+        "Identify the relevant columns or data points in the tables that will influence the solution to the problem."
     },
-    "Define Success Metrics": {
-        "Establish clear criteria for measuring progress or success": {}
+    "Break Down the Problem": {
+        "Divide the task into smaller steps, such as filtering, sorting, or aggregating the table data."
     },
-    "Select Appropriate Metrics": {
-        "Choose specific indicators or metrics that will help in evaluating the solution": {}
+    "Design an Experiment": {
+        "Structure a query or test to extract the necessary information from the given tables to solve the problem."
     },
-    "Determine Problem Type": {
-        "Assess whether the problem requires analytical techniques (e.g., data comparison, filtering, aggregation)": {}
+    "Gather Relevant Data": {
+        "Extract specific columns or rows in the tables that provide the necessary information."
     },
-    "Step-by-Step Reasoning": {
-        "Identify the relevant column": {},
-        "Compare the values": {},
-        "Select the correct option based on the comparison": {}
+    "Generate and Apply Ideas": {
+        "Brainstorm different approaches to query and manipulate the table data to solve the problem, and try each one systematically."
     },
-    "Create and Implement a Step-by-Step Plan": {
-        "Develop a detailed plan that outlines each step needed to solve the problem": {},
-        "Implement this plan with clear explanations for each step": {}
+    "Critical Thinking": {
+        "Analyze the table structure and data from different perspectives. Question assumptions about the data and evaluate the information available to make logical decisions."
+    },
+    "Decision-Making": {
+        "Choose the correct data or operation based on the table structure and the given question."
+    },
+    "Analytical Approach": {
+        "Perform calculations, comparisons, or other analytical methods on the table data."
+    },
+    "Track Progress": {
+        "Verify that the approach is getting closer to finding the correct answer from the table."
+    },
+    "Measure Progress": {
+        "Assess if the data manipulation steps are leading to the correct answer."
+    },
+    "Define Metrics": {
+        "Determine specific conditions or criteria from the table data to determine the correct answer."
+    },
+    "Identify Problem Type": {
+        "Determine if the problem requires data filtering, sorting, aggregation, or a combination of these operations on the table."
+    },
+    "Step-by-Step Thinking": {
+        "Break down the task into smaller data manipulation steps and address them one at a time."
+    },
+    "Create and Implement Plan": {
+        "Make a step-by-step plan to query and process the table data, and execute it with clear explanations."
     }
 }
 ```

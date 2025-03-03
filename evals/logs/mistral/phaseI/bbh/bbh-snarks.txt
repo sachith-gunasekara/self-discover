@@ -1,16 +1,22 @@
 ```json
 {
-    "Identify the core linguistic or contextual incongruity that suggests sarcasm": {
-        "Examine each statement step by step, comparing the literal meaning with the context and tone": {}
+    "Identify the core linguistic or contextual issue that needs to be addressed to determine sarcasm": {
+        "Analyze each statement from different perspectives, question literal interpretations, and evaluate the contextual or tonal evidence indicating sarcasm. Focus on identifying potential irony, exaggeration, or incongruity."
     },
-    "What are the key assumptions about the speaker's belief or attitude that underlie this problem?": {
-        "Analyze each statement for inconsistencies between the literal meaning and the implied attitude": {}
+    "Understand the underlying tonal, contextual, or linguistic factors contributing to the potential sarcasm in the statements": {
+        "Are there any relevant linguistic patterns, contextual clues, or common expressions that can provide insights into whether a statement is sarcastic? If yes, what are these clues, and how can they be analyzed?"
     },
-    "What are the alternative interpretations of these statements, considering both literal and non-literal meanings?": {
-        "Question assumptions about the speaker's sincerity and evaluate contextual clues that might indicate sarcasm": {}
+    "Consider the speakers or writers and those being addressed": {
+        "What are their likely intentions, perspectives, and expectations in this context?"
     },
-    "Critical Thinking: Analyze each statement for inconsistencies between the literal meaning and the implied attitude": {
-        "Let's make a step by step plan to analyze each option, considering the context, the speaker's likely intentions, and any incongruities that might indicate sarcasm": {}
+    "Evaluate statements where the literal meaning may not align with the intended meaning": {
+        "Does the task involve evaluating statements where the literal meaning may not align with the intended meaning, requiring an understanding of sarcasm's nuances?"
+    },
+    "Analyze each statement step by step, considering context, tone, and common sarcastic tropes": {
+        "Let's analyze each statement step by step, considering context, tone, and common sarcastic tropes."
+    },
+    "Make a step-by-step plan to evaluate each statement for sarcasm, using clear criteria and explaining the reasoning behind each assessment": {
+        "Let's make a step-by-step plan to evaluate each statement for sarcasm, using clear criteria and explaining the reasoning behind each assessment."
     }
 }
 ```

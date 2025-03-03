@@ -1,42 +1,119 @@
 ```json
 {
-    "Step-by-Step Reasoning": {
-        "Identify Core Mathematical Issue": {
-            "Description": "Determine the central mathematical question or problem that needs to be addressed."
-        },
-        "Problem Decomposition": {
-            "Description": "Break down the problem into smaller, more manageable sub-problems or steps."
-        },
-        "Critical Mathematical Analysis": {
-            "Description": "Analyze the problem from different mathematical perspectives, question assumptions, and evaluate the given information."
-        },
-        "Methodical Exploration": {
-            "Description": "Generate a list of mathematical techniques, theorems, or approaches that could be applied to the problem, and systematically attempt each one to make progress."
-        },
-        "Experimental Design": {
-            "Description": "Design a mathematical investigation or test cases to explore the behavior of the function or equation and gain insights into the problem."
-        },
-        "Data and Information Analysis": {
-            "Description": "Identify any relevant mathematical data, patterns, or information that can provide insights into the problem. Analyze available data sources mathematically."
-        },
-        "Root Cause Analysis": {
-            "Description": "Identify the underlying mathematical factors or causes contributing to the problem."
-        },
-        "Creative Mathematical Thinking": {
-            "Description": "Explore unconventional solutions, think beyond traditional mathematical techniques, and encourage innovative approaches to solve the problem."
-        },
-        "Systems Analysis": {
-            "Description": "Consider the problem as part of a larger mathematical system, identifying interconnected variables, underlying causes, and feedback loops that influence the problem, and develop holistic solutions that address the system as a whole."
-        },
-        "Expertise Identification": {
-            "Description": "Determine if the problem is primarily technical or practical, requiring specific mathematical skills or knowledge, or if it is more conceptual or theoretical in nature."
-        },
-        "Analytical Problem Identification": {
-            "Description": "Determine if the problem is an analytical one that requires mathematical techniques such as data analysis, modeling, or optimization."
-        },
-        "Detailed Solution Plan": {
-            "Description": "Create a step-by-step plan to solve the problem, ensuring each step is well-explained and logically coherent, and then implement this plan meticulously."
-        }
+    "Problem Decomposition": {
+        "Identify the core mathematical question or concept": {},
+        "Break down the problem into smaller, more manageable sub-problems or steps": {}
+    },
+    "Solution Ideation": {
+        "Generate a list of potential mathematical techniques or approaches to solve the problem": {},
+        "Apply them systematically": {}
+    },
+    "Experiment Design": {
+        "Design an experiment or test specific cases to gain insights into this mathematical problem": {}
+    },
+    "Critical Thinking": {
+        "Analyze the problem from different mathematical perspectives": {},
+        "Question assumptions": {},
+        "Evaluate the information given": {},
+        "Focus on logical reasoning": {},
+        "Identify potential mathematical errors or oversights": {}
+    },
+    "Creative Thinking": {
+        "Explore unconventional mathematical approaches": {},
+        "Think outside traditional boundaries": {},
+        "Consider innovative solutions": {}
+    },
+    "Collaborative Thinking": {
+        "Seek input from peers or mentors": {},
+        "Discuss different mathematical approaches": {},
+        "Leverage collective knowledge to solve the problem": {}
+    },
+    "Systems Thinking": {
+        "Consider the problem within a larger mathematical system": {},
+        "Identify underlying structures, interconnections, and dependencies that influence the problem": {}
+    },
+    "Risk Analysis": {
+        "Evaluate the feasibility and potential pitfalls of different mathematical approaches": {},
+        "Assess the likelihood of success and potential challenges": {}
+    },
+    "Reflective Thinking": {
+        "Reflect on the problem-solving process": {},
+        "Examine personal biases or assumptions": {},
+        "Learn from past mathematical experiences to improve future approaches": {}
+    },
+    "Core Issue Identification": {
+        "What is the fundamental mathematical question or concept that needs to be addressed?": {}
+    },
+    "Root Cause Analysis": {
+        "What are the underlying mathematical principles or factors contributing to the problem?": {}
+    },
+    "Prior Solutions": {
+        "Have similar problems been solved before?": {},
+        "If yes, what were the outcomes and lessons learned?": {}
+    },
+    "Potential Obstacles": {
+        "What mathematical challenges or complexities might arise while solving this problem?": {}
+    },
+    "Data Analysis": {
+        "Are there relevant mathematical theorems, formulas, or data that can provide insights into the problem?": {},
+        "If yes, how can they be applied?": {}
+    },
+    "Stakeholder Perspectives": {
+        "Are there different mathematical interpretations or needs that should be considered?": {}
+    },
+    "Resource Assessment": {
+        "What mathematical tools, techniques, or resources are needed to tackle the problem effectively?": {}
+    },
+    "Success Metrics": {
+        "How can progress or success in solving the problem be measured mathematically?": {}
+    },
+    "Evaluation Criteria": {
+        "What indicators or metrics can be used to evaluate the solution's correctness and efficiency?": {}
+    },
+    "Problem Classification": {
+        "Is the problem primarily computational, theoretical, or conceptual in nature?": {}
+    },
+    "Physical Constraints": {
+        "Does the problem involve constraints such as limited resources, infrastructure, or mathematical boundaries?": {}
+    },
+    "Behavioral Factors": {
+        "Does the problem involve human behavior, such as decision-making under uncertainty or psychological biases?": {}
+    },
+    "Decision-Making": {
+        "Does the problem require making choices under uncertainty or with competing objectives?": {}
+    },
+    "Analytical Nature": {
+        "Is the problem primarily analytical, requiring data analysis, modeling, or optimization techniques?": {}
+    },
+    "Design Challenge": {
+        "Does the problem require creative mathematical solutions and innovation?": {}
+    },
+    "Systemic Issues": {
+        "Does the problem involve addressing systemic or structural mathematical issues rather than just individual instances?": {}
+    },
+    "Time Sensitivity": {
+        "Is the problem time-sensitive or urgent, requiring immediate mathematical attention?": {}
+    },
+    "Typical Solutions": {
+        "What kinds of solutions are typically produced for this type of mathematical problem?": {}
+    },
+    "Alternative Solutions": {
+        "Given the problem specification and the current best solution, what other possible mathematical solutions could be explored?": {}
+    },
+    "Paradigm Shift": {
+        "If the current best solution is incorrect, what other ways are there to think about the problem specification?": {}
+    },
+    "Solution Modification": {
+        "How can the current best solution be modified or improved, given what is known about this type of mathematical problem?": {}
+    },
+    "Novel Solution": {
+        "Ignoring the current best solution, can an entirely new mathematical approach be created to solve the problem?": {}
+    },
+    "Step-by-Step Thinking": {
+        "Break down the problem into sequential steps and solve each step methodically": {}
+    },
+    "Detailed Plan": {
+        "Create a step-by-step plan with clear explanations and implement it systematically": {}
     }
 }
 ```

@@ -1,82 +1,56 @@
 ```json
 {
-    "Problem Decomposition": {
-        "Identify Core Problem": {
-            "Core Problem Identification": "Identify the main mathematical question or issue that needs to be addressed."
-        },
-        "Break Down Problem": {
-            "Problem Decomposition": "Break down the problem into smaller, more manageable parts or sub-problems."
-        }
+    "Generate a list of potential strategies": {
+        "tailored to the problem": {},
+        "systematically apply each strategy": {}
     },
-    "Data and Information Analysis": {
-        "Gather Relevant Data": {
-            "Data and Information Analysis": "Identify relevant mathematical data, formulas, or theorems that can provide insights into the problem."
-        },
-        "Analyze Data": {
-            "Data and Information Analysis": "Analyze the gathered data to understand its implications for the problem."
-        }
+    "Break down the problem": {
+        "into smaller, more manageable sub-problems or steps": {},
+        "Identify the key components that need to be addressed separately": {}
     },
-    "Systematic Problem Solving": {
-        "List Potential Approaches": {
-            "Systematic Problem Solving": "List all potential mathematical approaches or formulas that could be applied to this problem."
-        },
-        "Test Approaches": {
-            "Systematic Problem Solving": "Test each approach one by one to find the most effective solution."
-        }
+    "Apply critical thinking": {
+        "by analyzing the problem from different mathematical perspectives": {},
+        "Question assumptions": {},
+        "evaluate given information": {},
+        "identify potential mathematical principles or theories that could be applied": {}
     },
-    "Critical Mathematical Thinking": {
-        "Question Assumptions": {
-            "Critical Mathematical Thinking": "Question assumptions and evaluate given information."
-        },
-        "Ensure Logical Reasoning": {
-            "Critical Mathematical Thinking": "Ensure logical reasoning and evidence-based decision-making."
-        }
+    "Employ creative problem-solving techniques": {
+        "to generate unconventional solutions": {},
+        "Explore innovative approaches": {},
+        "think beyond traditional methods": {},
+        "encourage originality in applying mathematical concepts": {}
     },
-    "Creative Mathematical Thinking": {
-        "Explore Unconventional Solutions": {
-            "Creative Mathematical Thinking": "Explore unconventional solutions or approaches."
-        },
-        "Think Beyond Traditional Methods": {
-            "Creative Mathematical Thinking": "Think beyond traditional mathematical methods and encourage innovative ideas."
-        }
+    "Identify the core mathematical issue": {
+        "or problem that needs to be addressed": {},
+        "Determine the central question that must be answered or the main challenge that must be overcome": {}
     },
-    "Systems Analysis": {
-        "Consider Larger System": {
-            "Systems Analysis": "Consider the problem within a larger mathematical system."
-        },
-        "Identify Interdependencies": {
-            "Systems Analysis": "Identify underlying causes, interdependencies, and feedback loops that influence the problem."
-        }
+    "Identify relevant mathematical data or information": {
+        "that can provide insights into the problem": {},
+        "Determine available data sources": {},
+        "outline potential methods for analyzing this data to extract meaningful conclusions": {}
     },
-    "Root Cause Analysis": {
-        "Identify Underlying Factors": {
-            "Root Cause Analysis": "Identify the underlying mathematical factors or causes contributing to the problem."
-        }
+    "Define success criteria": {
+        "for solving the problem": {},
+        "Establish clear mathematical goals": {},
+        "determine how progress towards these goals can be measured or evaluated": {}
     },
-    "Success Metrics": {
-        "Measure Progress": {
-            "Success Metrics": "Measure or evaluate progress or success in solving the problem mathematically."
-        }
+    "Classify the problem": {
+        "as either technical (requiring specific mathematical skills or expertise) or conceptual (requiring theoretical understanding)": {},
+        "Identify the necessary mathematical tools or theories needed to solve the problem": {}
     },
-    "Problem Classification": {
-        "Classify Problem": {
-            "Problem Classification": "Classify the problem as primarily computational, conceptual, or analytical."
-        }
+    "Determine if the problem requires analytical methods": {
+        "such as data analysis, mathematical modeling, or optimization techniques": {},
+        "Identify appropriate analytical tools and techniques to apply": {}
     },
-    "Analytical Problem Identification": {
-        "Identify Analytical Problem": {
-            "Analytical Problem Identification": "Identify if the problem requires data analysis, mathematical modeling, or optimization techniques."
-        }
+    "Approach the problem step by step": {
+        "Outline a sequential plan to tackle the problem": {},
+        "breaking it down into ordered, manageable steps": {}
     },
-    "Step-by-Step Reasoning": {
-        "Approach Problem Step by Step": {
-            "Step-by-Step Reasoning": "Approach the problem step by step, ensuring each step logically follows from the previous one."
-        }
-    },
-    "Detailed Solution Planning": {
-        "Create Detailed Plan": {
-            "Detailed Solution Planning": "Create a detailed, step-by-step plan to solve the problem, ensuring each step is clearly explained and logically sound."
-        }
+    "Develop a step-by-step plan": {
+        "to solve the problem": {},
+        "ensuring each step is clearly defined and logically follows from the previous one": {},
+        "Implement the plan with clear explanations for each step": {},
+        "maintaining a structured approach throughout": {}
     }
 }
 ```

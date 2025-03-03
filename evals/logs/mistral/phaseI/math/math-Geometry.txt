@@ -1,93 +1,199 @@
 ```json
 {
     "Experiment Design": {
-        "Design a mathematical model": "Identify the key variables and relationships in the problem to create a mathematical model."
+        "Step 1": "Identify the key elements and relationships in the problem.",
+        "Step 2": "Break down the problem into smaller, manageable steps.",
+        "Step 3": "Determine the sequence of steps to solve the problem."
     },
-    "Systematic Problem Solving": {
-        "List potential approaches": "List all potential mathematical approaches or formulas that could be applied to this problem.",
-        "Test approaches one by one": "Test each approach systematically to find the most effective solution."
+    "Solution Ideation": {
+        "Step 1": "Generate a list of potential mathematical approaches or methods.",
+        "Step 2": "Evaluate each approach for feasibility and effectiveness.",
+        "Step 3": "Select the most promising approach and apply it systematically."
     },
     "Progress Tracking": {
-        "Identify interim steps": "Identify interim steps or milestones to track progress towards solving the problem."
+        "Step 1": "Define clear milestones or checkpoints in the problem-solving process.",
+        "Step 2": "Monitor progress against these milestones.",
+        "Step 3": "Adjust the approach as needed based on progress."
     },
     "Problem Simplification": {
-        "Break down the problem": "Break down or simplify the problem into smaller, more manageable parts or sub-problems."
+        "Step 1": "Identify complex elements of the problem.",
+        "Step 2": "Simplify these elements while preserving the essence of the problem.",
+        "Step 3": "Solve the simplified problem and then scale up to the original problem."
     },
     "Assumption Identification": {
-        "Identify key assumptions": "Identify the key mathematical assumptions or given information underlying this problem."
+        "Step 1": "List all given conditions and assumptions in the problem.",
+        "Step 2": "Evaluate the impact of each assumption on the solution.",
+        "Step 3": "Adjust assumptions if necessary to find a valid solution."
     },
-    "Critical Thinking in Mathematics": {
-        "Analyze from different perspectives": "Analyze the problem from different mathematical perspectives, question assumptions, and evaluate the mathematical evidence or information available.",
-        "Focus on logical reasoning": "Focus on logical reasoning, theorem application, and identifying potential mathematical errors or oversights."
+    "Risk and Drawback Analysis": {
+        "Step 1": "Identify potential pitfalls or limitations of each mathematical approach.",
+        "Step 2": "Evaluate the likelihood and impact of these risks.",
+        "Step 3": "Develop contingency plans to mitigate risks."
+    },
+    "Perspective Shifting": {
+        "Step 1": "Consider alternative mathematical viewpoints or interpretations.",
+        "Step 2": "Apply these viewpoints to the problem.",
+        "Step 3": "Evaluate the effectiveness of each perspective in solving the problem."
+    },
+    "Long-Term Implications": {
+        "Step 1": "Identify broader mathematical implications or extensions of the problem.",
+        "Step 2": "Evaluate the long-term impact of the solution.",
+        "Step 3": "Adjust the solution to maximize long-term benefits."
+    },
+    "Problem Decomposition": {
+        "Step 1": "Break down the problem into smaller, more solvable sub-problems or steps.",
+        "Step 2": "Solve each sub-problem independently.",
+        "Step 3": "Integrate the solutions to the sub-problems to solve the original problem."
+    },
+    "Critical Mathematical Thinking": {
+        "Step 1": "Analyze the problem from different mathematical perspectives.",
+        "Step 2": "Question assumptions and evaluate the logic or evidence available.",
+        "Step 3": "Identify potential flaws or biases in the reasoning."
     },
     "Creative Mathematical Thinking": {
-        "Explore unconventional solutions": "Explore unconventional mathematical solutions, think beyond traditional formulas or theories, and encourage innovative approaches to solve the problem."
+        "Step 1": "Explore unconventional or innovative mathematical ideas and solutions.",
+        "Step 2": "Think beyond traditional boundaries and encourage originality.",
+        "Step 3": "Evaluate the feasibility and effectiveness of creative solutions."
     },
-    "Collaborative Problem Solving": {
-        "Consult with peers or resources": "Consult with peers, mentors, or mathematical resources to gain different perspectives and collaboratively work towards a solution."
+    "Collaborative Problem-Solving": {
+        "Step 1": "Seek input and collaboration from others to solve the problem.",
+        "Step 2": "Emphasize teamwork, open communication, and leveraging diverse mathematical expertise.",
+        "Step 3": "Integrate feedback and ideas from collaborators into the solution."
     },
-    "Systems Analysis": {
-        "Consider the problem as part of a larger system": "Consider the problem as part of a larger mathematical system, identify interconnected elements, underlying causes, and feedback loops to develop a holistic solution."
+    "Systems Thinking": {
+        "Step 1": "Consider the problem as part of a larger mathematical system.",
+        "Step 2": "Identify underlying causes, interdependencies, and feedback loops that influence the problem.",
+        "Step 3": "Develop holistic solutions that address the systemic issues."
     },
-    "Risk Analysis in Mathematics": {
-        "Evaluate potential errors": "Evaluate potential mathematical errors, uncertainties, or trade-offs associated with different approaches or solutions to the problem."
+    "Risk Analysis": {
+        "Step 1": "Evaluate potential risks, uncertainties, and tradeoffs associated with different mathematical approaches or solutions.",
+        "Step 2": "Assess the likelihood of success or failure.",
+        "Step 3": "Make informed decisions based on risk analysis."
     },
-    "Reflective Mathematical Thinking": {
-        "Reflect on the problem-solving process": "Reflect on the problem-solving process, examine personal mathematical biases or assumptions, and be open to learning from past mathematical experiences to improve future approaches."
+    "Reflective Thinking": {
+        "Step 1": "Step back from the problem and reflect on personal biases, assumptions, and mental models that may influence problem-solving.",
+        "Step 2": "Learn from past experiences to improve future approaches.",
+        "Step 3": "Adjust the problem-solving approach based on reflection."
     },
     "Core Problem Identification": {
-        "Identify the main mathematical question": "Identify the main mathematical question or issue that needs to be addressed."
+        "Step 1": "Identify the central mathematical issue or problem that needs to be addressed.",
+        "Step 2": "Focus on solving the core problem.",
+        "Step 3": "Evaluate the solution to ensure it addresses the core problem."
     },
     "Root Cause Analysis": {
-        "Identify underlying principles": "Identify the underlying mathematical principles, theorems, or concepts contributing to the problem."
+        "Step 1": "Identify the underlying mathematical causes or factors contributing to the problem.",
+        "Step 2": "Analyze these causes to understand their impact on the problem.",
+        "Step 3": "Develop solutions that address the root causes."
     },
-    "Previous Solutions Analysis": {
-        "Analyze previous solutions": "Analyze any previous solutions, formulas, or theories that have been applied to similar problems. If yes, what were the outcomes and lessons learned?"
+    "Historical Solutions": {
+        "Step 1": "Review previous solutions or strategies that have been tried for similar problems.",
+        "Step 2": "Evaluate the outcomes and lessons learned from these solutions.",
+        "Step 3": "Apply the insights gained to the current problem."
     },
-    "Obstacle Anticipation": {
-        "Anticipate potential challenges": "Anticipate potential mathematical challenges or obstacles that might arise while solving this problem."
+    "Obstacle Identification": {
+        "Step 1": "Identify potential mathematical obstacles or challenges that might arise in solving the problem.",
+        "Step 2": "Evaluate the impact of these obstacles on the solution.",
+        "Step 3": "Develop strategies to overcome these obstacles."
     },
-    "Data Utilization": {
-        "Utilize relevant data": "Utilize any relevant mathematical data, formulas, or theorems that can provide insights into the problem. If yes, how can they be applied?"
+    "Data and Information Analysis": {
+        "Step 1": "Identify relevant data or information that can provide insights into the problem.",
+        "Step 2": "Analyze this data to extract meaningful information.",
+        "Step 3": "Use the insights gained to inform the solution."
     },
     "Stakeholder Perspectives": {
-        "Consider specific mathematical viewpoints": "Consider any specific mathematical viewpoints or needs that should be considered while solving the problem."
+        "Step 1": "Identify stakeholders or individuals directly affected by the problem.",
+        "Step 2": "Understand their mathematical perspectives and needs.",
+        "Step 3": "Incorporate stakeholder perspectives into the solution."
     },
-    "Resource Assessment": {
-        "Identify needed resources": "Identify the mathematical tools, techniques, or resources needed to effectively tackle the problem."
+    "Resource Allocation": {
+        "Step 1": "Identify the resources (mathematical tools, techniques, etc.) needed to tackle the problem effectively.",
+        "Step 2": "Allocate these resources appropriately.",
+        "Step 3": "Monitor and adjust resource allocation as needed."
     },
-    "Success Metrics": {
-        "Define key indicators": "Define how progress or success in solving the problem can be mathematically measured or evaluated. What are the key indicators or metrics?"
+    "Success Measurement": {
+        "Step 1": "Define clear criteria for measuring progress or success in solving the problem.",
+        "Step 2": "Monitor progress against these criteria.",
+        "Step 3": "Adjust the approach as needed based on success measurement."
+    },
+    "Metrics and Indicators": {
+        "Step 1": "Identify indicators or metrics that can be used to assess progress or success.",
+        "Step 2": "Monitor these metrics regularly.",
+        "Step 3": "Adjust the approach based on the metrics."
     },
     "Problem Classification": {
-        "Classify the problem": "Classify the problem as primarily computational, geometrical, algebraic, or related to another mathematical branch. Does it require a specific skill set or expertise?"
+        "Step 1": "Classify the problem as technical, practical, conceptual, or theoretical.",
+        "Step 2": "Determine the specific mathematical expertise or skill sets required.",
+        "Step 3": "Apply the appropriate expertise to solve the problem."
     },
-    "Constraint Identification": {
-        "Identify constraints": "Identify any physical, geometrical, or mathematical constraints that need to be considered."
+    "Physical Constraints": {
+        "Step 1": "Identify any physical constraints, such as limited resources, infrastructure, or space.",
+        "Step 2": "Evaluate the impact of these constraints on the solution.",
+        "Step 3": "Develop solutions that work within these constraints."
     },
-    "Behavioral Analysis": {
-        "Analyze human behavior": "Analyze if the problem involves mathematical modeling of human behavior, or if it is related to social, cultural, or psychological issues."
+    "Behavioral Factors": {
+        "Step 1": "Identify any behavioral factors, such as social, cultural, or psychological issues, related to the problem.",
+        "Step 2": "Evaluate the impact of these factors on the solution.",
+        "Step 3": "Develop solutions that address these factors."
     },
-    "Decision-Making Analysis": {
-        "Analyze decision-making": "Analyze if the problem involves mathematical decision-making, optimization, or planning under uncertainty or competing objectives."
+    "Decision-Making": {
+        "Step 1": "Identify choices that need to be made under uncertainty or with competing objectives.",
+        "Step 2": "Evaluate the potential outcomes of each choice.",
+        "Step 3": "Make informed decisions based on the evaluation."
     },
-    "Analytical Problem Identification": {
-        "Identify analytical problems": "Identify if the problem is primarily analytical, requiring data analysis, mathematical modeling, or optimization techniques."
+    "Analytical Problem": {
+        "Step 1": "Identify the need for data analysis, modeling, or optimization techniques.",
+        "Step 2": "Apply these techniques to the problem.",
+        "Step 3": "Evaluate the results and adjust the approach as needed."
     },
-    "Design Challenge Identification": {
-        "Identify design challenges": "Identify if the problem is a design challenge that requires creative mathematical solutions and innovations."
+    "Design Challenge": {
+        "Step 1": "Identify the need for creative mathematical solutions and innovation.",
+        "Step 2": "Apply design thinking and creative problem-solving techniques.",
+        "Step 3": "Evaluate the effectiveness of the design solutions."
     },
-    "Systemic Issue Identification": {
-        "Identify systemic issues": "Identify if the problem requires addressing systemic or structural mathematical issues rather than just individual instances."
+    "Systemic Issues": {
+        "Step 1": "Identify systemic or structural issues that need to be addressed.",
+        "Step 2": "Develop holistic solutions that address these issues.",
+        "Step 3": "Evaluate the effectiveness of the solutions in addressing systemic issues."
     },
-    "Urgency Assessment": {
-        "Assess urgency": "Assess if the problem is time-sensitive or urgent, requiring immediate mathematical attention and action."
+    "Time Sensitivity": {
+        "Step 1": "Identify the urgency or time sensitivity of the problem.",
+        "Step 2": "Prioritize actions based on time sensitivity.",
+        "Step 3": "Monitor progress and adjust the approach as needed."
+    },
+    "Typical Solutions": {
+        "Step 1": "Identify the kinds of solutions typically produced for this type of problem specification.",
+        "Step 2": "Evaluate the effectiveness of these typical solutions.",
+        "Step 3": "Apply the most effective typical solutions to the problem."
+    },
+    "Alternative Solutions": {
+        "Step 1": "Given the problem specification and the current best solution, hypothesize other possible solutions.",
+        "Step 2": "Evaluate the feasibility and effectiveness of these alternative solutions.",
+        "Step 3": "Select the best alternative solution and apply it to the problem."
+    },
+    "Solution Reevaluation": {
+        "Step 1": "Imagine the current best solution is incorrect.",
+        "Step 2": "Reevaluate the problem specification and consider alternative approaches.",
+        "Step 3": "Develop a new solution based on the reevaluation."
+    },
+    "Solution Modification": {
+        "Step 1": "Identify the best way to modify the current best solution, given what you know about these types of problem specifications.",
+        "Step 2": "Implement the modifications.",
+        "Step 3": "Evaluate the effectiveness of the modified solution."
+    },
+    "New Solution Creation": {
+        "Step 1": "Ignoring the current best solution, create an entirely new solution to the problem.",
+        "Step 2": "Evaluate the feasibility and effectiveness of the new solution.",
+        "Step 3": "Implement the new solution if it is more effective than the current best solution."
     },
     "Step-by-Step Planning": {
-        "Break down the problem into steps": "Break down the problem into a step-by-step mathematical plan, ensuring each step is clearly defined and logically follows from the previous one."
+        "Step 1": "Think step by step to solve the problem.",
+        "Step 2": "Break down the problem into smaller, manageable steps.",
+        "Step 3": "Develop a detailed plan for each step."
     },
     "Detailed Plan Implementation": {
-        "Implement the step-by-step plan": "Implement the step-by-step plan with clear mathematical notations, explanations, and justifications for each step."
+        "Step 1": "Make a step-by-step plan with clear explanations and notations.",
+        "Step 2": "Implement the plan step by step.",
+        "Step 3": "Monitor progress and adjust the plan as needed."
     }
 }
 ```

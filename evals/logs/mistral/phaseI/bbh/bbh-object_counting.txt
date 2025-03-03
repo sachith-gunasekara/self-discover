@@ -1,25 +1,24 @@
 ```json
 {
-    "Identify the main question or quantity that needs to be determined": {
-        "Step": "16"
+    "Identify the main question": {
+        "Determine what needs to be counted": "16"
     },
-    "Categorize or group the items mentioned to simplify the task": {
-        "Step": "9"
+    "Categorize the items in the list": {
+        "Identify different categories or types of items": "17",
+        "Look for specific keywords or patterns to help in categorizing": "20"
     },
-    "Identify and classify the specific items or objects mentioned based on the task's context": {
-        "Step": "20"
+    "Break down the list into smaller, more manageable groups based on their types": {
+        "Categorize items step by step": "9"
     },
-    "Create a step-by-step plan to classify and count the items, ensuring to explain which items are included and why": {
-        "Step": "39"
+    "Determine if the task involves counting physical objects or distinguishing between different types of items": {
+        "Identify the nature of the task": "25"
     },
-    "Identify and count the relevant items step by step": {
-        "Step": "38"
+    "Select and count items that belong to a specific category": {
+        "Count items based on their categories": "28"
     },
-    "Calculate the final count or total based on the classified items": {
-        "Step": "23"
-    },
-    "Determine the units or categories to quantify the final count": {
-        "Step": "24"
+    "Create a step-by-step plan to categorize and count the items accurately": {
+        "Identify and count the items step by step based on their categories": "38",
+        "Explain the process": "39"
     }
 }
 ```

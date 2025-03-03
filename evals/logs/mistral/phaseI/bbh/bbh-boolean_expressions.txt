@@ -1,25 +1,30 @@
 ```json
 {
-    "Identify the logical statement": {
-        "Parse the input statement to identify logical operators and operands": {}
+    "Identify the problem type": {
+        "Determine if the problem is a logical evaluation": {
+            "Check if the problem involves boolean operators, order of operations, or simplification techniques": {}
+        }
     },
-    "Break down the logical statement into smaller parts": {
-        "Identify and separate logical operators (and, or, not) and their operands": {}
+    "Break down the complex logical expression": {
+        "Divide the expression into smaller, more manageable parts": {}
     },
     "Simplify the logical expression": {
-        "Apply logical rules to simplify the expression, such as De Morgan's laws or distributive properties": {}
+        "Apply simplification techniques to make the expression easier to evaluate": {}
     },
-    "Evaluate the statement step by step": {
-        "Respect the order of operations for logical operators (not, and, or)": {}
+    "Design a logical experiment": {
+        "Plan how to evaluate the truth value of the expression": {}
     },
-    "Analyze the logical statement from different perspectives": {
-        "Question assumptions and evaluate the truth values step by step": {}
+    "Critical Thinking": {
+        "Analyze the logical expression from different perspectives": {},
+        "Question assumptions": {},
+        "Evaluate the operators and operands": {},
+        "Focus on logical reasoning and identify potential simplifications or errors": {}
     },
-    "Create a step-by-step plan to evaluate the statement": {
+    "Evaluate the expression step by step": {
+        "Follow the order of operations for boolean logic": {}
+    },
+    "Create a step-by-step plan": {
         "Clearly explain each step and the reasoning behind it": {}
-    },
-    "Determine the truth value of the statement": {
-        "Evaluate the final simplified expression to determine if it is True or False": {}
     }
 }
 ```

@@ -1,45 +1,43 @@
 ```json
 {
-    "Identify the core issue": {
-        "Compare the source text and the translated text to identify discrepancies": {}
+    "Identify key assumptions": {
+        "Description": "What are the assumed rules and patterns in translation that are expected to be consistent between the source and target texts?"
     },
     "Break down the problem": {
-        "Segment the translation into smaller parts (entities, values, modifiers, facts, content)": {}
-    },
-    "Gather relevant data": {
-        "Collect linguistic rules, contextual information, and additional translations": {}
-    },
-    "Identify underlying factors": {
-        "List potential error types (Named Entities, Numerical Values, Modifiers or Adjectives, Negation or Antonyms, Facts, Dropped Content)": {}
-    },
-    "Generate and test solutions": {
-        "Evaluate each error type against the source and translated texts to see which applies": {}
+        "Description": "How can I segment the sentences in the source and translated texts into smaller components (e.g., entities, numerical values, modifiers) to compare them more effectively?"
     },
     "Critical Thinking": {
-        "Analyze the translation from different linguistic perspectives (semantic, syntactic, pragmatic)": {},
-        "Question assumptions about the accuracy of each part and evaluate the evidence for each error type": {}
+        "Description": "Analyze the translation from different linguistic perspectives (e.g., semantic, syntactic, contextual). Question the accuracy of each component in the translation and evaluate the evidence based on the source text."
     },
-    "Consider stakeholders": {
-        "Identify individuals (translators, subject matter experts) who can provide insights into the translation": {},
-        "Gather their perspectives on the potential error types": {}
+    "Identify the core issue": {
+        "Description": "What is the primary discrepancy between the source and the translated text that needs to be addressed?"
     },
-    "Define success metrics": {
-        "Establish clear criteria for evaluating the successful identification of the error type": {}
+    "Identify underlying causes": {
+        "Description": "What are the potential reasons or patterns in the text that led to the specific translation error?"
     },
-    "Select indicators": {
-        "Choose specific indicators or examples from the text to validate the identified error type": {}
+    "Relevant data and analysis": {
+        "Description": "What specific words, phrases, or data in the source and translated texts are crucial for identifying the error? How can these be compared or analyzed systematically?"
     },
-    "Determine problem type": {
-        "Assess if the problem is related to linguistic knowledge or requires specific cultural or contextual understanding": {}
+    "Stakeholder perspectives": {
+        "Description": "Consider the viewpoints of both the source language speaker and the target language speaker. How might they interpret the texts differently?"
     },
-    "Analyze data": {
-        "Perform a detailed comparison of text segments, categorization of errors, or other analytical techniques to identify the error type": {}
+    "Expertise required": {
+        "Description": "Does identifying the error require specific linguistic or domain knowledge? What skills are necessary to accurately pinpoint the issue?"
     },
-    "Step-by-step reasoning": {
-        "Analyze the translation step by step, comparing each part with the source text": {}
+    "Analytical problem": {
+        "Description": "Does the problem require a detailed textual analysis or comparison technique to identify the error type accurately?"
     },
-    "Create and implement a plan": {
-        "Make a step-by-step plan to compare each segment of the translation with the source text, identify potential errors, and categorize them accurately": {}
+    "Step-by-step thinking": {
+        "Description": "Let's compare each component of the source and translated texts step by step to identify any inconsistencies."
+    },
+    "Step-by-step plan": {
+        "Description": "Create a detailed plan to compare each part of the source text with the translated text, noting any differences and categorizing them into the given error types."
+    },
+    "Design an experiment": {
+        "Description": "How can I create a systematic approach to identify the specific type of error in the translation by comparing the source and target texts?"
+    },
+    "Generate and apply solutions": {
+        "Description": "List all possible error types and check each one against the source and translated texts to see which one applies."
     }
 }
 ```

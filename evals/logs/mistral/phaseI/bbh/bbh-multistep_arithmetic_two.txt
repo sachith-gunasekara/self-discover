@@ -1,27 +1,22 @@
 ```json
 {
-    "Simplify the Expression": {
-        "Combine like terms": {},
-        "Apply basic arithmetic rules": {},
-        "Use the order of operations (PEMDAS/BODMAS)": {}
+    "Break down the mathematical expression into smaller, more manageable calculations": {
+        "Identify and separate each arithmetic operation within the expression": {}
     },
-    "Break Down the Expression": {
-        "Use parentheses": {},
-        "Address each operation or group of operations one at a time": {}
+    "Determine if the problem involves arithmetic operations with competing objectives": {
+        "Check for mixed signs and parentheses": {}
     },
-    "Identify Analytical Techniques": {
-        "Apply distribution": {},
-        "Apply factoring": {},
-        "Simplify expressions involving variables": {}
+    "Identify if the problem requires following the order of operations (PEMDAS/BODMAS)": {
+        "Analyze the expression for the presence of parentheses, exponents, multiplication, division, addition, and subtraction": {}
     },
-    "Step-by-Step Approach": {
-        "Follow the order of operations": {},
-        "Show each calculation clearly": {}
+    "Solve the expression step by step, following the order of operations": {
+        "Perform calculations inside parentheses first": {},
+        "Handle exponents next": {},
+        "Perform multiplication and division from left to right": {},
+        "Perform addition and subtraction from left to right": {}
     },
-    "Create a Detailed Plan": {
-        "Explain each step clearly": {},
-        "Ensure logical flow from previous step": {},
-        "Adhere to mathematical rules and principles": {}
+    "Create a step-by-step plan to solve the expression": {
+        "Implement each calculation with clear explanations": {}
     }
 }
 ```

@@ -1,36 +1,23 @@
 ```json
 {
-    "Problem Decomposition": {
-        "Break down the sequence of swaps or trades into individual steps": {
-            "Track the changes for each relevant person or item at each stage": ""
-        }
+    "Break down the problem": {
+        "Identify the initial state of each person and their respective partner or item.": {},
+        "List each swap or trade chronologically.": {}
     },
-    "Perspective Analysis": {
-        "Consider the problem from the perspective of each participant or item involved": {
-            "Trace their individual journeys throughout the swaps or trades": ""
-        }
+    "Identify the core question": {
+        "Determine who or what is the focus at the end of the sequence of swaps or trades.": {}
     },
-    "Assumption Questioning": {
-        "Verify that each swap or trade has been executed as stated": {
-            "Ensure no additional changes have occurred between the given steps": ""
-        }
+    "Review past solutions": {
+        "Consider if there are any patterns or strategies from previous similar problems that can be applied, and what was learned from them.": {}
     },
-    "Evidence Evaluation": {
-        "Maintain a record of the initial and final states": {
-            "Record the changes at each step": "",
-            "Ensure all information is used and the final answer is directly derived from the recorded evidence": ""
-        }
+    "Check for decision-making or planning": {
+        "Recognize if the problem involves tracking changes and making sequential updates based on given rules.": {}
     },
-    "Step-by-Step Processing": {
-        "Explicitly outline each swap or trade in sequential order": {
-            "Update the status of the relevant participants or items at each step": ""
-        }
+    "Step-by-step breakdown": {
+        "Carefully go through each swap or trade one at a time, updating the status of each person and their respective partner or item.": {}
     },
-    "Detailed Planning and Execution": {
-        "Create a clear, step-by-step plan to track the changes": {
-            "Implement this plan while providing thorough explanations for each step": "",
-            "Ensure the final state is accurately determined": ""
-        }
+    "Create and implement a step-by-step plan": {
+        "Develop a clear strategy to track each swap or trade methodically, ensuring each step is logically followed and documented.": {}
     }
 }
 ```

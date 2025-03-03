@@ -1,34 +1,31 @@
 ```json
 {
-    "Step 1: Core Causal Issue": {
-        "Identify the key causal relationship or question that needs to be addressed:"
+    "Identify Key Assumptions": {
+        "Identify the key assumptions and given rules underlying this causation problem": {}
     },
-    "Step 2: Problem Decomposition": {
-        "Break down the causality problem into smaller, more manageable parts, such as individual actions, events, or factors:"
+    "Break Down the Problem": {
+        "Break down this causation scenario into a sequence of events or conditions": {}
     },
-    "Step 3: Assumption Analysis": {
-        "Identify implicit or explicit assumptions about responsibility, causality, or normal behavior in this problem:"
+    "Critical Thinking": {
+        "Analyze the causation problem from different perspectives, question assumptions, and evaluate the evidence": {}
     },
-    "Step 4: Perspective Shifting": {
-        "Consider alternative viewpoints or interpretations of the events, actions, and responsibilities in this problem:"
+    "Identify Underlying Factors": {
+        "Identify the underlying causes, actions, or factors contributing to the outcome in this causation problem": {}
     },
-    "Step 5: Underlying Causal Factors": {
-        "Identify the contributing events, actions, or conditions that led to the outcome:"
+    "Anticipate Obstacles": {
+        "Identify potential obstacles or challenges that might arise in determining the cause of the outcome": {}
     },
-    "Step 6: Stakeholder Analysis": {
-        "Identify the individuals directly or indirectly affected by the actions or outcomes in the problem. Consider their perspectives, responsibilities, and potential contributions to the outcome:"
+    "Human Behavior Consideration": {
+        "Consider if the problem involves human behavior, such as decisions made by individuals that may affect the outcome": {}
     },
-    "Step 7: Critical Causal Thinking": {
-        "Analyze the problem from different perspectives, question causal assumptions, and evaluate the evidence or information available. Focus on identifying the direct and indirect causes, and avoiding biases in reasoning:"
+    "Decision-Making Analysis": {
+        "Analyze if the problem involves decision-making under uncertainty or with competing objectives that could influence the outcome": {}
     },
-    "Step 8: Decision-Making under Uncertainty": {
-        "Assess responsibility or causality under uncertainty or with competing objectives:"
+    "Step-by-Step Reasoning": {
+        "Think through the sequence of events step by step to determine the cause": {}
     },
-    "Step 9: Step-by-Step Causal Analysis": {
-        "Analyze the sequence of events or actions leading to the outcome step by step:"
-    },
-    "Step 10: Causal Chain Planning": {
-        "Create a step-by-step plan to trace the causal chain, evaluating each link carefully with clear explanations:"
+    "Implementation Plan": {
+        "Create a step-by-step plan to analyze the causation problem, considering all factors and explaining each step clearly": {}
     }
 }
 ```

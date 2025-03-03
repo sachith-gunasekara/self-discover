@@ -1,49 +1,119 @@
 ```json
 {
-    "Experiment Design": {
-        "Set up a mathematical or logical experiment to explore and solve this problem": {}
-    },
-    "Systematic Problem Solving": {
-        "Generate a list of mathematical techniques or approaches applicable to this problem, and apply them one by one to see if progress can be made": {}
-    },
-    "Progress Tracking": {
-        "Measure and monitor progress towards solving this problem, such as identifying intermediate steps or milestones": {}
-    },
-    "Problem Decomposition": {
-        "Break down this problem into smaller, more manageable mathematical or logical parts": {}
-    },
-    "Critical Thinking": {
-        "Analyze the problem from different mathematical perspectives, question assumptions, and evaluate the given information or data. Focus on logical reasoning, evidence-based decision-making, and identifying potential mathematical errors or biases": {}
-    },
-    "Creative Thinking": {
-        "Explore unconventional mathematical solutions, think beyond traditional boundaries, and encourage innovative and original approaches": {}
-    },
-    "Systems Thinking": {
-        "Consider the problem as part of a larger mathematical system, understanding the interconnectedness of various elements. Focus on identifying underlying causes, feedback loops, and interdependencies that influence the problem, and develop holistic solutions that address the system as a whole": {}
+    "Problem Classification": {
+        "Determine the type of problem": {
+            "Identify if the problem is technical, practical, conceptual, theoretical, etc.": "",
+            "Determine the expertise required": ""
+        }
     },
     "Core Issue Identification": {
-        "Identify the main mathematical or logical problem that needs to be addressed": {}
+        "Clearly define the central problem or issue": ""
+    },
+    "Problem Decomposition": {
+        "Divide the problem into smaller, manageable parts or sub-problems": ""
+    },
+    "Step-by-Step Planning": {
+        "Break down the problem-solving process into clear, sequential steps": ""
+    },
+    "Implementation Plan": {
+        "Create a detailed plan with clear explanations and steps for implementation": ""
+    },
+    "Solution Ideation": {
+        "Brainstorm a list of potential solutions": "",
+        "Systematically apply them to the problem to track progress": ""
+    },
+    "Progress Metrics": {
+        "Define clear criteria to measure and evaluate advancements made towards solving the problem": ""
+    },
+    "Success Metrics": {
+        "Define how progress or success in solving the problem will be measured and evaluated": ""
+    },
+    "Performance Indicators": {
+        "Identify specific indicators or metrics to track progress and success": ""
+    },
+    "Assumption Analysis": {
+        "Identify and examine the key assumptions that underlie the problem": ""
+    },
+    "Risk Assessment": {
+        "Evaluate the potential risks, drawbacks, and limitations of each proposed solution": ""
+    },
+    "Perspective Analysis": {
+        "Consider alternative viewpoints, approaches, or interpretations of the problem": ""
+    },
+    "Long-term Implications": {
+        "Analyze the long-term effects and consequences of both the problem and its potential solutions": ""
+    },
+    "Critical Thinking": {
+        "Apply logical reasoning, question assumptions, evaluate evidence, and identify biases to analyze the problem thoroughly": ""
+    },
+    "Creative Thinking": {
+        "Generate innovative, unconventional, and original ideas to approach the problem from unique angles": ""
+    },
+    "Collaborative Thinking": {
+        "Engage with others to leverage diverse perspectives, expertise, and collaborative problem-solving strategies": ""
+    },
+    "Systems Thinking": {
+        "Consider the problem within a larger system, identifying interconnections, underlying causes, and holistic solutions": ""
+    },
+    "Risk Analysis": {
+        "Assess potential risks, uncertainties, and trade-offs associated with different solutions, balancing risks and benefits": ""
+    },
+    "Reflective Thinking": {
+        "Reflect on personal biases, assumptions, and past experiences to improve problem-solving approaches": ""
     },
     "Root Cause Analysis": {
-        "Identify the underlying mathematical or logical causes or factors contributing to the problem": {}
+        "Identify the underlying causes or factors contributing to the problem": ""
     },
-    "Data and Information Analysis": {
-        "Identify any relevant data, formulas, or theorems that can provide insights into the problem. Analyze and apply them": {}
+    "Historical Solutions": {
+        "Review past solutions or strategies that have been attempted and analyze their outcomes and lessons learned": ""
+    },
+    "Obstacle Identification": {
+        "Anticipate potential obstacles or challenges that may arise during the problem-solving process": ""
+    },
+    "Data Analysis": {
+        "Identify relevant data sources, gather data, and analyze it to gain insights into the problem": ""
     },
     "Stakeholder Analysis": {
-        "Identify any specific mathematical or logical conditions, constraints, or requirements that need to be considered": {}
+        "Identify stakeholders affected by the problem and consider their perspectives and needs": ""
     },
-    "Expertise Identification": {
-        "Determine if the problem is primarily technical or practical, requiring specific mathematical or logical skills or knowledge. Or is it more conceptual or theoretical": {}
+    "Resource Assessment": {
+        "Determine the resources (financial, human, technological, etc.) required to effectively address the problem": ""
     },
-    "Analytical Problem Identification": {
-        "Determine if the problem is primarily analytical, requiring data analysis, mathematical modeling, or optimization techniques": {}
+    "Physical Constraints": {
+        "Assess if the problem involves physical constraints such as limited resources, infrastructure, or space": ""
     },
-    "Step-by-Step Reasoning": {
-        "Approach this problem step by step, ensuring each step logically follows from the previous one": {}
+    "Behavioral Factors": {
+        "Consider if the problem is related to human behavior, such as social, cultural, or psychological issues": ""
     },
-    "Action Plan Development": {
-        "Create a step-by-step plan to solve this problem, ensuring each step is well-explained and logically sound": {}
+    "Decision-Making": {
+        "Evaluate if the problem involves decision-making under uncertainty or with competing objectives": ""
+    },
+    "Analytical Approach": {
+        "Determine if the problem requires data analysis, modeling, or optimization techniques": ""
+    },
+    "Design Challenge": {
+        "Assess if the problem is a design challenge that requires creative solutions and innovation": ""
+    },
+    "Systemic Issues": {
+        "Evaluate if the problem involves systemic or structural issues that need to be addressed holistically": ""
+    },
+    "Time Sensitivity": {
+        "Determine if the problem is time-sensitive or urgent, requiring immediate attention and action": ""
+    },
+    "Typical Solutions": {
+        "Identify the types of solutions typically produced for this kind of problem specification": ""
+    },
+    "Alternative Solutions": {
+        "Based on the problem specification and current best solution, brainstorm other possible solutions": ""
+    },
+    "Paradigm Shift": {
+        "Imagine the current best solution is incorrect; explore alternative ways to think about the problem": ""
+    },
+    "Solution Modification": {
+        "Identify the best way to modify the current best solution based on known problem specifications": ""
+    },
+    "New Solution Creation": {
+        "Develop an entirely new solution to the problem, ignoring the current best solution": ""
     }
 }
 ```

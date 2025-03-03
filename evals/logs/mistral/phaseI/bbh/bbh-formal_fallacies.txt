@@ -1,33 +1,28 @@
 ```json
 {
     "Identify Key Assumptions": {
-        "Explicit Premises": "Identify the explicitly stated premises in the argument.",
-        "Implicit Premises": "Identify any implicit assumptions that the argument relies on."
+        "Identify the key premises or given statements that the argument relies on": {}
     },
     "Break Down the Argument": {
-        "Logical Steps": "Deconstruct the argument into smaller logical steps or components."
+        "Deconstruct the argument into smaller logical steps or components": {}
     },
     "Critical Analysis": {
-        "Evaluate Premises": "Evaluate each premise for logical consistency.",
-        "Identify Fallacies": "Identify any logical fallacies or gaps in the argument."
+        "Analyze the argument from different logical perspectives, question the assumptions, and evaluate the inferential steps for validity. Focus on identifying any logical fallacies or gaps": {}
     },
-    "Core Logical Issue": {
-        "Main Logical Relationship": "Identify the main logical relationship or principle that the argument hinges on."
+    "Core Problem Identification": {
+        "Identify the main conclusion or claim that the argument is trying to establish": {}
     },
     "Underlying Logical Structures": {
-        "Logical Rules": "Identify the logical rules or forms (e.g., modus ponens, modus tollens) that underpin the argument."
+        "Identify the logical relationships (e.g., if-then, not, and, or) between the premises and the conclusion": {}
     },
-    "Decision-Making or Planning": {
-        "Evaluate Choices": "Evaluate choices or planning based on logical inferences if applicable."
+    "Decision-Making Under Uncertainty": {
+        "Identify any implicit or uncertain elements that need to be made explicit or addressed": {}
     },
-    "Analytical Problem": {
-        "Structured Analysis": "Perform a structured analysis of logical statements or relationships if required."
+    "Step-by-Step Logical Progression": {
+        "Evaluate each step of the argument individually to ensure it follows logically from the previous steps": {}
     },
-    "Step-by-Step Reasoning": {
-        "Logical Consistency": "Evaluate each step of the argument individually for logical consistency."
-    },
-    "Structured Plan": {
-        "Step-by-Step Plan": "Create a step-by-step plan to analyze the argument, ensuring each step is logically sound and clearly explained."
+    "Structured Evaluation Plan": {
+        "Create a step-by-step plan to assess the argument's validity, ensuring each part is well-explained and logically sound": {}
     }
 }
 ```

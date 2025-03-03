@@ -1,52 +1,39 @@
 ```json
 {
-    "Determine the Core Mathematical Issue": {
-        "Identify the main mathematical question or problem that needs to be addressed": {}
+    "Step 1: Problem Identification": {
+        "Core Problem Identification": "Identify the key mathematical question or issue that needs to be addressed.",
+        "Expertise Identification": "Determine if the problem is primarily computational or conceptual.",
+        "Analytical Problem Identification": "Identify if the problem requires data analysis, mathematical modeling, or optimization techniques."
     },
-    "Understand Underlying Mathematical Factors": {
-        "Identify the mathematical principles, rules, or factors contributing to the problem": {}
+    "Step 2: Data and Information Analysis": {
+        "Data and Information Analysis": "Identify relevant mathematical principles, theorems, or data that can provide insights into the problem."
     },
-    "Design an Experiment": {
-        "Set up a mathematical or logical scenario to explore and solve this problem": {}
+    "Step 3: Problem Simplification": {
+        "Problem Simplification": "Simplify the problem by reducing complex expressions, substituting variables, or breaking down equations."
     },
-    "Problem Decomposition": {
-        "Break down the mathematical problem into smaller, simpler steps or sub-problems": {}
+    "Step 4: Problem Decomposition": {
+        "Problem Decomposition": "Break down the problem into smaller, more manageable mathematical sub-problems or steps."
     },
-    "Methodical Problem Solving": {
-        "List down potential mathematical approaches or formulas, and apply them systematically to the problem": {}
+    "Step 5: Systematic Problem Solving": {
+        "Systematic Problem Solving": "Generate a list of mathematical techniques or approaches applicable to this problem, and apply them systematically to make progress."
     },
-    "Mathematical Critical Thinking": {
-        "Analyze the problem from different mathematical perspectives, question assumptions, and evaluate the given information": {}
+    "Step 6: Critical Thinking in Mathematics": {
+        "Critical Thinking in Mathematics": "Analyze the problem from different mathematical perspectives, question assumptions, and evaluate the given information. Focus on logical reasoning, mathematical principles, and identifying potential errors."
     },
-    "Creative Mathematical Thinking": {
-        "Explore unconventional solutions, think beyond traditional mathematical approaches, and encourage innovative ideas": {}
+    "Step 7: Creative Mathematical Thinking": {
+        "Creative Mathematical Thinking": "Explore unconventional mathematical approaches, think beyond traditional methods, and encourage innovative solutions."
     },
-    "Systems Thinking in Mathematics": {
-        "Consider the problem within a larger mathematical system, understanding interconnected variables and dependencies": {}
+    "Step 8: Systems Thinking in Mathematics": {
+        "Systems Thinking in Mathematics": "Consider the problem as part of a larger mathematical system. Identify underlying structures, patterns, or relationships that influence the problem, and develop holistic solutions."
     },
-    "Relevant Mathematical Data": {
-        "Identify any relevant mathematical data or information that can provide insights into the problem": {}
+    "Step 9: Detailed Solution Planning": {
+        "Detailed Solution Planning": "Create a detailed, step-by-step plan to solve the problem, ensuring each step is well-explained and logically sound."
     },
-    "Progress Tracking": {
-        "Monitor progress towards solving this problem, perhaps by checking intermediate results": {}
+    "Step 10: Step-by-Step Reasoning": {
+        "Step-by-Step Reasoning": "Solve the problem step by step, ensuring each step logically follows from the previous one."
     },
-    "Mathematical Progress Evaluation": {
-        "Measure or evaluate progress or success in solving the problem using mathematical metrics": {}
-    },
-    "Mathematical Indicators": {
-        "Identify mathematical indicators or metrics to track progress": {}
-    },
-    "Decision-Making in Mathematics": {
-        "Determine if the problem involves decision-making or planning under uncertainty, with competing objectives or constraints": {}
-    },
-    "Analytical Mathematical Problem": {
-        "Determine if the problem is analytical, requiring data analysis, mathematical modeling, or optimization techniques": {}
-    },
-    "Step-by-Step Mathematical Reasoning": {
-        "Solve the problem step by step, ensuring each step logically follows from the previous": {}
-    },
-    "Detailed Mathematical Plan": {
-        "Create a detailed step-by-step plan to solve the problem, ensuring each step is well-explained and logically sound": {}
+    "Step 11: Experiment Design": {
+        "Experiment Design": "Design a mathematical experiment or test specific cases to gain insights into this problem."
     }
 }
 ```

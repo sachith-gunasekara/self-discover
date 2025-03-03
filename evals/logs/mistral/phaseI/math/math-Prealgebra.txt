@@ -1,42 +1,61 @@
 ```json
 {
-    "Brainstorm Solutions": {
-        "Generate a list of potential strategies and methods to solve the problem": {},
-        "Apply each one systematically to assess progress": {}
+    "Experiment Design": {
+        "Step 1": "Identify the core mathematical issue or question that needs to be addressed.",
+        "Step 2": "Break down the problem into smaller, more manageable sub-problems or steps.",
+        "Step 3": "Generate a list of potential mathematical approaches or methods.",
+        "Step 4": "Apply each method one by one to the problem to see if any progress can be made."
     },
-    "Simplify the Problem": {
-        "Identify ways to reduce the complexity of the problem to make it more manageable": {}
+    "Systematic Solution Exploration": {
+        "Step 1": "Identify relevant mathematical data, formulas, or theorems that can provide insights into the problem.",
+        "Step 2": "Apply each formula or theorem to the problem to see if it simplifies or solves the problem.",
+        "Step 3": "Evaluate the results of each application to determine the best approach."
     },
-    "Break Down the Problem": {
-        "Divide the problem into smaller, more tractable components that can be addressed individually": {}
+    "Problem Simplification": {
+        "Step 1": "Identify any assumptions or simplifications that can be made to reduce the complexity of the problem.",
+        "Step 2": "Apply these simplifications to the problem.",
+        "Step 3": "Evaluate if the simplified problem retains the essence of the original problem."
     },
-    "Critical Thinking": {
-        "Analyze the problem from multiple perspectives": {},
-        "Question assumptions": {},
-        "Evaluate available information": {},
-        "Focus on logical reasoning and evidence-based decision-making to identify biases or flaws": {}
+    "Problem Decomposition": {
+        "Step 1": "Break down the problem into smaller, more manageable sub-problems or steps.",
+        "Step 2": "Solve each sub-problem or step methodically.",
+        "Step 3": "Combine the solutions of the sub-problems to solve the original problem."
     },
-    "Identify Core Issue": {
-        "Determine the central problem or issue that needs to be resolved": {}
+    "Critical Thinking in Mathematics": {
+        "Step 1": "Analyze the problem from different mathematical perspectives.",
+        "Step 2": "Question assumptions and evaluate the information given.",
+        "Step 3": "Focus on logical reasoning, mathematical principles, and identifying potential errors or oversights."
     },
-    "Underlying Causes": {
-        "Investigate the root causes or factors contributing to the problem": {}
+    "Creative Mathematical Thinking": {
+        "Step 1": "Explore unconventional solutions.",
+        "Step 2": "Think beyond traditional mathematical boundaries.",
+        "Step 3": "Encourage innovative and original approaches to the problem."
     },
-    "Relevant Data": {
-        "Identify any pertinent data or information that can provide insights into the problem": {},
-        "Determine available data sources and methods for analysis": {}
+    "Systems Thinking in Mathematics": {
+        "Step 1": "Consider the problem as part of a larger mathematical system.",
+        "Step 2": "Identify underlying causes, interdependencies, and feedback loops that influence the problem.",
+        "Step 3": "Develop holistic solutions that address the system as a whole."
     },
-    "Problem Type": {
-        "Classify the problem as either technical/practical (requiring specific expertise) or conceptual/theoretical": {}
+    "Core Problem Identification": {
+        "Step 1": "Identify the central mathematical issue or question that needs to be addressed."
     },
-    "Analytical Problem": {
-        "Assess if the problem requires data analysis, modeling, or optimization techniques": {}
+    "Data and Information Analysis": {
+        "Step 1": "Identify relevant mathematical data, formulas, or theorems that can provide insights into the problem.",
+        "Step 2": "Apply these data, formulas, or theorems to the problem."
     },
-    "Step-by-Step Thinking": {
-        "Approach the problem methodically, breaking it down into sequential steps": {}
+    "Expertise Identification": {
+        "Step 1": "Determine if the problem is primarily computational, requiring specific mathematical skills, or more conceptual, requiring theoretical understanding."
     },
-    "Step-by-Step Plan": {
-        "Create a detailed, step-by-step plan to solve the problem, ensuring each step is clearly explained and justified": {}
+    "Analytical Problem Identification": {
+        "Step 1": "Determine if the problem requires data analysis, mathematical modeling, or optimization techniques."
+    },
+    "Step-by-Step Reasoning": {
+        "Step 1": "Approach the problem by breaking it down into sequential steps.",
+        "Step 2": "Solve each step methodically."
+    },
+    "Detailed Solution Planning": {
+        "Step 1": "Create a step-by-step plan to solve the problem.",
+        "Step 2": "Ensure each step is well-explained and logically follows from the previous one."
     }
 }
 ```
