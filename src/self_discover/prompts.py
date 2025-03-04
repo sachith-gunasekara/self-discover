@@ -102,7 +102,8 @@ Implement a reasoning structure for solvers to follow step-by-step and arrive at
 Some additional guidelines:
 - Do NOT discover reasoning structures seperately for each task example, instead operationalize them such that the discovered reasoning structure can solve tasks like those above.
 - Do NOT provide explanations, only the discovered reasoning structure.
-"""
+- You MUST only discover ONE reasoning structure for the above tasks, and NO alternative structures are expected.
+""" # This last guideline is only for llama
 
 ### Phase II ###
 

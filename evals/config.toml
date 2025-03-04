@@ -2,5 +2,5 @@
 model_type = "llama"
 
 [EVAL]
-batch_size = 10
+batch_size = 2
 wait_time = 30
