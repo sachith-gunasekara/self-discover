@@ -3,4 +3,4 @@ model_type = "mistral"
 
 [EVAL]
 batch_size = 10
-wait_time = 30
+wait_time = 1

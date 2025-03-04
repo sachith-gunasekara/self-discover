@@ -4,7 +4,7 @@ from tqdm import tqdm
 t4d = (
     lambda y_i, y_pred_i: y_pred_i
     and y_i in y_pred_i
-    and y_i == str(y_pred_i.translate(str.maketrans("", "", "."))[2:])
+    and y_i == str(y_pred_i.translate(str.maketrans("", "", ".'"))[2:])
 )
 bbh = lambda y_i, y_pred_i: y_pred_i and y_i.translate(
     str.maketrans("", "", "()")

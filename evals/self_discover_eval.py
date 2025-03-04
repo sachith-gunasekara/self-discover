@@ -264,7 +264,7 @@ def phaseII(
         )
 
         logger.info(
-            "Finished processing batch {}-{} of the dataset {}, subset().",
+            "Finished processing batch {}-{} of the dataset {}, {}.",
             start_idx,
             end_idx,
             dataset_name,
@@ -342,9 +342,15 @@ def main(phase: int = -1, stream: bool = True):
                         break
 
                 except Exception as e:
-                    # Check for the specific Bearer token error
-                    if "Rate limit exceeded" in str(e):
-                        wait_time = 10
+                    error_messages = [
+                        "Rate limit exceeded",
+                        "Requests rate limit exceeded",
+                        "Server disconnected without sending a response",
+                        "Error response 502",
+                        "The read operation timed out",
+                    ]
+                    if any(msg in str(e) for msg in error_messages):
+                        wait_time = config["EVAL"]["wait_time"]
                         logger.error(
                             f"Rate limit exceeded. Waiting for {wait_time} minutes."
                         )
