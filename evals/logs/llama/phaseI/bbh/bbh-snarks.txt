@@ -1,0 +1,33 @@
+Here's a step-by-step reasoning plan in JSON format for identifying sarcasm in statements:
+
+```
+{
+    Analyze the tone and language of the statements: {
+        Identify words or phrases with strong emotional connotations:,
+        Check for irony, understatement, or exaggeration:,
+        Look for inconsistencies between what is said and what is meant:,
+    },
+    Simplify the language and context of the statements: {
+        Remove any unnecessary words or phrases:,
+        Identify the main point or message of the statement:,
+        Consider the context in which the statement is made:,
+    },
+    Consider alternative interpretations or perspectives: {
+        Think about the opposite of what is explicitly stated:,
+        Look for subtle cues or implications:,
+        Consider the statement from different viewpoints:,
+    },
+    Evaluate the intent behind the words: {
+        Question the purpose of the statement:,
+        Consider the tone and language used:,
+        Look for evidence of sarcasm, such as irony or understatement:,
+    },
+    Compare the statements to identify the sarcastic one: {
+        Look for differences in tone, language, and intent:,
+        Consider the context and main point of each statement:,
+        Choose the statement that is most likely to be sarcastic:,
+    },
+}
+```
+
+This reasoning plan can be applied to tasks like the ones provided above to identify the sarcastic statement.

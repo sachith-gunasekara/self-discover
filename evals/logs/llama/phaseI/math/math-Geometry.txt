@@ -1,0 +1,96 @@
+Here are the operationalized reasoning plans in JSON format:
+
+```
+{
+  "Reasoning Plan for Geometric Problems": {
+    "Step 1: Understand the Problem": {
+      "Identify the key elements of the problem": "",
+      "Determine the objective of the problem": ""
+    },
+    "Step 2: Identify Relevant Geometric Properties": {
+      "Identify relevant theorems, formulas, or concepts": "",
+      "Determine the relationships between variables or geometric shapes": ""
+    },
+    "Step 3: Break Down the Problem": {
+      "Divide the problem into smaller, more manageable parts": "",
+      "Analyze individual components or relationships": ""
+    },
+    "Step 4: Apply Geometric Reasoning": {
+      "Use geometric properties, theorems, or formulas to solve the problem": "",
+      "Make logical deductions and connections between components": ""
+    },
+    "Step 5: Calculate the Solution": {
+      "Perform calculations to arrive at the solution": "",
+      "Check the solution for accuracy and completeness": ""
+    }
+  },
+  "Reasoning Plan for Measurement and Data Problems": {
+    "Step 1: Understand the Problem": {
+      "Identify the key elements of the problem": "",
+      "Determine the objective of the problem": ""
+    },
+    "Step 2: Identify Relevant Measurement and Data Concepts": {
+      "Identify relevant formulas, concepts, or techniques": "",
+      "Determine the relationships between variables or data": ""
+    },
+    "Step 3: Break Down the Problem": {
+      "Divide the problem into smaller, more manageable parts": "",
+      "Analyze individual components or relationships": ""
+    },
+    "Step 4: Apply Measurement and Data Reasoning": {
+      "Use measurement and data concepts, formulas, or techniques to solve the problem": "",
+      "Make logical deductions and connections between components": ""
+    },
+    "Step 5: Calculate the Solution": {
+      "Perform calculations to arrive at the solution": "",
+      "Check the solution for accuracy and completeness": ""
+    }
+  },
+  "Reasoning Plan for Trigonometry Problems": {
+    "Step 1: Understand the Problem": {
+      "Identify the key elements of the problem": "",
+      "Determine the objective of the problem": ""
+    },
+    "Step 2: Identify Relevant Trigonometric Concepts": {
+      "Identify relevant formulas, identities, or techniques": "",
+      "Determine the relationships between variables or trigonometric functions": ""
+    },
+    "Step 3: Break Down the Problem": {
+      "Divide the problem into smaller, more manageable parts": "",
+      "Analyze individual components or relationships": ""
+    },
+    "Step 4: Apply Trigonometric Reasoning": {
+      "Use trigonometric concepts, formulas, or identities to solve the problem": "",
+      "Make logical deductions and connections between components": ""
+    },
+    "Step 5: Calculate the Solution": {
+      "Perform calculations to arrive at the solution": "",
+      "Check the solution for accuracy and completeness": ""
+    }
+  },
+  "Reasoning Plan for Circle and Coordinate Geometry Problems": {
+    "Step 1: Understand the Problem": {
+      "Identify the key elements of the problem": "",
+      "Determine the objective of the problem": ""
+    },
+    "Step 2: Identify Relevant Circle and Coordinate Geometry Concepts": {
+      "Identify relevant formulas, concepts, or techniques": "",
+      "Determine the relationships between variables or geometric shapes": ""
+    },
+    "Step 3: Break Down the Problem": {
+      "Divide the problem into smaller, more manageable parts": "",
+      "Analyze individual components or relationships": ""
+    },
+    "Step 4: Apply Circle and Coordinate Geometry Reasoning": {
+      "Use circle and coordinate geometry concepts, formulas, or techniques to solve the problem": "",
+      "Make logical deductions and connections between components": ""
+    },
+    "Step 5: Calculate the Solution": {
+      "Perform calculations to arrive at the solution": "",
+      "Check the solution for accuracy and completeness": ""
+    }
+  }
+}
+```
+
+Note that these plans are not mutually exclusive, and solvers may need to combine elements from multiple plans to solve a particular problem. Additionally, these plans are not exhaustive, and solvers may need to use additional reasoning strategies or techniques to solve certain problems.
