@@ -1,0 +1,75 @@
+(A), (A) The quail is the rightmost.
+(E), B.
+(C), D.
+(A), (A) Eve finished first.
+(A), (A) The truck is the third-newest.
+(A), (A) The blue book is the leftmost.
+(D), (A) The truck is the second-oldest.
+(A), (A) The brown book is the third from the left.
+(A), (A) The watermelons are the cheapest.
+(A), (A) The yellow book is the rightmost.
+(A), (A) Mel finished first.
+(A), B.
+(E), B.
+(E), C.
+(D), C.
+(E), B.
+(E), D.
+(D), B.
+(A), (A) The truck is the oldest.
+(E), D.
+(E), B.
+(A), D.
+(B), E.
+(C), D.
+(C), D.
+(C), D.
+(E), C.
+(A), (A) The oranges are the most expensive.
+(A), (A) The owl is the leftmost.
+(E), B.
+(B), C.
+(A), (A) The blue book is the rightmost.
+(A), (A) The black book is the leftmost.
+(A), (A) The green book is the rightmost.
+(A), (A) The owl is the second from the left.
+(D), (D) The station wagon is the oldest.
+(D), B.
+(D), E.
+(A), (A) The robin is the rightmost.
+(A), C.
+(B), (A) The gray book is the third from the left.
+(E), C.
+(A), (A) Joe finished second.
+(A), (A) Rob finished last.
+(D), B.
+(E), (A) The blue jay is the second from the right.
+(A), (A) The bus is the oldest.
+(C), B.
+(A), (A) The sedan is the second-newest.
+(B), C.
+(B), D.
+(C), A.
+(E), B.
+(A), (A) The gray book is the second from the left.
+(C), E.
+(D), B.
+(D), B.
+(C), B.
+(B), A.
+(E), (A) The tractor is the second-oldest.
+(A), (A) Amy finished third.
+(A), (A) The cardinal is the leftmost.
+(E), C.
+(E), B.
+(A), (A) The tractor is the oldest.
+(D), (D) The bus is the oldest.
+(D), C.
+(A), C.
+(C), E.
+(A), (A) The watermelons are the third-most expensive.
+(A), (A) The station wagon is the newest.
+(A), (A) The blue book is the leftmost.
+(A), (A) The falcon is the leftmost.
+(A), (A) The oranges are the cheapest.
+(A), (A) The raven is the leftmost.

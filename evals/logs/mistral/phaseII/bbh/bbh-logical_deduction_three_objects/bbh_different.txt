@@ -1,0 +1,86 @@
+(A), B.
+(C), B.
+(A), (A) The orange book is the second from the left.
+(A), (A) The hummingbird is the leftmost.
+(A), (A) The sedan is the oldest.
+(A), (A) The truck is the newest.
+(A), (A) The owl is the rightmost.
+(A), (A) The red book is the leftmost.
+(C), (C) The blue book is the leftmost.
+(C), (C) The quail is the leftmost.
+(A), (A) The gray book is the leftmost.
+(C), (C) The apples are the second-most expensive.
+(A), B.
+(A), (A) The loquats are the most expensive.
+(A), (A) The mangoes are the most expensive.
+(A), (A) The blue book is the rightmost.
+(A), (A) Mel finished last.
+(A), (A) The hummingbird is the leftmost.
+(A), B.
+(A), (A) The cantaloupes are the cheapest.
+(A), (A) The green book is the leftmost.
+(A), (A) The robin is the second from the left.
+(A), (A) The convertible is the second-newest.
+(C), B.
+(B), C.
+(C), (C) The apples are the cheapest.
+(A), (A) The plums are the second-most expensive.
+(C), B.
+(C), B.
+(A), (A) The black book is the leftmost.
+(A), (A) The motorcycle is the second-newest.
+(A), (A) The hatchback is the second-newest.
+(A), (A) The yellow book is the rightmost.
+(C), (C) The blue book is the rightmost.
+(A), (A) Eve finished first.
+(A), (A) The sedan is the oldest.
+(A), (A) Amy finished last.
+(A), B.
+(A), (A) The yellow book is the leftmost.
+(A), (A) The purple book is the rightmost.
+(A), (A) Amy finished first.
+(C), B.
+(A), (A) The station wagon is the second-newest.
+(C), B.
+(A), C.
+(A), (A) Ana finished last.
+(A), (A) Ana finished last.
+(A), B.
+(A), (A) The green book is the leftmost.
+(C), B.
+(A), (A) The blue jay is the rightmost.
+(C), B.
+(A), (A) The purple book is the rightmost.
+(C), (C) The orange book is the rightmost.
+(C), B.
+(C), B.
+(A), (A) Joe finished last.
+(B), (B) The yellow book is the leftmost.
+(A), (A) The robin is the rightmost.
+(A), (A) The hummingbird is the leftmost.
+(A), (A) The peaches are the most expensive.
+(C), (C) The sedan is the oldest.
+(A), (A) The red book is the second from the left.
+(C), B.
+(C), (C) The orange book is the second from the left.
+(A), B.
+(A), (A) The loquats are the most expensive.
+(C), (A) The hawk is the second from the left.
+(C), B.
+(A), B.
+(A), (A) The orange book is the leftmost.
+(A), (A) The motorcycle is the oldest.
+(A), B.
+(A), (A) The pears are the second-most expensive.
+(A), (A) The tractor is the second-newest.
+(C), (C) The limousine is the oldest.
+(A), (A) Eli finished first.
+(A), B.
+(A), (A) The quail is the leftmost.
+(A), (A) The apples are the cheapest.
+(A), B.
+(A), (A) The convertible is the newest.
+(A), (A) The orange book is the leftmost.
+(A), (A) The hawk is the second from the left.
+(A), (A) The cantaloupes are the second-most expensive.
+(A), B.

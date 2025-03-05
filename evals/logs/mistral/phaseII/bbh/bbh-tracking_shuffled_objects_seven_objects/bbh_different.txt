@@ -1,0 +1,119 @@
+(A), (A) striker.
+(E), (E) black ball.
+(F), (G) Izzi.
+(E), D.
+(A), E.
+(G), B.
+(B), (B) Lola.
+(D), (F) right winger.
+(A), E.
+(G), F.
+(F), D.
+(E), (E) Hound of the Baskervilles.
+(G), (G) Rodrigo.
+(G), (G) cheerleader.
+(E), (E) black ball.
+(C), (C) purple ball.
+(C), D.
+(F), B.
+(G), (G) yellow present.
+(A), (A) green present.
+(A), C.
+(C), (C) right midfielder.
+(C), (C) white present.
+(G), (G) The Odyssey.
+(G), (G) center midfielder.
+(D), (D) Patrick.
+(C), B.
+(E), (E) fullback.
+(A), B.
+(E), D.
+(C), B.
+(B), D.
+(E), (E) Hound of the Baskervilles.
+(G), C.
+(A), (A) left midfielder.
+(B), (B) Rodrigo.
+(D), (D) red ball.
+(D), (D) purple ball.
+(G), (G) left midfielder.
+(F), (F) orange ball.
+(A), B.
+(E), F.
+(D), B.
+(B), (B) Rodrigo.
+(A), C.
+(G), (G) The Pearl.
+(G), (G) yellow present.
+(A), (A) black ball.
+(A), (A) orange ball.
+(B), (B) orange ball.
+(A), (A) Lolita.
+(B), (B) orange ball.
+(F), C.
+(C), G.
+(C), D.
+(G), F.
+(G), (G) blue present.
+(E), B.
+(F), D.
+(F), G.
+(E), (E) blue ball.
+(A), (A) goalkeeper.
+(D), (D) Rodrigo.
+(A), F.
+(A), B.
+(G), B.
+(E), D.
+(F), D.
+(B), (B) green present.
+(F), E.
+(G), B.
+(A), C.
+(D), (D) Karl.
+(A), B.
+(C), B.
+(E), (G) Frankenstein.
+(C), (C) orange ball.
+(A), (A) purple ball.
+(G), D.
+(A), (A) blue present.
+(A), (A) Frankenstein.
+(E), D.
+(E), (E) pink ball.
+(A), (A) blue present.
+(C), B.
+(D), G.
+(F), (A) benchwarmer.
+(G), B.
+(F), (F) Patrick.
+(B), (B) striker.
+(E), D.
+(C), (C) Lola.
+(D), (D) brown present.
+(F), B.
+(A), (A) Moby Dick.
+(B), D.
+(A), (A) The Odyssey.
+(C), D.
+(A), C.
+(A), B.
+(E), B.
+(B), G.
+(A), (A) orange ball.
+(C), (C) red ball.
+(D), B.
+(C), D.
+(F), (F) right midfielder.
+(C), D.
+(G), (G) Melissa.
+(A), (A) right winger.
+(G), D.
+(A), (A) Patrick.
+(F), B.
+(C), (C) brown ball.
+(A), D.
+(A), (A) The Pearl.
+(A), G.
+(G), (G) brown present.
+(D), (D) purple present.

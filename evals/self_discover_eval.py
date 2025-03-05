@@ -288,6 +288,10 @@ def phaseII(
 
     logger.info("Concatenated dataset contains {} instances.", len(full_dataset))
 
+    if benchmark == "math":
+        logger.warning("Skipping accuracy calculation for Math dataset.")
+        return
+
     logger.info("Calculating accuracy")
 
     accuracy = calculate_accuracy(

@@ -1,0 +1,99 @@
+(A), (A) Modifiers or Adjectives.
+(A), D.
+(F), D.
+(F), D.
+(A), D.
+(F), (F) Facts.
+(F), D.
+(C), (A) Modifiers or Adjectives.
+(C), (A) Modifiers or Adjectives.
+(F), D.
+(F), D.
+(B), F.
+(D), E.
+(C), (A) Modifiers or Adjectives.
+(A), (A) Modifiers or Adjectives.
+(A), E.
+(F), D.
+(D), F.
+(C), F.
+(F), D.
+(C), (A) Modifiers or Adjectives.
+(F), (A) Modifiers or Adjectives.
+(A), E.
+(A), D.
+(C), F.
+(C), F.
+(A), D.
+(E), D.
+(F), (A) Modifiers or Adjectives.
+(C), B.
+(E), (E) Dropped Content.
+(A), F.
+(A), D.
+(C), (A) Modifiers or Adjectives.
+(A), (A) Modifiers or Adjectives.
+(D), E.
+(C), (C) Negation or Antonyms.
+(F), D.
+(B), (B) Numerical Values.
+(A), (A) Modifiers or Adjectives.
+(D), (D) Named Entities.
+(F), D.
+(C), E.
+(C), D.
+(A), D.
+(E), D.
+(A), (A) Modifiers or Adjectives.
+(F), D.
+(C), (A) Modifiers or Adjectives.
+(A), E.
+(A), (A) Modifiers or Adjectives.
+(F), (A) Modifiers or Adjectives.
+(D), (D) Named Entities and (B) Numerical Values.
+(F), (A) Modifiers or Adjectives.
+(C), F.
+(E), B.
+(A), E.
+(C), D.
+(C), D.
+(E), D.
+(F), D.
+(D), (E) Dropped Content.
+(E), B.
+(F), C.
+(F), D.
+(A), D.
+(A), E.
+(A), E.
+(B), D.
+(C), (A) Modifiers or Adjectives.
+(B), D.
+(A), E.
+(F), D.
+(F), (A) Modifiers or Adjectives.
+(A), E.
+(E), F.
+(A), (A) Modifiers or Adjectives.
+(A), D.
+(C), (A) Modifiers or Adjectives.
+(C), F.
+(A), B.
+(F), B.
+(A), (A) Modifiers or Adjectives.
+(A), (A) Modifiers or Adjectives.
+(E), D.
+(F), B.
+(A), E.
+(F), D.
+(A), D.
+(B), E.
+(F), D.
+(D), E.
+(C), (A) Modifiers or Adjectives.
+(A), D.
+(A), D.
+(C), (A) Modifiers or Adjectives.
+(A), D.
+(A), F.
+(F), E.

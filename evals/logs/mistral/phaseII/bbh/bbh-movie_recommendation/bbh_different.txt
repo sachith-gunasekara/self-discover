@@ -1,0 +1,92 @@
+(C), B.
+(C), B.
+(A), B.
+(A), B.
+(A), (D) Mystery.
+(A), B.
+(C), (C) Stargate.
+(C), B.
+(C), A.
+(C), B.
+(D), C.
+(C), B.
+(D), E.
+(A), (A) Pulp Fiction.
+(D), (A) The Impostors.
+(C), B.
+(A), B.
+(A), D.
+(A), D.
+(D), E.
+(D), (C) Futurama Bender's Game.
+(A), B.
+(D), B.
+(D), C.
+(A), B.
+(A), E.
+Monsters, Inc, B.
+(D), B.
+(C), B.
+(E), (A) The Firm.
+(A), (C) Cleanskin.
+(D), B.
+(C), A.
+(A), B.
+(B), C.
+(A), B.
+(A), D.
+(B), A.
+(A), B.
+(A), B.
+(A), B.
+(D), (D) Toy Story.
+(C), B.
+(D), B.
+(A), B.
+(D), B.
+(A), D.
+(A), (A) The Fugitive.
+(D), B.
+(C), B.
+(D), (A) The Village.
+(A), D.
+(A), B.
+(A), (A) Twelve Monkeys.
+(C), B.
+(A), B.
+(A), B.
+(A), B.
+(C), B.
+(C), B.
+(A), B.
+(C), (C) The Secret Garden, as it is a family-friendly movie with themes of friendship and coming-of-age, similar to the given movies.
+(D), B.
+(A), B.
+(C), B.
+(D), B.
+(C), B.
+(A), (A) Monty Python and the Holy Grail.
+(A), C.
+(A), B.
+(D), B.
+(D), B.
+(A), B.
+(A), B.
+(D), (D) The Fugitive, as it shares elements of action, drama, and critical acclaim similar to the given movies.
+(A), B.
+(D), C.
+(B), C.
+(A), B (Everlasting Piece).
+(D), B.
+(A), B.
+(A), B.
+(C), (C) Up.
+(A), B.
+(C), D.
+(B), (B) The Princess Bride.
+(A), (A) The Wizard of Oz.
+(A), B.
+(A), (D) Thunderbirds, as it is the closest match in terms of genre (action, sci-fi) and themes (adventure, thriller) to the given movies.
+(A), B.
+(A), B.
+(C), (C) LA Confidential.

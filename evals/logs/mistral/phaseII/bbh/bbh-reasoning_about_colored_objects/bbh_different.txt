@@ -1,0 +1,16 @@
+(A), (A) zero.
+(E), D.
+(C), B.
+(A), B.
+(P), (P) grey.
+(G), F.
+(A), (A) yes.
+(A), (A) yes.
+(A), (A) zero.
+(A), (A) zero.
+(A), N.
+(A), (A) yes.
+(B), (B) no.
+(F), G.
+(D), C.
+(C), B.

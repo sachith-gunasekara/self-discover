@@ -1,0 +1,124 @@
+(A), (A) The patient had a skin condition.
+(B), C.
+(A), C.
+(B), (C) Ambiguous.
+(C), B.
+(A), (A) They were the writer's friends.
+(A), C.
+(A), C.
+(C), (C) Ambiguous.
+(A), C.
+(A), C.
+(A), C.
+(B), C.
+(B), C.
+(A), (A) The patient had a history.
+(B), C.
+(A), C.
+(A), (A) The worker was repairing.
+(A), C.
+(A), C.
+(A), C.
+(A), (C) Ambiguous.
+(C), (A) The nurse was busy.
+(C), (C) Ambiguous.
+(B), (C) Ambiguous.
+(A), C.
+(A), (C) Ambiguous.
+(B), C.
+(A), C.
+(C), (C) Ambiguous.
+(A), C.
+(A), (A) The carpenter had been working on the house.
+(A), C.
+(A), C.
+(C), (C) Ambiguous.
+(A), C.
+(A), C.
+(C), (C) Ambiguous.
+(B), C.
+(B), C.
+(A), C.
+(C), (C) Ambiguous.
+(B), C.
+(B), C.
+(B), C.
+(B), C.
+(A), C.
+(B), (C) Ambiguous.
+(B), C.
+(A), C.
+(A), (C) Ambiguous.
+(A), C.
+(B), C.
+(B), C.
+(C), (A) The surgeon needed more time.
+(A), C.
+(C), A.
+(A), (C) Ambiguous.
+(C), (C) Ambiguous.
+(A), (A) The cook likes to teach.
+(B), (C) Ambiguous.
+(B), C.
+(A), (A) The paralegal was fired.
+(A), C.
+(B), C.
+(A), C.
+(A), (C) Ambiguous.
+(A), C.
+(B), C.
+(B), C.
+(B), C.
+(A), (A) The cook likes to teach.
+(B), C.
+(B), C.
+(A), C.
+(B), C.
+(A), C.
+(B), (C) Ambiguous.
+(A), (A) The developer understood the problem.
+(C), (C) Ambiguous.
+(C), (C) Ambiguous.
+(A), C.
+(A), C.
+(C), (C) Ambiguous.
+(A), (C) Ambiguous.
+(A), C.
+(A), (C) Ambiguous.
+(A), C.
+(B), (C) Ambiguous.
+(B), (C) Ambiguous.
+(A), C.
+(C), (C) Ambiguous.
+(A), C.
+(A), (A) The janitor would have to mop.
+(A), C.
+(A), C.
+(A), (A) They were the writer's friends.
+(A), C.
+(A), C.
+(A), (C) Ambiguous.
+(A), (A) The lawyer needed to understand.
+(A), (A) They were the writer's friends.
+(C), B.
+(A), (A) The carpenter had been working on the house.
+(A), C.
+(A), (A) Alex could not meet.
+(B), C.
+(B), (C) Ambiguous.
+(A), C.
+(B), C.
+(A), (A) It was the pathologist's microscope.
+(C), A.
+(B), C.
+(B), (C) Ambiguous.
+(A), (A) The lawyer needed to understand.
+(B), C.
+(B), C.
+(B), (C) Ambiguous.
+(C), (C) Ambiguous.
+(C), (C) Ambiguous.
+(B), C.
+(A), (A) The secretary didn't reply yet.
+(A), (C) Ambiguous.
+(A), (A) It is Sam's office.

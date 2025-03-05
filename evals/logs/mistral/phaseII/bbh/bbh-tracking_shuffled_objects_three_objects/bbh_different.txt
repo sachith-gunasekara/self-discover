@@ -1,0 +1,64 @@
+(A), (A) Hound of the Baskervilles."
+(C), (C) Ulysses."
+(A), (A) Frankenstein."
+(A), B.
+(C), B.
+(A), (A) Jamie."
+(C), (C) yellow present."
+(C), (C) red ball.
+(A), (A) yellow present.
+(C), B.
+(B), (B) black ball."
+(C), B.
+(A), (A) green ball.
+(B), (B) red ball."
+(A), (A) Catch-22"
+(C), (C) purple present."
+(A), (A) goalkeeper.
+(C), (C) brown present."
+(A), (A) blue present."
+(B), (B) white present."
+(C), (C) The Pearl."
+(C), (C) Rodrigo."
+(B), (B) Jamie."
+(B), (B) brown present."
+(C), (C) Hound of the Baskervilles."
+(C), (C) blue ball."
+(C), (C) Ulysses."
+(C), (C) The Fellowship of the Ring."
+(A), (A) striker."
+(A), (A) striker."
+(A), (A) The Fellowship of the Ring."
+(C), (C) Patrick."
+(C), (C) The Pearl."
+(B), (B) left winger."
+(C), (C) brown ball."
+(C), (C) goalkeeper."
+(B), (B) Lola."
+(A), (A) right midfielder."
+(A), (A) Helga."
+(A), (A) purple ball."
+(B), (B) red present."
+(A), C.
+(A), (A) fullback."
+(A), (A) Patrick."
+(A), (A) Rodrigo."
+(C), (C) Izzi."
+(B), (B) purple ball."
+(A), (A) right midfielder."
+(A), (A) Lola."
+(C), B.
+(C), (A) Jamie."
+(C), A.
+(B), (B) red present."
+(A), (A) fullback."
+(C), (C) left winger.
+(B), (B) purple present."
+(B), (B) The Odyssey."
+(B), (B) Frankenstein."
+(A), (A) Sam."
+(B), (B) brown present."
+(C), (C) fullback."
+(A), (A) yellow ball."
+(B), A.
+(C), B.

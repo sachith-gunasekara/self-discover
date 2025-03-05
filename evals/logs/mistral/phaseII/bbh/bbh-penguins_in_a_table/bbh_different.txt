@@ -1,0 +1,24 @@
+(A), (A) 5.
+(A), B.
+(B), 2 penguins.
+(A), B.
+(A), B.
+(A), (A) 1.
+(A), (A) Louis.
+(A), (A) 1.
+(A), B.
+(C), (C) Vincent.
+(A), B.
+(A), (A) 1.
+(A), B.
+(A), B.
+(B), E.
+(A), D.
+(A), B.
+(B), C.
+(A), (A) 1.
+(A), (A) Louis.
+(D), B.
+(A), B.
+(A), B.
+(C), (C) Vincent.

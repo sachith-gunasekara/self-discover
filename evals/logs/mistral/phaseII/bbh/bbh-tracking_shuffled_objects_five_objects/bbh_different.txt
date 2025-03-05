@@ -1,0 +1,119 @@
+(A), (A) Patrick.
+(C), B.
+(A), (A) Jamie.
+(E), (E) Izzi.
+(C), (C) benchwarmer.
+(A), (A) green ball.
+(E), (E) purple ball.
+(B), E.
+(C), (C) left midfielder.
+(C), (C) right midfielder.
+(B), (A) red ball.
+(B), (B) benchwarmer.
+(C), D.
+(E), (D) orange ball.
+(C), (C) right winger.
+(D), A.
+(D), (A) brown present.
+(E), B.
+(A), (A) green present.
+(A), C.
+(D), B.
+(D), (D) Ophelia.
+(E), A.
+(A), (A) Helga.
+(A), (A) fullback.
+(C), (C) red present.
+(A), (A) green present.
+(C), (C) Jamie.
+(D), E.
+(E), (C) white ball.
+(B), C.
+(A), C.
+(D), C.
+(C), (A) brown present.
+(C), D.
+(B), C.
+(A), (A) orange ball.
+(C), (C) left winger.
+(A), B.
+(E), (E) goalkeeper.
+(C), E.
+(E), D.
+(A), (A) black ball.
+(D), C.
+(E), C.
+(B), (B) striker.
+(A), C.
+(C), A.
+(C), D.
+(E), D.
+(B), E.
+(B), E.
+(C), D.
+(C), (C) green present.
+(C), (C) red present.
+(B), D.
+(A), (A) right winger.
+(E), (D) Patrick.
+(A), (A) left winger.
+(A), (A) blue present.
+(E), (B) red present.
+(A), (A) striker.
+(A), (A) green present.
+(D), (D) white present.
+(A), (A) Karl.
+(E), (E) The Fellowship of the Ring.
+(A), (A) Moby Dick.
+(E), D.
+(E), D.
+(A), B.
+(E), (A) benchwarmer.
+(D), (D) yellow ball.
+(A), (A) red present.
+(D), (D) Patrick.
+(C), (C) left winger.
+(D), (D) The Fellowship of the Ring.
+(B), D.
+(A), (A) Catch-22.
+(A), C.
+(A), (A) right midfielder.
+(D), (D) green ball.
+(A), B.
+(D), (D) purple present.
+(E), D.
+(A), D.
+(A), (A) Ulysses.
+(A), (A) Catch-22.
+(A), (A) Catch-22.
+(B), C.
+(D), (D) Jamie.
+(C), (C) green present.
+(C), (C) Sam.
+(A), (A) Ulysses.
+(C), (C) orange ball.
+(D), (A) orange ball.
+(D), C.
+(E), (E) Melissa.
+(A), C.
+(E), (E) left midfielder.
+(A), (E) striker.
+(B), E.
+(D), B.
+(E), C.
+(D), (A) green present.
+(A), (A) brown present.
+(C), (C) Lola.
+(C), B.
+(A), B.
+(E), (E) purple ball.
+(E), D.
+(D), (A) striker.
+(A), (A) right winger.
+(D), C.
+(A), (A) Ophelia.
+(A), B.
+(C), B.
+(D), B.
+(E), (E) Ophelia.
+(D), (C) green present.

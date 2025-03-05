@@ -1,0 +1,70 @@
+(B), C.
+(A), F.
+(A), (A) The robin is the fourth from the left.
+(A), (A) The limousine is the oldest.
+(C), B. The yellow book is the second from the left.
+(A), A. The sedan is the third-newest.
+(F), D.
+(A), (A) The raven is the second from the left.
+(E), B.
+(B), D.
+(G), B.
+(A), (A) The black book is the third from the left.
+(E), D.
+(B), D.
+(B), D.
+(F), (F) The orange book is the leftmost.
+(A), (A) The kiwis are the second-most expensive.
+(C), D.
+(A), (A) The falcon is the third from the left.
+(E), B.
+(F), E.
+(E), G.
+(C), B.
+(E), A.
+(A), (A) Eve finished third.
+(A), B.
+(A), B. The blue jay is the third from the left.
+(A), (A) Joe finished fourth.
+(F), D.
+(F), C.
+(A), G.
+(A), (A) The watermelons are the second-most expensive.
+(B), D.
+(B), D.
+(C), B.
+(A), (A) The limousine is the fourth-newest.
+(A), (A) The plums are the cheapest.
+(E), D.
+(A), D.
+(E), B.
+(F), E.
+(F), B.
+(G), D.
+(F), B.
+(E), B.
+(F), B.
+(D), B.
+(G), C.
+(A), (A) The red book is the third from the left.
+(D), (D) The purple book is the leftmost.
+(A), (A) The motorcycle is the oldest.
+(F), A.
+(G), B.
+(F), D.
+(D), B.
+(G), D.
+(A), (A) Joe finished last.
+(G), C.
+(G), (G) The yellow book is the second from the left.
+(C), B.
+(F), (F) The truck is the oldest.
+(A), (A) The bus is the newest.
+(A), (A) The brown book is the fourth from the left.
+(A), (A) The blue jay is the third from the right.
+(A), C.
+(A), (A) The sedan is the fourth-newest.
+(G), B.
+(F), C.
+(F), G.
+(E), B.

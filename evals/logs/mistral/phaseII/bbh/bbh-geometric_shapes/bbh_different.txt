@@ -1,0 +1,134 @@
+(B), D.
+(K), J.
+(K), J.
+(C), D.
+(C), G.
+(K), D.
+(F), B.
+(C), G.
+(B), C.
+(K), I.
+(C), J.
+(B), D.
+(C), D.
+(K), D.
+(B), (J) triangle.
+(F), C.
+(K), J.
+(B), D.
+(K), H.
+(B), G.
+(B), J.
+(F), B (heptagon).
+(K), D.
+(G), J.
+(C), J.
+(B), (J) triangle.
+(K), I.
+(C), D.
+(F), (E) line.
+(K), D.
+(I), J.
+(F), B.
+(D), J.
+(K), I.
+(B), G.
+(B), C.
+(D), J.
+(C), B (heptagon), as the path data describes a shape with seven vertices.
+(I), J.
+(B), D.
+(C), B.
+(G), J.
+(D), J.
+(C), J.
+(F), G.
+(F), B.
+(K), J.
+(K), I.
+(C), B.
+(F), B (heptagon).
+(I), J.
+(F), B (heptagon).
+(C), G.
+(F), G.
+(D), J.
+(D), J.
+(K), D.
+(C), (C) hexagon.
+(C), J.
+(F), D.
+(F), D.
+(C), G.
+(K), J.
+(F), D.
+(K), D.
+(G), D.
+(B), D.
+(B), J.
+(G), D.
+(C), G.
+(F), (G) pentagon.
+(G), D.
+(C), C (hexagon).
+(F), D (kite).
+(D), J.
+(B), G.
+(C), (J) triangle.
+(K), H.
+(K), J.
+(F), (G) pentagon.
+(G), D.
+(D), J.
+(K), D.
+(K), H.
+(C), (J) triangle.
+(K), D.
+(B), (J) triangle.
+(C), (J) triangle.
+(G), D.
+(F), G.
+(K), H.
+(F), (B) heptagon.
+(K), I.
+(G), J.
+(K), D.
+(G), D.
+(K), I.
+(C), J.
+(I), J.
+(B), G.
+(F), B.
+(D), J.
+(K), I.
+(K), I.
+(B), G.
+(G), J.
+(B), (J) triangle.
+(C), D.
+(C), G.
+(G), J.
+(B), D.
+(B), D.
+(D), J.
+(K), I.
+(D), J.
+(I), J.
+(K), I.
+(K), J.
+(C), B.
+(K), H.
+(I), J.
+(D), J.
+(K), D.
+(F), D.
+(C), D.
+(K), J.
+(F), D.
+(C), B.
+(G), D.
+(K), D.
+(G), J.
+(F), (B) heptagon.
+(K), H.
+(F), B.
