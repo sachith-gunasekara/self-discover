@@ -1,0 +1,30 @@
+Here is the operationalized reasoning plan in JSON format:
+
+```
+{
+    Identify the initial date and any given time passed: {
+        Extract the initial date from the problem statement,
+        Extract any given time passed from the problem statement
+    },
+    Determine the required date format: {
+        Identify the required date format (e.g. MM/DD/YYYY)
+    },
+    Calculate the number of days in each month: {
+        Consider the number of days in each month (e.g. 31, 30, 28, 29),
+        Account for leap years
+    },
+    Calculate the day of the week: {
+        Determine the day of the week for the initial date
+    },
+    Calculate the new date: {
+        Add or subtract the given time passed from the initial date,
+        Consider the month and year when calculating the new date
+    },
+    Adjust for 24 hours later or earlier: {
+        Add or subtract 1 day from the new date if necessary
+    },
+    Format the answer: {
+        Format the new date in the required date format (e.g. MM/DD/YYYY)
+    }
+}
+```

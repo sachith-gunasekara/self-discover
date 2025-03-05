@@ -1,0 +1,32 @@
+Here is the operationalized reasoning plan in JSON format:
+
+```
+{
+    "Analyze the given movie titles": {
+        "Identify common themes, genres, or elements": {},
+    },
+    "Identify underlying assumptions": {
+        "Consider the era, director, awards won, and other relevant factors": {},
+    },
+    "Consider different viewpoints": {
+        "Think about plot, tone, style, cast, and other possible similarities": {},
+    },
+    "Generate innovative ideas for movie similarities": {
+        "Think about soundtracks, cinematography, cultural impact, and other creative connections": {},
+    },
+    "Reflect on commonalities among the listed movies": {
+        "Look for patterns and relationships between the movies": {},
+    },
+    "Identify the central theme or element": {
+        "Determine what ties the listed movies together": {},
+    },
+    "Analyze each option against the identified theme or element": {
+        "Compare each option to the commonalities and patterns found in the listed movies": {},
+    },
+    "Select the option that best matches the identified theme or element": {
+        "Choose the option that is most similar to the listed movies based on the analysis": {},
+    },
+}
+```
+
+This reasoning structure can be applied to all the task examples provided, and it should help solvers arrive at the correct answers.

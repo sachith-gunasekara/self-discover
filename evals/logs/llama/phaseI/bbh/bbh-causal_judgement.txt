@@ -1,0 +1,53 @@
+Here is the operationalized reasoning plan in JSON format:
+
+```
+{
+    Identify the key causal relationships and interactions underlying the problem: {
+        Determine the cause and effect variables:,
+        Identify any intermediate variables or events that may influence the outcome:,
+        Consider any relevant rules, policies, or norms that may impact the causal relationships:,
+    },
+    Simplify the causal chain of events: {
+        Identify the most direct causal link between the cause and effect variables:,
+        Eliminate any unnecessary or redundant variables or events:,
+        Focus on the key causal relationships and interactions:,
+    },
+    Identify key assumptions about causality and responsibility: {
+        Consider the role of human agency and intentionality:,
+        Evaluate the impact of external factors or circumstances:,
+        Assess the degree of control or influence exerted by each variable or event:,
+    },
+    Analyze alternative perspectives or viewpoints on causality and responsibility: {
+        Consider multiple stakeholders or actors involved in the situation:,
+        Evaluate the potential biases or motivations of each stakeholder:,
+        Assess the implications of different causal attributions or responsibility assignments:,
+    },
+    Apply critical thinking and systems thinking: {
+        Evaluate the evidence or information available:,
+        Consider the broader system or context in which the causal relationships operate:,
+        Assess the potential consequences or outcomes of different causal attributions or actions:,
+    },
+    Determine the core causal issue or problem: {
+        Identify the key causal question or problem to be addressed:,
+        Evaluate the relevance and importance of the causal issue:,
+        Assess the potential impact or consequences of resolving the causal issue:,
+    },
+    Identify the underlying causes or factors contributing to the outcome: {
+        Consider the role of multiple variables or events:,
+        Evaluate the interactions and interdependencies between variables or events:,
+        Assess the relative importance or contribution of each variable or event:,
+    },
+    Evaluate the causal relationships and interactions: {
+        Consider the direction and strength of the causal relationships:,
+        Evaluate the potential for reverse causality or feedback loops:,
+        Assess the robustness and reliability of the causal relationships:,
+    },
+    Draw a conclusion about causality and responsibility: {
+        Based on the analysis, determine the most likely cause of the outcome:,
+        Evaluate the degree of responsibility or agency attributed to each variable or event:,
+        Consider the implications and potential consequences of the causal attribution:,
+    },
+}
+```
+
+This reasoning structure is designed to be generalizable across the provided task examples and can be applied to similar tasks involving causal reasoning and attribution of responsibility.
