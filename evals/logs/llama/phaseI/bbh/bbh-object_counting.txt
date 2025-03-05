@@ -1,0 +1,24 @@
+Here is the operationalized reasoning plan in JSON format:
+
+```
+{
+    Identify the key elements or items that need to be identified, classified, or counted in this problem: {
+        Read the problem statement and identify the items listed:,
+    },
+    Determine the specific question being asked, and what type of items or elements are relevant to answering it: {
+        Identify the question being asked (e.g. "How many fruits do I have?") and the type of items relevant to answering it (e.g. fruits):,
+    },
+    Simplify the problem by focusing on a specific category or type of item, and ignoring irrelevant information: {
+        Filter out items that are not relevant to the question being asked:,
+    },
+    Break down the list of items into smaller groups or categories to make it easier to count or classify them: {
+        Group the remaining items into categories (e.g. fruits, musical instruments, etc.):,
+    },
+    Systematically count or classify the items: {
+        Count the number of items in the relevant category:,
+    },
+    Provide the final answer: {
+        Report the final count as the answer to the problem:,
+    },
+}
+```

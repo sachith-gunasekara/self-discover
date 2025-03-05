@@ -1,0 +1,33 @@
+Here is the operationalized reasoning plan in JSON format:
+
+```
+{
+    Identify the primary objective or goal that the individuals in the scenario are trying to achieve: {
+        Determine the object being moved or used and the individuals planning to use it:,
+    },
+    Filter out irrelevant information in the scenario: {
+        Focus on the key events and actions related to the object and the individuals planning to use it:,
+    },
+    Break down the scenario into smaller parts: {
+        Identify the individuals involved, the object being moved or used, and the locations where the events take place:,
+    },
+    Analyze the scenario step by step: {
+        Focus on the sequence of events and how they relate to the individuals and objects involved:,
+    },
+    Identify the key event or action that triggers the need for someone to receive helpful information: {
+        Determine how it impacts the individuals involved:,
+    },
+    Determine the underlying relationships or connections between the individuals: {
+        Identify who would be affected by receiving helpful information:,
+    },
+    Identify the individuals directly affected by the events or actions: {
+        Determine their needs or goals that would be impacted by receiving helpful information:,
+    },
+    Create a step-by-step plan to identify who would benefit from receiving helpful information: {
+        Take into account the key events, actions, and relationships in the scenario:,
+    },
+    Determine who would benefit from receiving helpful information: {
+        Based on the analysis, identify the individual(s) who would benefit from receiving helpful information:,
+    },
+}
+```
