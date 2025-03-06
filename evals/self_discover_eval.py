@@ -164,6 +164,8 @@ def phaseI(benchmark: str, dataset_name: str, subset: str, phase: int, stream: b
 
     logger.info("Saving Phase I Reasoning Structures in {}", save_path)
 
+    return result["reasoning_structure"]
+
 
 def phaseII(
     benchmark: str, y: str, dataset_name: str, subset: str, phase: int, stream: bool
@@ -195,8 +197,11 @@ def phaseII(
         )
     )
     accuracy_file = os.path.join(save_dir, "accuracy.txt")
+    full_dataset_file = here(
+        os.path.join(save_dir, f"{benchmark}{f'-{subset}' if subset else ''}_eval")
+    )
 
-    if os.path.exists(accuracy_file):
+    if os.path.exists(accuracy_file) or os.path.exists(full_dataset_file):
         logger.warning(
             "Evaluation for dataset {}, subset {} has been completed.",
             dataset_name,
@@ -280,11 +285,7 @@ def phaseII(
     full_dataset = full_dataset.map(structure_response, num_proc=4)
 
     logger.info("Saving concatenated dataset.")
-    full_dataset.save_to_disk(
-        here(
-            os.path.join(save_dir, f"{benchmark}{f'-{subset}' if subset else ''}_eval")
-        )
-    )
+    full_dataset.save_to_disk(full_dataset_file)
 
     logger.info("Concatenated dataset contains {} instances.", len(full_dataset))
 
@@ -312,18 +313,10 @@ def phaseII(
 
 def main(phase: int = -1, stream: bool = True):
 
-    benchmarks = ["t4d", "bbh", "math"]
-    y_s = ["answer", "target", "solution"]
-    dataset_names = [
-        "sachithgunasekara/t4d",
-        "maveriq/bigbenchhard",
-        "sachithgunasekara/self-discover-MATH-subsample",
-    ]
-    subset_list = [
-        [""],
-        get_dataset_config_names(dataset_names[1]),
-        list(set(load_dataset(dataset_names[2], split="train")["type"])),
-    ]
+    benchmarks = ["t4d", "bbh"]
+    y_s = ["answer", "target"]
+    dataset_names = ["sachithgunasekara/t4d", "maveriq/bigbenchhard"]
+    subset_list = [[""], get_dataset_config_names(dataset_names[1])]
 
     for benchmark, y, dataset_name, subsets in zip(
         benchmarks, y_s, dataset_names, subset_list
@@ -358,6 +351,7 @@ def main(phase: int = -1, stream: bool = True):
                         logger.error(
                             f"Rate limit exceeded. Waiting for {wait_time} minutes."
                         )
+                        logger.error(str(e))
                         time.sleep(wait_time * 60)
                     else:
                         raise e
