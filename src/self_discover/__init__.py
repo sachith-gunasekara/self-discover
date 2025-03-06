@@ -3,8 +3,10 @@ import random
 import operator
 from typing import TypedDict, Annotated
 from dataclasses import dataclass
+from unittest import result
 from dotenv import load_dotenv
 
+from httpx import stream
 from langchain_core.language_models.chat_models import BaseChatModel
 from langchain_core.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
@@ -54,6 +56,16 @@ implement_prompt = PromptTemplate.from_template(prompts.IMPLEMENT_PROMPT)
 reasoning_prompt = PromptTemplate.from_template(prompts.REASONING_PROMPT)
 
 
+def stream_response(chain, state):
+    result = []
+
+    for chunk in chain.stream(state):
+        result.append(chunk)
+        print(chunk, end="", flush=True)
+
+    return "".join(result)
+
+
 ### Phase 1: Discovering Task-Specific Reasoning Structures ###
 
 
@@ -61,7 +73,7 @@ def select(state: SelfDiscoverState):
     logger.debug("Executing select function with state: {}", state.keys())
     chain = select_prompt | Config.model | StrOutputParser()
 
-    result = chain.invoke(state)
+    result = stream_response(chain, state)
 
     return {"selected_modules": result}
 
@@ -70,7 +82,7 @@ def adapt(state: SelfDiscoverState):
     logger.debug("Executing adapt function with state: {}", state.keys())
     chain = adapt_prompt | Config.model | StrOutputParser()
 
-    result = chain.invoke(state)
+    result = stream_response(chain, state)
 
     return {"adapted_modules": result}
 
@@ -79,7 +91,7 @@ def implement(state: SelfDiscoverState):
     logger.debug("Executing implement function with state: {}", state.keys())
     chain = implement_prompt | Config.model | StrOutputParser()
 
-    result = chain.invoke(state)
+    result = stream_response(chain, state)
 
     return {"reasoning_structure": result}
 
@@ -112,9 +124,9 @@ def reason(state: PhaseIIState):
     logger.debug("Executing reason function with state: {}", state.keys())
     chain = reasoning_prompt | Config.model | StrOutputParser()
 
-    result = chain.invoke(state)
+    result = stream_response(chain, state)
 
-    return {"reasoning": [result]}
+    return {"reasoning": result}
 
 
 ### Compile graph with memory saver ###

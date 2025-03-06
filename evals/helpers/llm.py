@@ -1,6 +1,7 @@
 from langchain_core.rate_limiters import InMemoryRateLimiter
 from langchain_sambanova import ChatSambaNovaCloud
 from langchain_mistralai import ChatMistralAI
+from langchain_openai import ChatOpenAI
 
 from .config import config
 from self_discover.helpers.logger import logger
@@ -8,7 +9,7 @@ from self_discover.helpers.logger import logger
 
 llama = True if "llama" in config["MODEL"]["model_type"] else False
 
-MODEL_ID = "llama3-405b" if llama else "mistral-large-2407"
+MODEL_ID = "hf:meta-llama/Llama-3.1-405B-Instruct" if llama else "mistral-large-2407"
 
 logger.info("Using {} for inference", MODEL_ID)
 
@@ -29,6 +30,13 @@ model_kwargs = {
 if llama:
     model = ChatSambaNovaCloud(
         model=MODEL_ID, rate_limiter=rate_limiter, **model_kwargs
+    )
+
+    model = ChatOpenAI(
+        model=MODEL_ID,
+        base_url="https://glhf.chat/api/openai/v1",
+        rate_limiter=rate_limiter,
+        **model_kwargs
     )
 else:
     model = ChatMistralAI(model=MODEL_ID, rate_limiter=rate_limiter, **model_kwargs)
