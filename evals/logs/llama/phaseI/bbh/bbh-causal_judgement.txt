@@ -49,5 +49,3 @@ Here is the operationalized reasoning plan in JSON format:
     },
 }
 ```
-
-This reasoning structure is designed to be generalizable across the provided task examples and can be applied to similar tasks involving causal reasoning and attribution of responsibility.

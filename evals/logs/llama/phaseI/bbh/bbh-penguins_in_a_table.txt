@@ -3,37 +3,6 @@ Here is the operationalized reasoning plan in JSON format:
 ```
 {
     "Read and Understand the Problem": {
-        "Identify the key information or question being asked": {},
-        "Identify the most relevant details to focus on": {}
-    },
-    "Break Down Complex Information": {
-        "Identify the individual components or elements of the problem": {},
-        "Determine how they relate to each other": {}
-    },
-    "Analyze the Table Structure": {
-        "Identify the number of columns and rows in the table": {},
-        "Determine the data type of each column": {}
-    },
-    "Filter and Process Data": {
-        "Apply filters to the data based on the problem requirements": {},
-        "Perform calculations or aggregations on the filtered data": {}
-    },
-    "Compare and Analyze Data": {
-        "Compare data across different columns or rows": {},
-        "Identify patterns or trends in the data": {}
-    },
-    "Draw Conclusions and Answer the Question": {
-        "Use the results of the analysis to answer the question": {},
-        "Select the correct answer from the options": {}
-    }
-}
-```
-
-Here is a more detailed version of the operationalized reasoning plan in JSON format:
-
-```
-{
-    "Read and Understand the Problem": {
         "Identify the key information or question being asked": {
             "Read the problem statement carefully": {},
             "Identify the main question or objective": {}

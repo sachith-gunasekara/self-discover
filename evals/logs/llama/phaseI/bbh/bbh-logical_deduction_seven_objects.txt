@@ -36,5 +36,3 @@ Here is the operationalized reasoning plan in JSON format:
   }
 }
 ```
-
-This reasoning structure can be applied to all the task examples provided, and can help solvers arrive at the correct answers.

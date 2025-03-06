@@ -25,5 +25,3 @@ Here is the operationalized reasoning plan in JSON format:
     }
 }
 ```
-
-This reasoning plan can be applied to each of the task examples to determine the correct adjective order.

@@ -32,5 +32,3 @@ Here is the operationalized reasoning plan in JSON format:
     }
 }
 ```
-
-This reasoning structure can be applied to tasks like those provided above to arrive at correct answers.

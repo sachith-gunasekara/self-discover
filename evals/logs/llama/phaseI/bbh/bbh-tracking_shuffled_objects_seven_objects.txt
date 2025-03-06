@@ -17,5 +17,3 @@ Here is the operationalized reasoning plan in JSON format:
     },
 }
 ```
-
-This reasoning plan can be applied to all the task examples provided, and it will guide the solver to arrive at the correct answer.
