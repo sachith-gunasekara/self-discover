@@ -61,7 +61,7 @@ def stream_response(chain, state):
 
     for chunk in chain.stream(state):
         result.append(chunk)
-        print(chunk, end="", flush=True)
+        # print(chunk, end="", flush=True)
 
     return "".join(result)
 
@@ -126,7 +126,7 @@ def reason(state: PhaseIIState):
 
     result = stream_response(chain, state)
 
-    return {"reasoning": result}
+    return {"reasoning": [result]}
 
 
 ### Compile graph with memory saver ###
