@@ -14,17 +14,18 @@ pyprojroot = "^0.3.0"
 langchain = "^0.3.14"
 loguru = "^0.7.3"
 logtail-python = "^0.3.3"
-fire = "^0.7.0"
-langchain-openai = "^0.3.7"
 
 [tool.poetry.group.experiments.dependencies]
 langchain-mistralai = "^0.2.4"
 langchain-sambanova = "^0.1.0"
+langchain-openai = "^0.3.7"
+fire = "^0.7.0"
+datasets = "^3.2.0"
+transformers = "^4.49.0"
+langchain-nvidia-ai-endpoints = "^0.3.9"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.3.4"
-langchain-sambanova = "^0.1.0"
-datasets = "^3.2.0"
 langfuse = "^2.57.13"
 tomlkit = "^0.13.2"
 
