@@ -17,6 +17,14 @@ from helpers.dataset import load_checkpoints
 from helpers.eval import calculate_accuracy
 
 
+BASE_PATH = here(
+    os.path.join(
+        "evals/logs/self_discover",
+        config["MODEL"]["model_type"]
+    )
+)
+
+
 def call_self_discover(
     batch,
     phase: int,
@@ -133,13 +141,10 @@ def phaseI(benchmark: str, dataset_name: str, subset: str, phase: int, stream: b
             lambda x: x["type"] == subset
         )
 
-    save_path = here(
-        os.path.join(
-            "evals/logs",
-            config["MODEL"]["model_type"],
-            "phaseI",
-            benchmark,
-        )
+    save_path = os.path.join(
+        BASE_PATH,
+        "phaseI",
+        benchmark,
     )
 
     save_file_txt = os.path.join(save_path, f"{benchmark}-{subset}.txt")
@@ -187,15 +192,11 @@ def phaseII(
             lambda x: x["type"] == subset
         )
 
-    save_dir = here(
-        os.path.join(
-            "evals/logs",
-            config["MODEL"]["model_type"],
-            "phaseII",
-            benchmark,
-            f"{benchmark}-{subset}",
-        )
-    )
+    save_dir = os.path.join(
+        BASE_PATH,
+        "phaseII",
+        benchmark,
+        f"{benchmark}-{subset}",    )
     accuracy_file = os.path.join(save_dir, "accuracy.txt")
     full_dataset_file = here(
         os.path.join(save_dir, f"{benchmark}{f'-{subset}' if subset else ''}_eval")
