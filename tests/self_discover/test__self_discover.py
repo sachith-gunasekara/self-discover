@@ -1,6 +1,7 @@
 import pytest
 from langchain_core.language_models.chat_models import BaseChatModel
-from self_discover import validate_params, self_discover
+from self_discover._helpers.validators import validate_params
+from self_discover import self_discover
 from langchain_mistralai import ChatMistralAI
 from langgraph.types import Send
 from langchain_core.rate_limiters import InMemoryRateLimiter

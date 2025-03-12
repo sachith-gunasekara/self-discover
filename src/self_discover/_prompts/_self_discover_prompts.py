@@ -1,6 +1,6 @@
 ### Phase I ###
 
-### SELECT PROMPT
+## SELECT PROMPT ##
 
 SELECT_PROMPT = """Select several reasoning modules that are crucial to utilize in order solve the given task examples:
 
@@ -54,7 +54,9 @@ Some additional guidelines:
 - Do NOT select reasoning modules seperately for each task example, instead select modules to help solve tasks like them.
 - Only select the modules (number and description), do NOT provide explanations for your selections."""
 
-### ADAPT PROMPT
+
+
+## ADAPT PROMPT ##
 
 ADAPT_PROMPT = """Rephrase and specify each reasoning module so that it better helps solving tasks like those given below:
 
@@ -69,6 +71,10 @@ Adapt each reasoning module description to better solve the tasks.
 Some additional guidelines:
 - Do NOT adapt the reasoning modules seperately for each task example, instead adapt them to help solve tasks like those given above.
 - Only adapt the modules, do NOT provide explanations for your adaptations."""
+
+
+
+## IMPLEMENT PROMPT ##
 
 IMPLEMENT_PROMPT = """Operationalize the adapted reasoning modules into a step-by-step reasoning plan in JSON format:
 
@@ -103,6 +109,8 @@ Some additional guidelines:
 - Do NOT discover reasoning structures seperately for each task example, instead operationalize them such that the discovered reasoning structure can solve tasks like those above.
 - Do NOT provide explanations, only the discovered reasoning structure.
 """
+
+
 
 ### Phase II ###
 

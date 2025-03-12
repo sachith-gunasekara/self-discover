@@ -10,7 +10,7 @@ from tqdm import tqdm
 import fire
 
 from self_discover import self_discover
-from self_discover.helpers.logger import logger
+from self_discover._helpers.logger import logger
 from helpers.llm import model
 from helpers.config import config
 from helpers.dataset import load_checkpoints
