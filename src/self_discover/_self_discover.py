@@ -206,8 +206,8 @@ def call_graph(state, phase, stream):
 def self_discover(
     task_description: list[str],
     model: BaseChatModel,
-    reasoning_structure: str,
-    answer_formats: str = "",
+    answer_formats: str,
+    reasoning_structure: str = "",
     phase: int = Phase.BOTH.value,
     stream: bool = False,
 ):

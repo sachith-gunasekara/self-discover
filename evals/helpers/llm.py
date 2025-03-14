@@ -19,31 +19,20 @@ MODEL_ID = (
 
 logger.info("Using {} for inference", MODEL_ID)
 
-rate_limiter = InMemoryRateLimiter(
-    requests_per_second=0.083,
-    check_every_n_seconds=5,
-    max_bucket_size=1,
-)
-
 model_kwargs = {
     "temperature": 0.2,
     "top_p": 0.9,
-    # "top_k": 15,
+    "top_k": 15,
     "max_tokens": 8192,
 }
 
 
 if llama:
-    # model = ChatSambaNovaCloud(
-    #     model=MODEL_ID, rate_limiter=rate_limiter, **model_kwargs
-    # )
-
-    # model = ChatOpenAI(
-    #     model=MODEL_ID,
-    #     base_url="https://glhf.chat/api/openai/v1",
-    #     rate_limiter=rate_limiter,
-    #     **model_kwargs
-    # )
+    rate_limiter = InMemoryRateLimiter(
+        requests_per_second=0.083,
+        check_every_n_seconds=5,
+        max_bucket_size=1,
+    )
 
     model = ChatOpenAI(
         model=MODEL_ID,
@@ -52,11 +41,11 @@ if llama:
         rate_limiter=rate_limiter,
         **model_kwargs
     )
-
-    # model = ChatNVIDIA(
-    #     model=MODEL_ID,
-    #     rate_limiter=rate_limiter,
-    #     **model_kwargs
-    # )
 else:
+    rate_limiter = InMemoryRateLimiter(
+        requests_per_second=1,
+        check_every_n_seconds=5,
+        max_bucket_size=1,
+    )
+
     model = ChatMistralAI(model=MODEL_ID, rate_limiter=rate_limiter, **model_kwargs)
