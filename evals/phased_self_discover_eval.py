@@ -18,7 +18,12 @@ from self_discover._helpers.logger import logger
 
 sys.path.append(str(here()))
 
-from evals.helpers import format_input_prompt, structure_response, get_answer_formats
+from evals.helpers import (
+    format_input_prompt,
+    structure_response,
+    get_answer_formats,
+    get_few_shot_instances,
+)
 from evals.helpers.llm import model
 from evals.helpers.config import config
 from evals.helpers.dataset import load_checkpoints
@@ -30,17 +35,22 @@ BASE_PATH = here(
 )
 
 
-def call_phased_self_discover(
-    task_description: str,
-    answer_formats: str,
-    structured: bool = False,
-    stream: bool = False,
-):
+def call_phased_self_discover(instance, benchmark: str, structured: bool, stream: bool):
     out = phased_self_discover(
-        task_description, model, answer_formats, structured, stream
+        instance["self_discover_input"],
+        model,
+        get_answer_formats(benchmark),
+        structured,
+        instance["few_shot_examples"] if "few_shot_examples" in instance.keys() else "",
+        stream,
     )
 
-    delete_keys = ["task_desctiption", "answer_formats"]
+    delete_keys = [
+        "task_desctiption",
+        "answer_formats",
+        "few_shot_examples",
+        "task_description_backup",
+    ]
 
     for key in delete_keys:
         if key in out.keys():
@@ -49,27 +59,20 @@ def call_phased_self_discover(
     return out
 
 
-def instance_processor(instance, benchmark: str, structured: bool, stream: bool):
-    return call_phased_self_discover(
-        instance["self_discover_input"],
-        get_answer_formats(benchmark),
-        structured,
-        stream,
-    )
-
-
 def evaluate(
     benchmark: str,
     y: str,
     dataset_name: str,
     subset: str,
     structured: bool,
+    few_shot_examples: int,
     stream: bool,
 ):
     batch_size = int(config["EVAL"]["batch_size"])
     save_path = os.path.join(
         BASE_PATH,
         "structured" if structured else "unstructured",
+        f"few_shot_{few_shot_examples}",
         benchmark,
         f"{benchmark}-{subset}" if subset else "",
     )
@@ -96,7 +99,14 @@ def evaluate(
     dataset = load_dataset(dataset_name, subset, split="train")
 
     logger.info("Formatting input prompts")
-    dataset = dataset.map(lambda x: format_input_prompt(x, benchmark))
+    dataset = dataset.map(
+        lambda x: format_input_prompt(x, dataset, benchmark, few_shot_examples),
+        load_from_cache_file=False,
+    )
+
+    logger.info(
+        "Generating few shot instances for benchmark {}, subset {}", benchmark, subset
+    )
 
     logger.info(
         "Running evaluations on {} dataset, subset {} in bursts of {}",
@@ -136,7 +146,9 @@ def evaluate(
         )
 
         result = batch.map(
-            lambda instance: instance_processor(instance, benchmark, structured, stream)
+            lambda instance: call_phased_self_discover(
+                instance, benchmark, structured, stream
+            )
         )
 
         logger.info(
@@ -180,7 +192,7 @@ def evaluate(
     return accuracy
 
 
-def main(structured: bool = False, stream: bool = False):
+def main(structured: bool = False, few_shot_examples: int = 0, stream: bool = False):
     benchmarks = ["t4d", "bbh", "math"]
     y_s = ["answer", "target", "solution"]
     dataset_names = [
@@ -208,6 +220,7 @@ def main(structured: bool = False, stream: bool = False):
                         dataset_name,
                         subset,
                         structured,
+                        few_shot_examples,
                         stream,
                     )
 

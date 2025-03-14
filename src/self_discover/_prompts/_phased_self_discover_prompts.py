@@ -157,3 +157,11 @@ Reasoning Plan:
 
 Task:
 {task_description}"""
+
+
+### Few Shot Examples Prompt
+
+FEW_SHOT_EXAMPLES_PROMPT = """Here are some other examples like the above task:
+<examples>
+{few_shot_examples_str}
+</examples>"""

@@ -3,22 +3,46 @@ import random
 
 from datasets import load_dataset
 
-from prompts import answer_formats, task_description
+from evals.prompts import answer_formats, task_description
 
 
-def format_input_prompt(instance, benchmark) -> dict:
+def format_input_prompt(
+    instance, dataset, benchmark: str, few_shot_examples: int
+) -> dict:
     if benchmark == "t4d":
-        return {
+        if few_shot_examples != 0:
+            few_shot_examples_str = f"\n{'-' * 20}\n".join(
+                [
+                    task_description.T4D_TASK_DESCRIPTION.format(
+                        story=fs_instance["story"], question=fs_instance["question"]
+                    )
+                    for fs_instance in get_few_shot_instances(
+                        dataset, few_shot_examples
+                    )
+                ]
+            )
+        result = {
             "self_discover_input": task_description.T4D_TASK_DESCRIPTION.format(
                 story=instance["story"], question=instance["question"]
             )
         }
 
     if benchmark == "bbh":
-        return {
+        if few_shot_examples != 0:
+            few_shot_examples_str = "\n\n".join(
+                [
+                    task_description.BBH_TASK_DESCRIPTION.format(
+                        input=instance["input"]
+                    )
+                    for fs_instance in get_few_shot_instances(
+                        dataset, few_shot_examples
+                    )
+                ]
+            )
+        result = {
             "self_discover_input": task_description.BBH_TASK_DESCRIPTION.format(
                 input=instance["input"]
-            )
+            ),
         }
 
     if benchmark == "math":
@@ -34,7 +58,7 @@ def format_input_prompt(instance, benchmark) -> dict:
             1,
         )[0]
 
-        return {
+        result = {
             "self_discover_input": task_description.MATH_TASK_DESCRIPTION.format(
                 problem=instance["problem"],
                 one_shot_example_problem=one_shot_example["problem"],
@@ -42,7 +66,10 @@ def format_input_prompt(instance, benchmark) -> dict:
             )
         }
 
-    return {}
+    if few_shot_examples != 0:
+        result["few_shot_examples"] = few_shot_examples_str
+
+    return result
 
 
 def get_answer_formats(benchmark):
@@ -54,6 +81,12 @@ def get_answer_formats(benchmark):
         return answer_formats.MATH_ANSWER_FORMATS
 
     return ""
+
+
+def get_few_shot_instances(dataset, few_shot_examples):
+    few_shot_examples_list = random.sample(list(dataset), few_shot_examples)
+
+    return few_shot_examples_list
 
 
 def structure_response(instance):
