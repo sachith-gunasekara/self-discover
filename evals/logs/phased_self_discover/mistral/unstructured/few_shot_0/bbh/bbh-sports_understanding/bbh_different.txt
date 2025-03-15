@@ -1,0 +1,250 @@
+no, The sentence is plausible if Elias Lindholm is a hockey player and the context is a hockey game.
+yes, True.
+yes, True.
+no, False.
+no, False.
+no, False.
+no, False.
+yes, not plausible.
+no, False.
+no, False.
+yes, False.
+no, The sentence is plausible in a sports context.
+yes, The sentence "Kendrick Nunn took a charge" is plausible.
+no, False.
+yes, False.
+no, The sentence is plausible but not definitively true without additional context or information.
+no, True.
+yes, False.
+no, The sentence is plausible.
+no, False.
+no, False.
+no, False.
+yes, The sentence is plausible.
+no, False.
+yes, The sentence "Toni Kroos performed a give and go" is plausible.
+yes, not True or False. A: False
+no, False.
+no, False.
+no, not plausible.
+no, not plausible.
+yes, True.
+yes, True.
+no, The statement is plausible if supported by relevant evidence.
+yes, True.
+no, The sentence is plausible.
+yes, True.
+no, False.
+yes, True.
+no, False.
+yes, True.
+no, False.
+no, False.
+no, False.
+no, False.
+no, True.
+no, True.
+no, not plausible.
+yes, True.
+no, False.
+no, False.
+no, False.
+yes, True.
+yes, True.
+yes, True.
+yes, True.
+no, False.
+no, False.
+no, False.
+no, False.
+yes, True.
+yes, False.
+no, False.
+no, not plausible.
+no, False.
+no, not plausible.
+yes, True.
+no, False.
+yes, True.
+no, not plausible.
+yes, True.
+yes, not plausible.
+yes, The sentence is plausible.
+no, False.
+yes, True.
+yes, False.
+yes, False.
+yes, True.
+no, False.
+no, False.
+no, The sentence "Kyle Tucker took a left footed shot" is plausible, assuming Kyle Tucker is a soccer player and considering the general possibility of players using their non-dominant foot.
+yes, True.
+yes, The plausibility of the statement "Deshaun Watson was flagged on the play" is uncertain without specific data.
+yes, False.
+yes, True.
+yes, True.
+yes, The sentence is plausible.
+no, False.
+no, False.
+no, False.
+no, False.
+no, False.
+no, False.
+no, False.
+yes, True.
+yes, True.
+yes, True.
+no, not plausible.
+yes, True.
+no, False.
+yes, False.
+yes, True.
+no, False.
+no, False.
+yes, True.
+no, False.
+yes, False.
+no, True.
+no, False.
+yes, True.
+yes, The statement is plausible.
+yes, True.
+no, False.
+yes, False.
+no, False.
+yes, False.
+no, The sentence "Dani Alves took the snap" is not plausible in a sports context.
+no, False.
+no, False.
+yes, True.
+yes, True.
+no, False.
+yes, True.
+yes, True.
+no, False.
+yes, False.
+yes, True.
+no, False.
+no, False.
+yes, False.
+no, False.
+no, The plausibility of the sentence "Juan Soto did a double stepover" is uncertain without further evidence.
+yes, False.
+no, True.
+no, The sentence is plausible if Brandon Lowe is a soccer player, but not if he is a baseball player.
+yes, True.
+no, False.
+no, True.
+yes, True.
+no, False.
+no, False.
+yes, False.
+no, False.
+no, False.
+no, False.
+yes, False.
+yes, The sentence is plausible.
+yes, True.
+no, not plausible.
+no, False.
+yes, True.
+no, implausible.
+no, False.
+yes, True.
+no, False.
+yes, True.
+no, True.
+yes, True.
+yes, The statement is plausible.
+yes, True.
+yes, True.
+no, False.
+no, False.
+no, False.
+yes, The sentence is not plausible.
+yes, False.
+yes, True.
+no, True.
+yes, True.
+no, False.
+yes, True.
+no, False.
+yes, Plausible.
+yes, The plausibility of the statement "Jonas Valanciunas beat the buzzer" depends on the analysis of relevant data and critical thinking as outlined above.
+no, False.
+no, False.
+no, False.
+yes, True.
+no, False.
+no, False.
+no, False.
+yes, True.
+yes, False.
+no, False.
+yes, False.
+yes, True.
+yes, True.
+no, False.
+yes, True.
+no, False.
+no, not plausible.
+no, False.
+yes, True.
+no, False.
+yes, True.
+no, False.
+yes, True.
+yes, True.
+no, False.
+yes, False.
+no, False.
+yes, True.
+yes, True.
+yes, False.
+no, False.
+no, False.
+yes, True.
+yes, True.
+no, False.
+yes, False.
+no, False.
+no, False.
+yes, not plausible.
+yes, The sentence is plausible.
+no, False.
+no, False.
+yes, True.
+no, Implausible.
+yes, True.
+yes, The sentence is plausible.
+no, False.
+no, The plausibility of the sentence cannot be determined with the information provided.
+no, True.
+no, False.
+no, False.
+no, False.
+no, False.
+no, not plausible.
+yes, True.
+no, False.
+yes, True.
+no, False.
+yes, True.
+yes, True.
+yes, False.
+yes, The statement "Luis Robert was out at second" is plausible.
+yes, True.
+yes, True.
+no, False.
+yes, True.
+yes, True.
+no, True.
+yes, False.
+yes, True.
+no, True.
+no, True.
+no, False.
+no, not plausible.
+no, True.
+yes, True.
+no, False.

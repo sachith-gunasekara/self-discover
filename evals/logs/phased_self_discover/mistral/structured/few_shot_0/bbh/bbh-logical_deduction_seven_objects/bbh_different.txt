@@ -1,0 +1,58 @@
+(A), E.
+(A), D.
+(D), C.
+(G), F"
+(B), D.
+(D), G.
+(G), A"
+(D), (D) The blue jay is the fourth from the left."
+(G), B.
+(D), C.
+(C), D"
+(G), C."
+(G), D.
+(D), G.
+(B), A.
+(F), B.
+(E), G.
+(F), D.
+(F), D.
+(B), E.
+(E), D"
+(B), D.
+(G), D.
+(E), A.
+(G), F"
+(A), (A) The cardinal is the third from the left.
+(E), G.
+(F), G.
+(D), F.
+(B), E.
+(G), A.
+(E), C"
+(G), E.
+(C), (B) The hummingbird is the third from the right."
+(C), E.
+(B), G.
+(E), (G) The truck is the second-oldest."
+(F), (A) The oranges are the fourth-most expensive.
+(F), E.
+(G), E.
+(C), D"
+(E), G"
+(D), (E) The crow is the second from the left.
+(A), (A) The white book is the fourth from the left.
+(D), A."
+(A), G.
+(C), G"
+(B), A.
+(A), (A) Ada finished third"}
+(F), A.
+(A), (A) Ana finished fourth.
+(B), F.
+(G), A.
+(D), B.
+(D), B.
+(A), G.
+(A), B.
+(D), A.

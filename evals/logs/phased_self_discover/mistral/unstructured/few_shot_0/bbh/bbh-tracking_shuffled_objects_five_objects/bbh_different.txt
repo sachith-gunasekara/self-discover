@@ -1,0 +1,124 @@
+(A), (E) Melissa.
+(A), (A) Jamie.
+(E), (E) The Fellowship of the Ring.
+(E), (E) Izzi.
+(C), (C) benchwarmer.
+(A), (A) green ball.
+(E), (E) purple ball.
+(D), (D) goalkeeper.
+(E), (E) Ophelia.
+(C), (C) Lola.
+(E), (E) blue ball.
+(A), (A) Izzi.
+(E), (E) Rodrigo.
+(B), (B) Catch-22.
+(B), (B) Catch-22.
+(D), (D) Ophelia.
+(A), (A) Helga.
+(E), (E) The Odyssey.
+(D), (D) purple present.
+(D), (D) yellow ball.
+(B), (B) orange ball.
+(A), (A) red ball.
+(B), (B) Moby Dick.
+(D), (D) yellow ball.
+(E), (E) Frankenstein.
+(B), (B) Ulysses.
+(C), (C) blue present.
+(D), (D) Patrick.
+(B), (B) black ball.
+(A), (A) orange ball.
+(E), (E) goalkeeper.
+(C), (C) Frankenstein.
+(E), (E) Melissa.
+(D), (D) orange ball.
+(A), (A) black ball.
+(D), (D) Hound of the Baskervilles.
+(D), (D) center midfielder.
+(B), (B) striker.
+(B), (B) striker.
+(E), (E) yellow ball.
+(C), (C) right winger.
+(E), (E) black ball.
+(D), (D) white present.
+(D), (D) Hound of the Baskervilles.
+(B), (B) Patrick.
+(E), (E) Frankenstein.
+(E), (E) cheerleader.
+(E), (E) The Pearl.
+(D), (D) Ulysses.
+(A), (A) Jamie.
+(B), (B) black ball.
+(D), (D) Helga.
+(C), (C) striker.
+(B), (B) brown present.
+(A), (A) fullback.
+(B), (B) white present.
+(B), (B) Jamie.
+(E), (E) orange ball.
+(D), (D) left midfielder.
+(A), B.
+(D), (D) orange ball.
+(C), (C) green ball.
+(A), (A) green present.
+(D), (D) white present.
+(A), (A) brown ball.
+(A), (A) Moby Dick.
+(E), (E) yellow ball.
+(A), (A) red present.
+(D), (D) Patrick.
+(A), (A) black ball.
+(B), (B) red present.
+(C), (C) Helga.
+(B), (B) Izzi.
+(A), (A) Catch-22.
+(D), (D) green ball.
+(A), (A) benchwarmer.
+(D), (D) Frankenstein.
+(C), (C) Patrick.
+(B), (B) center midfielder.
+(A), (A) The Great Gatsby.
+(E), (E) Jamie.
+(D), (D) brown ball.
+(A), (A) Ulysses.
+(C), (C) Patrick.
+(B), (B) Sam.
+(A), (A) Catch-22.
+(B), (B) Patrick.
+(A), (A) Catch-22.
+(B), (B) Karl.
+(D), (D) Jamie.
+(E), (E) left winger.
+(D), (D) yellow ball.
+(A), (A) right winger.
+(D), (D) Helga.
+(C), (C) green present.
+(A), (A) Ulysses.
+(C), (C) Hound of the Baskervilles.
+(D), (D) white ball.
+(C), (C) Catch-22.
+(C), (C) Melissa.
+(B), (B) Jamie.
+(E), (E) Melissa.
+(A), (A) green present.
+(E), (E) left midfielder.
+(B), E.
+(E), (E) center midfielder.
+(A), (A) brown present.
+(B), (B) Jamie.
+(C), (C) Lola.
+(A), (A) orange ball.
+(D), (D) Patrick.
+(A), (A) The Great Gatsby.
+(B), (B) right winger.
+(E), (E) yellow ball.
+(D), A.
+(C), (C) red ball.
+(A), (A) green present.
+(C), (C) fullback.
+(D), (D) The Fellowship of the Ring
+(D), (D) Karl.
+(D), (D) benchwarmer.
+(D), (D) Ophelia.
+(E), (E) white present.
+(D), (D) red present.

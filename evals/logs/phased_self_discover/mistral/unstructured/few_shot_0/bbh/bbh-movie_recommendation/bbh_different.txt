@@ -1,0 +1,78 @@
+(C), A.
+(C), D.
+(A), C.
+(A), None of the options are similar.
+(A), (B) The House.
+(A), D.
+(C), D.
+(C), A.
+(D), B.
+(A), B.
+(C), A.
+(D), A.
+(C), B.
+(D), None of the options.
+(D), E.
+(D), A.
+(C), B.
+(A), D.
+(B), D.
+(B), D.
+(A), D.
+(D), E.
+(D), None of the options.
+(A), D.
+(D), C.
+(A), B.
+(B), None of the options are similar to the given movies.
+(A), None.
+(B), None.
+Monsters, Inc, A.
+(D), C.
+(D), A.
+(C), None of the options.
+(B), C.
+(A), C.
+(A), B.
+(B), D.
+(B), A.
+(D), E.
+(A), D.
+(A), B.
+(A), C.
+(A), D.
+(D), A.
+(D), A.
+(A), D.
+(A), D.
+(C), B.
+(B), A.
+(A), B.
+(C), B.
+(C), B.
+(A), B.
+(D), B.
+(C), A.
+(D), A.
+(A), B.
+(D), B.
+(C), B.
+(A), that none of the options provided are similar to the given movies based on the identified criteria.
+(A), C.
+(A), B.
+(D), B.
+(A), B.
+(C), None of the options are similar.
+(C), None of the options.
+(C), B.
+(B), C.
+(A), that none of the options are a perfect match.
+(E), D.
+(C), A.
+(C), B.
+(C), D.
+(A), D.
+(A), B.
+(B), A.
+(B), None of the options are similar to the given movies.
+(B), D.

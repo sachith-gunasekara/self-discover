@@ -1,0 +1,13 @@
+(D), (D) green."
+(E), (E) blue.
+(A), B"
+(G), 6"
+(L), (D) green"
+(G), F.
+(D), (D) three."
+(B), C.
+(H), C.
+(F), G.
+(E), (E) blue."
+(B), the option selected in Step 7.",
+(B), C.

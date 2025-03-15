@@ -1,0 +1,70 @@
+(B), C.
+(E), (E) 07/01/1972.
+(B), not listed in the given options.
+(C), 11/23/2001.
+(C), (C) 06/18/2016.
+(E), not listed in the given options.
+(E), D.
+(C), (C) 11/21/2002.
+(F), (F) 11/30/2019.
+(A), C.
+(B), F.
+(F), (F) 11/29/2014.
+(A), (A) 01/31/2012.
+(E), (D) 09/09/2021.
+(B), D.
+(F), (F) 04/09/1969.
+(B), (B) 01/02/1961.
+(C), B.
+(D), E.
+(D), 11/22/2001.
+(A), (A) 12/22/1929.
+(D), not listed among the options.
+(A), not listed among the options provided.
+(C), (A) 01/09/2015.
+(C), F.
+(A), (A) 01/02/1930.
+(D), (D) 08/31/2003.
+(A), not listed among the given options.
+(A), not listed among the options.
+(D), not listed among the options provided.
+(D), B.
+(D), (D) 01/28/2017.
+(E), (E) 07/18/2002.
+(B), None of the given options match the calculated date.
+(B), F.
+(C), not listed among the provided options.
+(A), (A) 08/09/1909.
+(E), B.
+(A), (A) 11/29/2002, assuming a typographical error in the year.
+(A), not listed among the provided options.
+(A), not listed among the options provided.
+(D), not listed among the given options.
+(B), not listed in the options provided.
+(C), 12/24/2014.
+(F), B.
+(B), C.
+(D), E.
+(E), C.
+(B), C.
+(A), D.
+(C), (C) 01/02/2008.
+(D), B.
+(B), None of the above.
+(F), A.
+(D), A.
+(D), (D) 02/16/2010.
+(C), not listed among the options.
+(D), not listed in the given options.
+(A), (A) 02/28/2015.
+(A), C.
+(B), E.
+(D), (D) 06/17/2019.
+(B), not listed in the provided options.
+(E), C.
+(C), not listed among the provided options.
+(F), (F) 10/22/2002.
+(D), F.
+(A), B.
+(E), not listed among the provided options.
+(B), F.

@@ -1,0 +1,32 @@
+(A), D"
+(A), D.
+(B), E.
+(E), A.
+(E), D.
+(A), D.
+(C), D.
+(B), D.
+(C), B.
+(C), D"
+(A), (A) The blue book is the rightmost."
+(A), C.
+(A), D.
+(A), B.
+(C), D"
+(E), A.
+(C), E.
+(E), D.
+(E), C"
+(A), E.
+(C), B.
+(A), (A) The sedan is the second-newest."
+(B), C"
+(A), B**
+(C), B.
+(D), B.
+(E), C.
+(E), C.
+(A), (A) The tractor is the oldest.
+(D), A.
+(C), E.
+(A), (A) The falcon is the leftmost.

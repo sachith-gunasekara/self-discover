@@ -1,0 +1,48 @@
+(B), C"
+(E), None of the given options match the date one week ago from today.
+(B), not listed among the provided options.
+(C), that none of the given options match the calculated date."
+(E), D.
+(F), (F) 11/30/2019."
+(A), C.
+(C), None of the options match the calculated date."
+(C), not listed among the provided options.
+(E), B.
+(B), D.
+(B), that the calculated date 01/02/1963 does not match any of the provided options.
+(E), D.
+(D), A.
+(C), B.
+(D), E.
+(D), None of the options match the calculated date.
+(A), not listed in the options."
+(C), (F) 12/31/2014."
+(C), F.
+(C), B.
+(A), that none of the given options match the calculated date of 02/16/2010.
+(D), not listed among the given options.
+(D), B.
+(E), A.
+(B), None of the options match the new date.
+(B), F.
+(C), that none of the options match the calculated date 05/01/2021.
+(E), B.
+(A), None of the options match the calculated date.
+(D), that none of the options match the calculated date.
+(C), B."
+(C), not listed among the provided options.
+(B), C.
+(D), None of the options match the calculated date.
+(B), C.
+(A), D.
+(D), B.
+(B), that none of the options match the calculated date.
+(F), A"
+(D), A.
+(B), None of the options match the calculated date.
+(F), (F) 06/01/1943.
+(B), E.
+(E), C.
+(D), F.
+(A), B.
+(C), D.

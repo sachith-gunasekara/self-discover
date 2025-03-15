@@ -1,0 +1,122 @@
+(A), (A) striker.
+(E), (E) black ball.
+(E), (E) Patrick.
+(A), (A) Lolita.
+(B), (B) blue ball.
+(A), (A) The Fellowship of the Ring.
+(C), (C) green ball.
+(E), (E) Hound of the Baskervilles.
+(C), (C) Ulysses.
+(G), (G) yellow present.
+(A), (A) green present.
+(A), (A) Lola.
+(C), (C) right midfielder.
+(F), (F) Frankenstein.
+(G), (A) left winger.
+(D), B.
+(G), (G) Karl.
+(D), (D) Patrick.
+(A), (A) Catch-22.
+(C), (C) Lolita.
+(F), (F) black ball.
+(C), (C) blue ball.
+(A), (A) Lola.
+(C), (C) Lolita.
+(D), (D) red.
+(D), (D) purple ball.
+(C), (C) brown present.
+(G), (G) left midfielder.
+(E), (E) Ulysses.
+(D), (D) right midfielder.
+(E), (E) Melissa.
+(C), (C) purple ball.
+(C), (C) Jamie.
+(F), (F) yellow ball.
+(B), (B) Izzi.
+(A), (A) Lola.
+(D), (D) Lola.
+(G), (G) yellow present.
+(A), (A) black ball.
+(A), (A) orange ball.
+(G), (G) purple present.
+(B), (B) goalkeeper.
+(C), F.
+(A), (A) Lolita.
+(E), (E) center midfielder.
+(F), (F) benchwarmer.
+(D), (D) blue ball.
+(F), G.
+(C), (C) Ophelia.
+(G), (G) blue present.
+(E), (D) Ulysses.
+(F), (F) left winger.
+(D), (D) right midfielder.
+(D), (D) brown present.
+(B), (B) The Odyssey.
+(D), (D) white ball.
+(D), (D) Izzi.
+(E), (E) blue ball.
+(G), (G) The Fellowship of the Ring.
+(A), (A) goalkeeper.
+(D), (D) red ball.
+(E), (E) brown present.
+(A), (A) Sam.
+(F), (C).
+(D), (D) pink ball.
+(F), (F) Karl.
+(A), (A) Lola.
+(D), (C) Patrick.
+(A), (A) The Pearl.
+(G), (G) left midfielder.
+(D), (D) Rodrigo.
+(F), (F) black ball.
+(A), (A) purple ball.
+(A), (A) blue present.
+(A), (A) Frankenstein.
+(D), (D) green ball.
+(A), (A) blue present.
+(D), (D) Lola.
+(G), (G) Izzi.
+(E), (E) green present.
+(G), E.
+(D), (D) Rodrigo.
+(F), (F) left winger.
+(G), (G) yellow ball.
+(F), (F) Patrick.
+(E), (E) yellow ball.
+(F), (F) Helga.
+(C), (C) Lola.
+(D), (A) red present.
+(G), (G) orange ball.
+(G), (G) white ball.
+(F), (F) Lola.
+(G), (G) orange ball.
+(B), F.
+(D), (D) pink ball.
+(A), (A) purple present.
+(A), C.
+(G), (G) Patrick.
+(E), (E) yellow present.
+(B), (B) Lola.
+(E), (E) white present.
+(B), (B) right winger.
+(A), (A) orange ball.
+(A), (A) green ball.
+(C), (C) red ball.
+(F), (F) yellow present.
+(D), (D) Izzi.
+(D), (D) Melissa.
+(F), (F) right midfielder.
+(D), (D) Moby Dick.
+(C), F.
+(G), (G) Melissa.
+(E), A.
+(G), (D) left midfielder.
+(E), (E) red ball.
+(F), (F) The Odyssey.
+(C), (C) brown ball.
+(A), (A) Patrick.
+(A), (A) The Pearl.
+(A), (A) The Pearl.
+(A), (A) purple ball.
+(D), (D) purple present.

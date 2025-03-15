@@ -1,0 +1,13 @@
+(B), B"}
+(D), A.
+(D), (D) 7am to 9am.
+(A), (A) 5am to 6am."
+(A), (A) 11am to 1pm.
+(A), (A) 6am to 7am"
+(A), (A) 9am to 4pm.
+(A), (A) 12pm to 2pm.
+(A), A or B.
+(C), (C) 9am to 11am.
+(A), (A) 7am to 8am.
+(A), (A) 3pm to 6pm.
+(D), (D) 8am to 10am.
