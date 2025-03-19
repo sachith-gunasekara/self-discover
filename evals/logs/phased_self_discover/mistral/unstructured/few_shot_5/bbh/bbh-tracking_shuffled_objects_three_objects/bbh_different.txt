@@ -1,0 +1,101 @@
+(A), (A) Helga.
+(C), (C) Ulysses.
+(A), (A) pink ball.
+(B), (B) white present.
+(A), (A) Frankenstein.
+(C), (C) Lola.
+(C), (C) white ball.
+(C), (C) blue present.
+(B), (B) brown ball.
+(A), (A) Lola.
+(A), (A) Hound of the Baskervilles.
+(A), (A) Izzi.
+(A), (A) The Great Gatsby.
+(A), (A) brown ball.
+(C), (C) green ball.
+(C), (C) white ball.
+(B), (B) Helga.
+(A), (A) orange ball.
+(A), (A) orange ball.
+(B), (B) purple present.
+(C), (C) red ball.
+(A), (A) yellow present.
+(A), (A) blue present.
+(A), (A) Patrick.
+(B), (B) green present.
+(C), (C) yellow present.
+(C), (C) Patrick.
+(A), (A) Izzi.
+(B), (B) Ophelia.
+(C), (C) right winger.
+(B), (B) left midfielder.
+(B), (B) Karl.
+(B), (B) The Odyssey.
+(C), (C) The Great Gatsby.
+(A), (A) red ball.
+(A), (A) pink ball.
+(C), (C) The Fellowship of the Ring.
+(A), (A) pink ball.
+(B), (B) purple ball.
+(B), (B) yellow ball.
+(C), (C) yellow present.
+(C), (C) Left Winger.
+(A), (A) orange ball.
+(C), (C) The Odyssey.
+(C), (C) Sam.
+(A), (A) Melissa.
+(A), (A) pink ball.
+(C), (C) right winger.
+(C), (C) purple present.
+(C), (C) right midfielder.
+(C), (C) Ophelia.
+(A), (A) Rodrigo.
+(A), (A) Izzi.
+(A), (A) fullback.
+(C), (C) The Fellowship of the Ring.
+(A), (A) striker.
+(A), (A) Ophelia.
+(A), (A) striker.
+(A), (A) goalkeeper.
+(B), (B) Moby Dick.
+(C), (C) brown ball.
+(B), (B) purple present.
+(B), (B) blue present.
+(C), (C) Izzi.
+(B), (B) brown ball.
+(A), (A) orange ball.
+(A), (A) Melissa.
+(B), (B) red present.
+(A), (A) fullback.
+(B), (B) green ball.
+(B), (B) purple present.
+(A), (A) white present.
+(B), (B) Izzi.
+(C), (C) The Fellowship of the Ring.
+(C), (C) blue ball.
+(C), (C) goalkeeper.
+(A), (A) red present.
+(B), (B) Lola.
+(A), (A) red ball.
+(B), (B) black ball.
+(A), (A) Lola.
+(A), (A) The Great Gatsby.
+(A), (A) Catch-22.
+(A), (A) right winger.
+(C), (C) brown present.
+(A), (A) blue present.
+(C), (C) Rodrigo.
+(A), (A) yellow ball.
+(C), (C) white present.
+(B), (B) Jamie.
+(A), (A) black ball.
+(A), (A) striker.
+(B), (B) blue ball.
+(A), (A) Hound of the Baskervilles.
+(C), (C) blue ball.
+(C), (C) Karl.
+(A), (A) The Fellowship of the Ring.
+(C), (C) The Odyssey.
+(A), (A) Frankenstein.
+(A), (A) green ball.
+(A), (A) goalkeeper.

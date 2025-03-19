@@ -1,0 +1,19 @@
+(B), A.
+(A), The statement is sarcastic.
+(B), A.
+(B), A.
+(B), A.
+(A), B.
+(B), A.
+(B), A.
+(B), A.
+(B), A.
+(A), B.
+(B), A.
+(B), A.
+(B), A.
+(A), B.
+(B), A.
+(B), A.
+(A), both statements are sarcastic.
+(B), that both statements are sarcastic.

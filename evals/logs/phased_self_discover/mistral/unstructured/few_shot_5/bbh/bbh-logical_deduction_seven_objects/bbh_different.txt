@@ -1,0 +1,104 @@
+(D), (D) The owl is the second from the right.
+(A), (A) The owl is the third from the left.
+(A), (A) The blue jay is the fourth from the left.
+(C), G.
+(B), (F) The tractor is the second-oldest.
+(C), (C) Amy finished last.
+(G), D.
+(A), F.
+(A), (A) The robin is the fourth from the left.
+(E), (E) Dan finished last.
+(C), (C) The minivan is the oldest.
+(B), (B) The yellow book is the leftmost.
+(G), (G) The hummingbird is the second from the left.
+(C), G.
+(D), (D) Amy finished second-to-last.
+(F), (F) The black book is the third from the right.
+(E), B.
+(E), (E) The black book is the third from the left.
+(A), (A) Ada finished second-to-last.
+(D), F.
+(B), F.
+(A), (A) Dan finished second.
+(E), (A) The apples are the second-cheapest.
+(A), F.
+(D), (D) The station wagon is the fourth-newest.
+(D), (D) The minivan is the oldest.
+(E), B.
+(D), (D) The station wagon is the newest.
+(G), (A) Eve finished third-to-last.
+(A), (A) Joe finished last.
+(E), (E) Ana finished third.
+(F), (F) The truck is the oldest.
+(A), (A) The bus is the newest.
+(A), (A) The brown book is the fourth from the left.
+(G), (G) The purple book is the rightmost.
+(A), (A) The blue jay is the third from the right.
+(B), (B) The orange book is the leftmost.
+(D), C.
+(B), (B) The owl is the third from the left.
+(B), D.
+(D), (D) Dan finished fourth.
+(F), B.
+(F), E.
+(F), D.
+(F), (F) The tractor is the second-oldest.
+(A), (A) The limousine is the third-oldest.
+(A), (A) Joe finished first.
+(F), (F) The orange book is the leftmost.
+(G), (G) Mya finished first.
+(C), (C) Eli finished second.
+(D), (D) The cardinal is the leftmost.
+(B), (B) The truck is the oldest.
+(A), (E) The tractor is the second-oldest.
+(A), (A) The cardinal is the third from the left.
+(C), (C) The red book is the leftmost.
+(A), (A) Joe finished fourth.
+(F), (F) The watermelons are the cheapest.
+(F), G.
+(E), (E) Mya finished fourth.
+(D), (D) The falcon is the rightmost.
+(E), (E) The station wagon is the newest.
+(E), (E) The black book is the leftmost.
+(A), (A) Eve finished third.
+(F), (F) The tractor is the second-oldest.
+(E), (E) The owl is the leftmost.
+(A), (A) The station wagon is the third-oldest.
+(B), (B) Eve finished first.
+(D), (G) The green book is the leftmost.
+(E), (E) The apples are the cheapest.
+(D), (D) The crow is the rightmost.
+(A), (A) The motorcycle is the oldest.
+(D), (D) Dan finished first.
+(C), (C) The yellow book is the second from the left.
+(E), (E) The robin is the third from the left.
+(G), (A) The robin is the rightmost.
+(A), (A) The limousine is the fourth-newest.
+(D), (D) The falcon is the third from the left.
+(E), G.
+(F), B.
+(D), (D) The owl is the second from the left.
+(A), (A) The white book is the fourth from the left.
+(C), G.
+(G), (G) Ana finished last.
+(E), (E) The black book is the second from the left.
+(A), (A) The raven is the second from the left.
+(E), (E) The purple book is the second from the right.
+(B), D.
+(G), A.
+(A), (A) The black book is the third from the left.
+(A), (A) Ana finished fourth.
+(C), B.
+(B), (B) Ada finished fourth.
+(E), (E) The quail is the rightmost.
+(G), F.
+(D), F.
+(F), (F) Rob finished third.
+(F), (G) The raven is the leftmost.
+(D), (D) Rob finished second.
+(A), (A) The apples are the most expensive.
+(F), (F) Amy finished last.
+(E), (F) The quail is the fourth from the left.
+(B), (B) The blue jay is the third from the right.
+(B), (B) The hummingbird is the third from the left.
+(G), (G) The purple book is the third from the left.

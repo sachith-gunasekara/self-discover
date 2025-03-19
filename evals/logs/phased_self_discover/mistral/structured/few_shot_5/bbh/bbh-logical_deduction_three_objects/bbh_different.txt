@@ -1,0 +1,11 @@
+(C), A.
+(C), (C) The blue book is the leftmost."
+(A), (A) The convertible is the newest."
+(A), (A) The pears are the second-most expensive.
+(A), (A) The purple book is the rightmost.
+(A), (A) The station wagon is the second-newest.
+(A), (A) The green book is the leftmost."
+(A), (A) The blue jay is the rightmost.
+(A), B.
+(B), logically sound."
+(A), (A) The cantaloupes are the second-most expensive.

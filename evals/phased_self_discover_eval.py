@@ -6,12 +6,7 @@ from datasets import load_dataset, get_dataset_config_names
 from pyprojroot import here
 import fire
 
-try:
-    # Try importing the notebook version for Jupyter Notebooks
-    from tqdm.notebook import tqdm
-except ImportError:
-    # Fallback to the standard version for CLI environments
-    from tqdm import tqdm
+from tqdm import tqdm
 
 from self_discover import phased_self_discover
 from self_discover._helpers.logger import logger
@@ -224,8 +219,7 @@ def main(structured: bool = False, few_shot_examples: int = 0, stream: bool = Fa
                         stream,
                     )
 
-                    if acc:
-                        break
+                    break
 
                 except Exception as e:
                     error_messages = [
@@ -234,6 +228,7 @@ def main(structured: bool = False, few_shot_examples: int = 0, stream: bool = Fa
                         "Server disconnected without sending a response",
                         "Error response 502",
                         "The read operation timed out",
+                        "peer closed connection without sending complete message body"
                     ]
                     if any(msg in str(e) for msg in error_messages):
                         wait_time = config["EVAL"]["wait_time"]

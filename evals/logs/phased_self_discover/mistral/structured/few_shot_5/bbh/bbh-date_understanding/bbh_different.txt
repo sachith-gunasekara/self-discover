@@ -1,0 +1,48 @@
+(C), B.
+(D), None of the options match the calculated date.
+(B), E.
+(B), E.
+(B), C.
+(E), that none of the given options match the calculated date one week ago from Tue, 7/9/1972.
+(B), A.
+(C), None of the given options match the correct date."
+(E), None of the options match the calculated date 10/09/1924.
+(B), E."
+(D), None of the options match the calculated date.
+(D), B.
+(E), None of the options match the date 11/23/2001.
+(B), not listed among the given options.
+(B), None of the options match the calculated date.
+(E), C.
+(E), not among the given options.
+(F), (F) 10/22/2002, as it is the closest option to the calculated date."
+(D), F.
+(A), B.
+(B), The correct date today is not listed in the options provided.
+(E), D.
+(D), not listed among the given options.
+(A), D."
+(A), C.
+(B), F"
+(B), C.
+(D), that none of the options match the calculated date.
+(B), D.
+(B), F.
+(A), F.
+(A), that none of the options match the calculated date of 04/14/1985.
+(C), D.
+(C), (F) 12/20/2014."
+(B), C.
+(C), B"
+(D), E.
+(D), that the calculated date for Thanksgiving in 2001 is 11/22/2001, which does not match any of the given options.
+(E), B."
+(A), that none of the given options match the calculated date of one week from Thanksgiving in 2001.
+(A), not listed among the provided options.
+(D), not listed among the options."
+(D), B.
+(B), that none of the options match the calculated date one year ago.
+(F), A.
+(E), logically consistent."
+(D), None of the options match the next day's date.
+(E), D.

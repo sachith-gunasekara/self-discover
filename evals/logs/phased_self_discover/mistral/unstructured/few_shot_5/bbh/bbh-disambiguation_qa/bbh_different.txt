@@ -1,0 +1,159 @@
+(A), (A) The worker was repairing.
+(B), (C) Ambiguous.
+(C), (A) The developer liked the design.
+(A), (C) Ambiguous.
+(A), C.
+(A), (C) Ambiguous.
+(C), (C) Ambiguous.
+(A), (A) The visitor liked the cake.
+(A), (C) Ambiguous.**
+(A), (A) The janitor would have to mop.
+(A), (C) Ambiguous.
+(A), (A) The carpenter had been working on the house.
+(A), (A) The patient had a skin condition.
+(C), (C) Ambiguous.
+(C), B.
+(C), (C) Ambiguous.
+(C), (B) The designer liked the design.
+(C), (C) Ambiguous.
+(B), (B) Asked the cleaner.
+(C), (C) Ambiguous.
+(C), None
+(C), B.
+(A), (A) The homeowner had purchased.
+(C), (B) The cashier is arrogant.
+(C), (C) Ambiguous.
+(A), (C) Ambiguous.
+(B), (B) The office was Sam's office.
+(A), (A) The worker was repairing.
+(C), (C) Ambiguous.
+(B), (C) Ambiguous**.
+(A), (A) The developer understood the problem.
+(C), (A) It will be the producers' office.
+(C), B.
+(C), (B) The blueprints were the architect's.
+(A), (A) The patient had a skin condition.
+(A), (C) Ambiguous.
+(C), (C) Ambiguous.
+(B), (B) Told the salesperson a fake story.
+(A), (C) Ambiguous.
+(A), (C) Ambiguous.
+(C), (C) Ambiguous.
+(B), (B) Asked if the physician needs help.
+(B), (B) The patient needed more rest.
+(C), B.
+(A), (A) The developer understood the problem.
+(C), (C) Ambiguous.
+(B), (C) Ambiguous.
+(C), (C) Ambiguous.
+(C), (B) The writer uses big words.
+(C), A.
+(A), (A) The patient had a history.
+(C), (C) Ambiguous.
+(C), (C) Ambiguous.
+(C), (A) The office was the producers' office.
+(B), (C) Ambiguous.
+(A), (A) The lawyer needed to understand.
+(B), C.
+(A), (A) It is Sam's office.
+(B), (B) It was the employee's performance.
+(A), (A) The developer focuses on code.
+(A), (C) Ambiguous.
+(B), C.
+(A), (C) Ambiguous.
+(B), (B) Asked the cleaner.
+(A), C.
+(C), (B) It was the employee's car.
+(A), (C) Ambiguous.
+(B), (B) Told the editor the story.
+(C), B.
+(A), (A) The patient had a history.
+(B), (B) Helped the analyst book a flight.
+(B), (C) Ambiguous.
+(A), (A) They were my cousin's boss.
+(A), (C) Ambiguous.
+(C), (C) Ambiguous.
+(B), (C) Ambiguous.
+(A), (A) The patient had a skin condition.
+(C), (B) It is the director's office.
+(B), (C) Ambiguous.
+(B), (C) Ambiguous.
+(B), (C) Ambiguous.
+(C), (C) Ambiguous.
+(A), (A) The developer understood the problem.
+(A), (A) The patient had a history.
+(B), (B) The salesperson would send the prices.
+(B), C.
+(B), (B) The accountant needed a car.
+(B), C.
+(C), (C) Ambiguous.
+(C), B.
+(A), (C) Ambiguous.
+(C), (C) Ambiguous.
+(A), C.
+(A), (A) The paralegal was fired.
+(C), (B) The tailor broke a window.
+(A), (A) Alex could not meet.
+(A), C.
+(C), (C) Ambiguous.
+(A), (C) Ambiguous.
+(C), (C) Ambiguous.
+(A), C.
+(A), (C) Ambiguous.
+(A), (A) The lawyer needed to understand.
+(C), B.
+(C), B.
+(C), (C) Ambiguous.
+(C), (C) Ambiguous.
+(A), (C) Ambiguous**.
+(A), (A) The secretary didn't reply yet.
+(A), C.
+(C), (C) Ambiguous.
+(A), C.
+(B), (B) Asked the janitor.
+(C), (C) Ambiguous.
+(C), (C) Ambiguous.
+(C), (C) Ambiguous.
+(A), (A) The cook likes to teach.
+(B), (B) It was the chef's culinary training.
+(A), (A) It was the pathologist's microscope.
+(A), (A) The paralegal was fired.
+(A), (C) Ambiguous.
+(A), (A) Alex could not meet.
+(A), (C) Ambiguous.
+(A), (C) Ambiguous.
+(A), (C) Ambiguous.
+(B), (B) The patient needed more rest.
+(B), (C) Ambiguous.
+(A), B.
+(A), (C) Ambiguous.
+(A), (A) The janitor would have to mop.
+(C), (A) The nurse was busy.
+(B), (C) Ambiguous.
+(C), (C) Ambiguous.
+(C), B.
+(C), (A) The office was the director's office.
+(A), (D) Ambiguous.
+(A), (A) The homeowner had purchased.
+(A), (A) The developer focuses on code.
+(A), (A) The lawyer needed to understand.
+(C), (C) Ambiguous.
+(A), (C) Ambiguous.
+(A), (A) The sheriff upholds the peace.
+(A), (A) Alex could not meet.
+(B), (B) Gave the clerk a discount.
+(C), B.
+(C), (C) Ambiguous.
+(C), A.
+(C), (C) Ambiguous.
+(C), (C) Ambiguous.
+(A), (C) Ambiguous.
+(A), (C) Ambiguous.
+(C), (A) The nurse smelled awful.
+(B), C.
+(C), (C) Ambiguous.
+(A), (A) The technician completed the repair.
+(A), C.
+(B), C.
+(C), B.
+(B), (C) Ambiguous.

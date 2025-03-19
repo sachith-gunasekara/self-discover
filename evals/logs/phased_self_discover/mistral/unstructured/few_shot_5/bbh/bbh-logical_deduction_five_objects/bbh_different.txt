@@ -1,0 +1,79 @@
+(A), (A) The bus is the oldest.
+(D), (D) The black book is the third from the left.
+(E), (E) Ada finished last.
+(A), (A) Amy finished first.
+(D), (D) Joe finished second.
+(D), (D) Eli finished second-to-last.
+(D), (D) The gray book is the second from the left.
+(A), (A) The quail is the rightmost.
+(E), (E) The orange book is the third from the left.
+(D), (D) Joe finished last.
+(B), (B) The tractor is the second-oldest.
+(E), (E) Rob finished first.
+(E), C.
+(E), (E) The blue book is the leftmost.
+(C), B.
+(D), B.
+(D), (D) The orange book is the third from the left.
+(A), (A) The owl is the second from the left.
+(C), B.
+(D), (D) The yellow book is the second from the left.
+(A), (A) The cardinal is the leftmost.
+(E), (E) The motorcycle is the newest.
+(E), (E) The yellow book is the third from the left.
+(B), C.
+(E), D.
+(A), (A) The owl is the second from the right.
+(D), (D) The bus is the oldest.
+(D), E.
+(D), (D) The hawk is the third from the left.
+(A), (D) The hummingbird is the second from the right.
+(A), (A) The black book is the second from the left.
+(D), C.
+(C), D.
+(D), (D) The blue jay is the leftmost.
+(A), (A) The sedan is the second-newest.
+(B), (C) The orange book is the leftmost.
+(C), (C) Eve finished third.
+(E), (E) Rob finished second.
+(D), (D) The hawk is the third from the left.
+(A), (C) The motorcycle is the oldest.
+(E), (E) The convertible is the second-oldest.
+(B), (B) The orange book is the third from the left.
+(B), C.
+(C), (C) Eli finished last.
+(A), B.
+(A), (A) The loquats are the third-most expensive.
+(A), (A) The robin is the rightmost.
+(A), D.
+(E), C.
+(A), (A) The owl is the leftmost.
+(D), (D) Mya finished second-to-last.
+(E), (E) Joe finished second.
+(C), (A) The truck is the second-newest.
+(D), (D) The truck is the oldest.
+(A), (A) The tractor is the third-newest.
+(E), (E) The quail is the second from the left.
+(C), (C) The bus is the second-newest.
+(A), (A) The owl is the leftmost.
+(D), (D) The bus is the second-newest.
+(B), (B) The bus is the third-newest.
+(E), (E) The red book is the leftmost.
+(A), (A) Joe finished second.
+(A), (A) Rob finished last.
+(C), (C) Rob finished third.
+(A), (A) The white book is the third from the left.
+(E), D.
+(A), (A) The gray book is the third from the left.
+(D), (D) Mya finished second-to-last.
+(A), (A) The yellow book is the rightmost.
+(A), (A) Mel finished first.
+(E), (E) The green book is the second from the left.
+(A), (A) Amy finished third.
+(A), (A) The blue book is the leftmost.
+(A), (A) The falcon is the leftmost.
+(D), (D) The convertible is the oldest.
+(A), (A) The raven is the leftmost.
+(A), (A) The crow is the second from the left.
+(A), (A) The loquats are the cheapest.
+(D), (D) The yellow book is the second from the left.

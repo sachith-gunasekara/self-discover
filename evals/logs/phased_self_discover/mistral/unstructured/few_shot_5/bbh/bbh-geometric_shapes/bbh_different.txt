@@ -1,0 +1,87 @@
+(F), B.
+(G), J.
+(F), B.
+(D), J.
+(K), H.
+(K), I.
+(C), (G) pentagon.
+(B), (B) heptagon.
+(K), D.
+(K), J.
+(K), D.
+(B), J.
+(K), J.
+(K), H.
+(C), B.
+(K), D.
+(K), D.
+(I), (I) sector.
+(K), J.
+(F), C.
+(C), D.
+(J), E.
+(K), D.
+(K), D.
+(C), B.
+(K), H.
+(D), J.
+(C), B.
+(C), G.
+(G), D.
+(F), D.
+(K), H.
+(K), D.
+(G), D.
+(K), A.
+(C), G.
+(B), E.
+(K), D.
+(I), (I) sector.
+(C), G.
+(F), G.
+(D), J.
+(D), (D) kite.
+(D), H.
+(F), B.
+(K), D.
+(I), J.
+(K), D.
+(F), D.
+(K), D.
+(K), I.
+(D), J.
+(B), C.
+(I), (I) sector.
+(B), D.
+(C), B.
+(D), H.
+(D), E.
+(C), J.
+(F), G.
+(I), (I) sector.
+(G), J.
+(K), I.
+(G), J.
+(K), J.
+(K), D.
+(F), G.
+(C), G.
+(K), I.
+(K), A.
+(B), C.
+(F), G.
+(K), D.
+(B), D.
+(C), G.
+(G), J.
+(B), G.
+(K), I.
+(G), J.
+(B), G.
+(K), (D) kite.
+(K), I.
+(K), H.
+(K), H.
+(B), (J) triangle.
+(F), B.
+(K), (K) ellipse.

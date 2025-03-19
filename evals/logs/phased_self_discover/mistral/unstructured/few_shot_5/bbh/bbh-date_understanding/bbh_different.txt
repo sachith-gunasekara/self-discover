@@ -1,0 +1,42 @@
+(B), not listed in the provided options.
+(C), B.
+(D), A.
+(E), C.
+(B), C.
+(B), C.
+(D), 12/26/1962.
+(D), B.
+(E), 11/23/2001.
+(B), E.
+(E), C.
+(D), F.
+(A), B.
+(E), None of the options.
+(E), (D) 12/31/2014.
+(D), not listed in the options.
+(A), D.
+(A), C.
+(E), not available in the given options.
+(B), F.
+(B), C.
+(D), None of the options match.
+(C), A.
+(B), D.
+(B), F.
+(A), F.
+(A), not listed among the options.
+(C), F.
+(C), F.
+(A), (A) 09/12/2020.
+(C), B.
+(D), E.
+(E), B.
+(A), (A) 11/29/2002.
+(A), not listed in the provided options.
+(D), not listed among the given options.
+(D), B.
+(B), None of the above.
+(F), A.
+(D), not listed in the options.
+(F), (F) 09/08/2020.
+(E), None of the options are correct.

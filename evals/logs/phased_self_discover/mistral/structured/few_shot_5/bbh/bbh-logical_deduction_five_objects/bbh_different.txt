@@ -1,0 +1,28 @@
+(B), C.
+(A), (A) The quail is the rightmost.
+(E), C.
+(E), (E) Rob finished first."
+(E), C.
+(B), C.
+(C), D.
+(B), (C) The purple book is the rightmost.
+(E), C.
+(A), (A) The blue jay is the second from the right.
+(A), (A) The mangoes are the cheapest.
+(C), D.
+(C), E"
+(E), C"
+(B), D"
+(A), (A) The black book is the leftmost.
+(A), C"
+(E), A.
+(C), (C) The motorcycle is the third-newest.
+(E), C.
+(C), D.
+(E), D.
+(E), D.
+(B), D.
+(A), (A) The oranges are the cheapest.
+(A), (A) The crow is the second from the left.
+(A), (A) The loquats are the cheapest.
+(D), A.

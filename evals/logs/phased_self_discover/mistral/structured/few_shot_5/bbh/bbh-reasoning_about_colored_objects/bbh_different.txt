@@ -1,0 +1,18 @@
+(D), (D) green."
+(B), the option selected in Step 4.",
+(O), (O) black.
+(B), (B) no."
+(B), C.
+(A), (A) yes.
+(A), B.
+(B), C.
+(A), (A) zero.
+(D), B.
+(E), confirmed to be correct.",
+(A), B"
+(D), (D) three."
+(I), (I) mauve.
+(A), (A) yes.
+(F), L"
+(C), the option that matches the count of remaining yellow items.",
+(F), K"

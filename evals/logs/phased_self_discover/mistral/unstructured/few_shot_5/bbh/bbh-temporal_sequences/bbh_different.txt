@@ -1,0 +1,45 @@
+(A), (A) 12pm to 2pm.
+(D), (D) 7pm to 9pm.
+(A), (A) 5am to 7am.
+(A), (A) 6pm to 9pm.
+(A), (A) 6pm to 7pm.
+(A), (A) 4pm to 5pm.
+(D), (D) 6am to 8am.
+(C), (C) 5pm to 6pm.
+(A), (A) 5pm to 6pm.
+(D), (D) 8am to 9am.
+(C), (C) 9am to 11am.
+(C), (C) 9am to 4pm.
+(D), (D) 5am to 6am.
+(B), B and D.
+(D), (D) 5am to 6am.
+(A), (A) 6am to 7am.
+(A), (A) 2pm to 5pm.
+(C), (C) 12pm to 2pm.
+(A), (A) 1pm to 3pm.
+(D), (D) 3pm to 5pm.
+(D), (D) 5am to 6am.
+(C), (C) 6am to 7am.
+(D), (D) 5pm to 6pm.
+(D), (D) 11am to 8pm.
+(C), (C) 7am to 6pm.
+(A), (A) 11am to 1pm.
+(A), (A) 3pm to 6pm.
+(A), (A) 3pm to 4pm.
+(C), (C) 4pm to 5pm.
+(A), (A) 7am to 8am.
+(A), A, D.
+(D), (D) 3pm to 6pm.
+(A), (A) 9am to 1pm.
+(D), (D) 5pm to 7pm.
+(C), (C) 4pm to 5pm.
+(A), (A) 6am to 7am, (C) 8am to 9am, (D) 3pm to 5pm.
+(D), A and D.
+(C), (A) and (C).
+(A), (A) 5am to 6am.
+(A), (A) 3pm to 4pm.
+(A), (A) 1pm to 2pm.
+(A), (A) 7am to 10am.
+(D), (D) 5am to 11am.
+(D), (D) 8am to 12pm.
+(D), (D) 8pm to 9pm.

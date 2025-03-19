@@ -1,0 +1,250 @@
+yes, The sentence 'Tyreek Hill caught the screen pass' is plausible."
+no, The sentence is plausible in a sports context, specifically referring to taking a three-pointer in basketball.
+no, The sentence is not plausible.
+yes, The sentence "Gerard Pique scored a corner kick" is not plausible.
+no, False.
+no, False.
+yes, The statement is plausible but not confirmed by available data.
+yes, The sentence is plausible.
+no, The sentence "Zach LaVine shot the puck" is not plausible.
+no, False.
+no, The sentence is not plausible.
+yes, The sentence is plausible.
+no, The sentence is not plausible.
+no, False.
+no, Not Plausible.
+yes, The sentence "Aleksander Barkov passed the puck" is plausible.
+yes, The sentence is plausible.
+no, The sentence "Draymond Green threw a touchdown" is not plausible.
+yes, not plausible.
+yes, The sentence "Robert Woods converted the first down" is plausible.
+no, The sentence "Elias Lindholm beat the buzzer." is plausible.
+yes, The sentence is plausible.
+yes, The sentence is plausible.
+no, The sentence is not plausible.
+no, The sentence "Mookie Betts skated behind the net" is not plausible.
+yes, The sentence "John Tavares earned a trip to the penalty box in the Stanley Cup" is plausible.
+yes, The sentence "David Silva took a throw in" is not plausible.
+no, The sentence is not plausible.
+yes, The sentence "Carles Puyol did a maradona on the defender" is not plausible.
+no, False.
+no, The sentence is not plausible.
+no, False.
+yes, The sentence is not plausible.
+no, False.
+no, False.
+yes, False.
+no, The sentence "Willian killed the powerplay" is plausible, especially in a sports or gaming context where "killed" is used metaphorically to indicate that Willian effectively neutralized or ended the powerplay.
+yes, The sentence "Kendrick Nunn took a charge" is plausible.
+no, The sentence is not plausible.
+yes, The sentence is plausible.
+yes, The sentence is not plausible.
+no, False.
+no, The sentence "Mookie Betts scored on the power play" is not plausible.
+no, False.
+yes, False."
+yes, The sentence "Mike Williams fumbled the ball in the Superbowl" is plausible.
+yes, The sentence "Allen Robinson gained five yards" is plausible.
+no, The sentence "Mario Gomez scored a reverse layup" is not plausible.
+no, False.
+yes, The sentence "Jamison Crowder drew a flag on the play" is plausible.
+yes, False. Pete Alonso has not participated in the World Series, and his historical performance does not indicate a high likelihood of hitting a triple in such a context."
+no, False.
+yes, The sentence "Francisco Lindor walked on ball four" is plausible.
+no, False.
+yes, The sentence is not plausible.
+yes, The sentence is plausible.
+no, The sentence is not plausible.
+no, The sentence is not plausible.
+yes, The sentence "Mitchell Robinson airballed the shot" is plausible but not highly probable.
+no, The sentence is not plausible.
+no, not plausible.
+yes, The sentence "Andres Iniesta performed a give and go" is plausible.
+yes, The sentence "Drew Brees was flagged on the play." is plausible.
+yes, that the sentence is plausible but less likely."
+yes, The sentence is plausible.
+yes, The sentence "Matthew Stafford launched a hail mary" is plausible.
+yes, The sentence is plausible.
+no, False.
+yes, The sentence is plausible.
+yes, The sentence "Dejounte Murray took a side-step three" is plausible.
+no, False.
+yes, The sentence is plausible.
+yes, The sentence is plausible.
+no, The sentence is not plausible.
+no, The sentence is not plausible.
+yes, The sentence "Tuukka Rask killed the powerplay" is plausible.
+no, not plausible.
+yes, The sentence "Jordan Binnington scored in the third period" is not plausible.
+yes, The sentence is plausible.
+no, The sentence "Didier Drogba got into the endzone" is plausible but unlikely without specific evidence.
+no, The sentence is not plausible.
+no, The sentence "Pedro struck out the side" is plausible.
+no, False.
+no, False.
+no, The sentence "Igor Shesterkin launched a hail mary" is not plausible.
+no, The statement is not plausible.
+no, The sentence "Philip Rivers drove into the restricted area" is plausible.
+yes, The sentence "Norman Powell committed a blocking foul" is plausible.
+no, The sentence is not plausible.
+yes, The sentence "Sterling Shepard converted the first down" is plausible.
+no, The sentence is not plausible.
+yes, The sentence "Pierre-Luc Dubois skated backwards" is plausible.
+yes, The sentence "Ryan O'Reilly wristed a shot" is plausible.
+yes, The sentence is plausible.
+yes, The sentence is plausible.
+no, The sentence is not plausible.
+no, The sentence "Gleyber Torres scored a bicycle kick" is not plausible.
+no, The sentence "Tyler Glasnow scored a penalty kick" is not plausible.
+no, True.
+yes, The sentence "Jayson Tatum was called for the goal tend" is plausible.
+no, The sentence is plausible.**
+no, The sentence is implausible.
+yes, The sentence "Jayson Tatum took a side-step three in the NBA Championship" is plausible.
+no, The sentence "Thomas Muller hit a triple" is not plausible.
+yes, The sentence is plausible.
+no, The sentence "Jerry Jeudy killed the powerplay" is plausible.
+yes, True."
+yes, The statement "Mikal Bridges scored a windmill dunk" is plausible.
+yes, The sentence is plausible.
+yes, The sentence "Jaylen Brown committed a three-second violation" is not plausible.
+yes, The sentence "Patrick Kane backhanded a shot in the Stanley Cup" is plausible.
+yes, The sentence is plausible.
+no, The sentence "James Karinchak crossed the blue line" is not plausible.
+yes, True."
+no, The sentence "Steven Stamkos hit the slant pass" is plausible.
+yes, The sentence is plausible.
+no, False.
+yes, The sentence is plausible.
+no, The sentence is not plausible.
+yes, The statement is plausible.
+no, False. The statement 'Juan Soto did a double stepover' is not plausible given his role as a baseball player and the nature of the sport."
+yes, The statement "Juan Mata scored a bicycle kick in the Champions League Final" is not plausible.
+no, True.
+no, The sentence is plausible.
+yes, The sentence "Caris LeVert scored a reverse dunk" is plausible.
+no, The sentence "Emmanuel Sanders got a base hit" is not plausible.
+no, The sentence "Robert Woods killed the powerplay" is plausible.
+yes, The sentence is plausible.
+no, The sentence "Tristan Jarry dunked the ball" is not plausible.
+no, The sentence is not plausible.
+yes, The sentence "Caris LeVert scored a reverse layup" is plausible.
+no, False. Andrei Svechnikov is a professional ice hockey player, not a baseball player. Therefore, the sentence "Andrei Svechnikov took ball four" is not plausible.
+no, False.
+no, False.
+no, False.
+no, The sentence "Elias Lindholm took the snap." is not plausible.
+no, The sentence "Fred VanVleet passed the puck" is not plausible.
+no, False.
+yes, The statement "Javier Mascherano took a left footed shot" is plausible.
+yes, The sentence is plausible.
+yes, The sentence is not plausible.
+no, The sentence is plausible.
+no, The sentence is not plausible.
+yes, The sentence is plausible.
+yes, The sentence "Collin Sexton hit the buzzer beater" is plausible.
+yes, The sentence is plausible.**
+no, The sentence "Nick Foles lost control of the puck" is not plausible.
+yes, The sentence "Ryan Nugent-Hopkins killed the powerplay" is plausible.
+no, The sentence is implausible.
+yes, True."
+yes, False.
+yes, The sentence is plausible.
+no, The sentence "Gerrit Cole set the hard screen" is implausible.
+no, The sentence is not plausible.
+no, False."
+yes, The sentence "Jakub Vrana skated backwards" is plausible.**
+yes, The sentence "Deshaun Watson was flagged on the play" is plausible if the context and actions align with NFL rules that would result in a penalty or infraction.
+yes, False.
+yes, The sentence "Juan Soto took ball four" is plausible.
+yes, The sentence "Anthony Davis beat the buzzer" is plausible.
+yes, The sentence is plausible.
+no, The sentence is not plausible.
+yes, The sentence is plausible.
+no, The sentence is not plausible.
+no, The sentence is not plausible.
+no, The sentence is not plausible.
+yes, False."
+no, False.
+yes, The sentence is plausible.
+no, The statement "Robert Lewandowski threw a touchdown" is not plausible.
+yes, The sentence "Carson Wentz caught the screen pass" is implausible.
+no, The sentence "Bryce Harper fumbled the ball" is not plausible.
+no, False."
+no, The sentence is not plausible.
+no, The sentence is not plausible.
+yes, The sentence "Jonas Valanciunas beat the buzzer" is plausible.
+no, The sentence "Nerlens Noel was out at home" is plausible if interpreted in a context where "out" refers to being unavailable or not playing in a game, and "at home" refers to the location of the game.
+yes, The sentence is plausible.
+no, False.
+yes, The statement "David Pastrnak skated backwards" is plausible.
+no, The sentence "Dani Alves took the snap" is not plausible.
+no, False."
+no, The sentence "Mark Stone hit a triple" is not plausible.
+yes, The sentence "Teuvo Teravainen shot the puck" is plausible.
+yes, The sentence is plausible.
+no, False.
+yes, The sentence "Kyle Tucker stepped on first base" is plausible.
+yes, The sentence "Neymar did a maradona on the defender in the Champions League Semifinal" is plausible.
+no, The sentence "Mookie Betts took a side-step three" is not plausible. The phrase "side-step three" is not a recognized term or action in baseball, and the use of "three" in this context is ambiguous and does not make logical sense.
+yes, The sentence "Sonny Gray was out at second" is plausible but highly unusual.
+no, False.
+no, The sentence is not plausible.
+no, The sentence "Justin Herbert maradona'd the defender" is not plausible.
+yes, The sentence "Blake Snell hit a single" is not plausible.
+yes, The sentence is not plausible.
+yes, The sentence is plausible.
+no, The sentence "Pepe converted the first down" is plausible.
+yes, The sentence is plausible.**
+no, The sentence is not plausible.
+yes, The sentence is plausible."
+no, False.
+no, False."
+no, False.
+no, False.
+no, The sentence is plausible.
+no, The sentence is not plausible.
+no, The sentence is not plausible.
+yes, The statement "Bastian Schweinsteiger scored in added time" is plausible.
+no, False.
+no, The sentence "Ketel Marte got into the endzone" is not plausible.
+no, The sentence "Carson Wentz took to the ice" is not highly plausible based on the available information.
+no, The sentence is plausible.
+yes, The sentence is plausible.
+no, The sentence "Jayson Tatum nutmegged the defender" is plausible.
+no, The sentence "Dougie Hamilton hit the buzzer beater" is not plausible.
+yes, The sentence is not plausible.
+yes, The sentence is plausible.
+no, The sentence "Adam Thielen scored in added time" is plausible.
+yes, The sentence is plausible.
+yes, False.
+yes, The sentence "Philip Rivers launched a hail mary" is plausible.
+yes, The sentence 'Drew Brees went for it on fourth down' is plausible given his historical decision-making and the strategic context of football games."
+no, The sentence "Kevin Durant hit a walkoff homer" is not plausible.
+yes, The sentence "Santi Cazorla earned a red card in the Champions League Final" is not plausible.
+no, The sentence "Ryan Tannehill hit a triple" is not plausible.
+yes, Yes."
+yes, The sentence is plausible.
+yes, The sentence is not plausible.
+no, The sentence "Clint Capela got into the endzone" is not plausible.
+no, False.
+no, The sentence is not plausible.
+yes, The sentence is plausible.
+yes, The sentence "Yaya Toure scored a freekick" is plausible but not highly likely based on available data.
+no, The sentence is not plausible.
+no, The sentence is plausible.
+no, False.
+no, The sentence "Walker Buehler earned a trip to the penalty box" is not plausible.
+no, The sentence "Carlos Tevez skated backwards" is not plausible.
+yes, The sentence 'Ben Simmons was called for the goal tend' is plausible."
+no, Yes.
+no, False.
+no, The sentence is not plausible.
+yes, The sentence is not plausible.
+no, False."
+yes, The statement "Toni Kroos performed a give and go" is plausible.
+yes, False.
+no, The sentence "Sergio Busquets got on base" is not plausible.
+no, The sentence is not plausible.
+no, False."
+no, False.

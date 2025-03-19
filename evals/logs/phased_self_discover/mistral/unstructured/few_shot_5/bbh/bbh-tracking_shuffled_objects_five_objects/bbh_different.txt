@@ -1,0 +1,87 @@
+(A), (A) Moby Dick.
+(C), (C) Ophelia.
+(A), (A) pink ball.
+(D), (D) yellow ball.
+(A), (A) right winger.
+(D), (D) Frankenstein.
+(A), (A) Ulysses.
+(C), (C) orange ball.
+(C), (C) Hound of the Baskervilles.
+(C), (C) Melissa.
+(A), (A) Jamie.
+(D), (D) Lolita.
+(C), (C) benchwarmer.
+(A), (A) green ball.
+(E), (E) purple ball.
+(B), (B) green ball.
+(D), (D) goalkeeper.
+(B), (B) Izzi.
+(D), (D) green ball.
+(B), (B) black ball.
+(A), (A) right winger.
+(A), (A) left winger.
+(A), (A) Ophelia.
+(D), (D) Karl.
+(C), (C) Lola.
+(A), (A) green present.
+(E), (E) Lola.
+(B), (B) Melissa.
+(E), (E) yellow ball.
+(C), (C) red ball.
+(A), (A) orange ball.
+(C), (C) left winger.
+(A), (A) Jamie.
+(E), (E) goalkeeper.
+(D), (D) orange ball.
+(A), (A) black ball.
+(D), (D) Frankenstein.
+(D), (D) purple present.
+(A), (A) The Great Gatsby.
+(C), (C) pink ball.
+(D), (D) brown ball.
+(D), (D) Lolita.
+(D), (D) purple present.
+(D), (D) yellow ball.
+(B), (B) red present.
+(B), (B) Rodrigo.
+(B), (B) fullback.
+(D), (D) Ulysses.
+(A), (A) blue present.
+(C), (C) green present.
+(B), (B) black ball.
+(D), (D) white ball.
+(C), (C) Catch-22.
+(E), (E) orange ball.
+(B), (B) brown present.
+(D), (D) center midfielder.
+(C), (C) black ball.
+(D), (D) orange ball.
+(D), (D) Lolita.
+(D), (D) white present.
+(A), (A) brown ball.
+(A), (A) Karl.
+(A), (A) Ulysses.
+(B), (B) Sam.
+(B), (B) Karl.
+(D), (D) Jamie.
+(B), (B) orange ball.
+(A), (A) red ball.
+(D), (D) yellow ball.
+(C), (C) blue present.
+(B), (B) black ball.
+(D), (D) pink ball.
+(C), (C) Lola.
+(E), (E) yellow ball.
+(D), (D) yellow present.
+(A), (A) right midfielder.
+(D), (D) black ball.
+(D), (D) Izzi.
+(A), (A) brown present.
+(E), (E) Patrick.
+(D), (D) orange ball.
+(D), (D) Ophelia.
+(E), (E) Ophelia.
+(E), (E) white present.
+(D), (D) red present.
+(A), (A) Izzi.
+(C), (C) red ball.

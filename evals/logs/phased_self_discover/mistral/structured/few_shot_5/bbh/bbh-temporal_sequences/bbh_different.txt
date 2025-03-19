@@ -1,0 +1,31 @@
+(D), (D) 7am to 9am.
+(A), (A) 5am to 7am."
+(C), (C) 4pm to 5pm."
+(C), C or D.
+(A), (A) 6pm to 9pm"
+(C), (C) 5am to 7am.
+(A), (A) 10am to 12pm.
+(A), (A) 5am to 7am, (B) 11am to 12pm, (C) 12pm to 2pm.
+(A), D.
+(A), (A) 12pm to 3pm."
+(D), (D) 5am to 6am."
+(A), (A) 6am to 7am.
+(C), D"
+(C), D.
+(A), A and D.
+(D), (C) 11am to 5pm.
+(A), (A) 5pm to 9pm.
+(C), (C) 10am to 1pm.
+(A), (A) 3pm to 4pm."
+(A), (A) 8pm to 9pm.
+(A), (A) 12pm to 6pm."
+(A), (A) 9am to 1pm.
+(A), (A) 6am to 7am.
+(A), (A) 10am to 12pm.
+(D), (D) 7am to 9am.
+(A), (A) 7am to 10am.
+(D), B.
+(B), (B) 4pm to 8pm."
+(A), (A) 6am to 12pm.
+(A), D"
+(A), (A) 8am to 12pm.

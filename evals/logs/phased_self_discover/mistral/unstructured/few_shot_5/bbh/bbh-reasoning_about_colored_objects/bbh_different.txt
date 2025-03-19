@@ -1,0 +1,24 @@
+(I), (I) mauve.
+(E), (E) blue.
+(A), (A) zero.
+(J), F.
+(B), C.
+(K), (K) turquoise.
+(N), (N) gold.
+(A), (A) zero.
+(B), C.
+(E), (E) four.
+(A), (A) yes.
+(B), (B) orange.
+(N), (N) gold.
+(A), B.
+(A), (A) zero.
+(D), E.
+(E), (E) blue.
+(A), (A) yes.
+(E), (E) blue.
+(B), the count of the remaining scrunchiephone chargers.
+(B), A.
+(A), (A) red.
+(B), None
+(C), (C) two.

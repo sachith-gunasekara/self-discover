@@ -1,0 +1,59 @@
+(A), (A) The owl is the third from the left.
+(F), (F) The truck is the third-oldest.
+(C), D"
+(B), (A).
+(A), B."
+(F), B.
+(A), F.
+(C), correct."
+(D), C.
+(C), G.
+(E), B.
+(E), (E) The black book is the third from the left."
+(G), E"
+(D), F.
+(G), C.
+(B), A.
+(A), C.
+(E), B.
+(G), B.
+(E), (A) The hawk is the second from the left"
+(B), D.
+(E), G.
+(F), (D) The black book is the third from the left.
+(F), A"
+(G), (F) The red book is the fourth from the left.
+(A), (A) The limousine is the third-oldest.
+(D), (D) Ana finished third-to-last.
+(G), C.
+(C), E.
+(F), E"
+(A), (A) The hatchback is the second-oldest"
+(A), (A) Joe finished fourth.
+(F), C.
+(E), C.
+(D), (D) The falcon is the rightmost.
+(A), (A) Eve finished third.
+(D), (D) The purple book is the leftmost"
+(B), F.
+(F), (F) Eve finished first.
+(D), G.
+(E), C.
+(G), A.
+(D), (D) The falcon is the third from the left.
+(E), C"
+(E), B.
+(F), D"
+(C), F"
+(A), C.
+(E), F"
+(G), E.
+(F), D."
+(A), G.
+(E), A.
+(A), (A) The black book is the third from the left."
+(B), F.
+(E), C.
+(G), E.
+(E), G.
+(B), G.
