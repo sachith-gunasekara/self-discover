@@ -1,0 +1,88 @@
+{
+  "builder_name": "parquet",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "t4d",
+  "dataset_size": 255255,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/sachithgunasekara/t4d@283f126413b428d256f35300b7c57731d6ea9659/data/train-00000-of-00001.parquet": {
+      "num_bytes": 53357,
+      "checksum": null
+    }
+  },
+  "download_size": 53357,
+  "features": {
+    "story": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "question": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "answer": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "characters": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "distracting_characters": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    },
+    "reasoning_formats": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "selected_modules": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "adapted_modules": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "reasoning_structure": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "reasoning": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "trajectory": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "answer_pred": {
+      "dtype": "string",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 308612,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 255255,
+      "num_examples": 564,
+      "dataset_name": "t4d"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

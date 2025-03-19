@@ -1,0 +1,13 @@
+True, None
+False, True.
+True, False.
+False, True.
+True, None
+False, `False`.
+False, True.
+True, `True`.
+True, `True`.
+True, None
+True, False.
+True, False**.
+False, True.

@@ -1,0 +1,20 @@
+(A), B.
+(A), (A). Sentence A follows the correct adjective order rule."
+(A), B.
+(A), B"
+(B), A."
+(A), Option (A)."
+(B), A.
+(A), B.
+(B), A."
+(B), A.
+(A), A. Sentence A follows the correct adjective order: new (age), white (color), lead (material), walking (purpose)."
+(A), B.
+(B), A.
+(B), B. Option B follows the correct adjective order: opinion (silly), age (old-fashioned), color (tan)."
+(A), A. Sentence A follows the correct adjective order: size (enormous), shape (rectangular), color (blue), noun (dog)."
+(A), B. Sentence B follows the correct adjective order according to standard linguistic rules."
+(A), B.
+(A), B"
+(A), B.
+(B), B. Sentence (B) follows the correct adjective order rules: opinion, size, origin, material, purpose."

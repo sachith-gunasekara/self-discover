@@ -1,0 +1,26 @@
+(A), B.
+(A), Both statements are sarcastic.
+(A), B.
+(A), Neither statement is sarcastic.
+(B), A.
+(B), A.
+(B), Both statements are sarcastic.
+(A), B.
+(B), A.",
+(B), A.
+(B), A.
+(A), B.
+(B), A.
+(B), B. Statement B is sarcastic due to its use of exaggeration, irony, and humorous tone, as well as its reference to 'trolls' as an 'endangered species,' which is incongruous and intended to ridicule."
+(B), A.
+(B), A.
+(B), A.
+(B), A.
+(B), A.
+(B), A.
+(B), A.
+(B), A.
+(A), both statements (A) and (B) are sarcastic.**
+(A), that the statement "(A) The NB" cannot be determined as sarcastic due to insufficient context.
+(A), B.
+(B), A."

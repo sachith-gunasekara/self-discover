@@ -1,0 +1,89 @@
+(E), (E) The orange book is the leftmost.
+(D), E.
+(A), (A) The truck is the third-newest.
+(E), (E) Eve finished third.
+(D), (D) The hatchback is the second-oldest.
+(A), (A) The blue book is the leftmost.
+(D), (D) The convertible is the second-oldest.
+(A), (A) The brown book is the third from the left.
+(D), (D) Joe finished first.
+(A), (A) The watermelons are the cheapest.
+(A), (A) The crow is the second from the left.
+(A), (A) The loquats are the cheapest.
+(E), (E) The robin is the second from the right.
+(D), (D) The yellow book is the second from the left.
+(C), (C) Eve finished third.
+(E), (E) Rob finished second.
+(A), (C) The motorcycle is the oldest.
+(E), (E) The hatchback is the third-newest.
+(A), (A) The mangoes are the cheapest.
+(A), (A) The black book is the second from the left.
+(B), (B) The crow is the rightmost.
+(A), (A) Rob finished first.
+(B), D.
+(D), (D) The bus is the second-newest.
+(B), (B) The bus is the third-newest.
+(A), (A) The yellow book is the rightmost.
+(A), (A) Mel finished first.
+(C), (C) Joe finished second.
+(A), (A) The owl is the leftmost.
+(E), D.
+(D), (D) The sedan is the newest.
+(A), (A) The black book is the leftmost.
+(C), (C) Eli finished last.
+(A), (A) The green book is the rightmost.
+(E), (E) The motorcycle is the second-newest.
+(A), (A) The watermelons are the most expensive.
+(B), (B) Dan finished third.
+(D), (D) The orange book is the third from the left.
+(B), (B) The purple book is the third from the left.
+(A), (A) The owl is the second from the left.
+(D), (D) The station wagon is the oldest.
+(D), E.
+(A), (A) Eve finished third.
+(B), (A) The gray book is the third from the left.
+(E), C.
+(A), (A) Joe finished second.
+(A), (A) Rob finished last.
+(D), (D) The oranges are the third-most expensive.
+(A), (A) The bus is the oldest.
+(E), (E) Joe finished second.
+(B), (B) The orange book is the third from the left.
+(E), (E) Rob finished first.
+(E), (C) The peaches are the cheapest.
+(D), (D) The blue jay is the leftmost.
+(A), (A) The sedan is the second-newest.
+(B), (B) The yellow book is the leftmost.
+(B), C.
+(C), (C) The gray book is the second from the right.
+(C), (C) Rob finished third.
+(C), (C) Dan finished first.
+(E), B.
+(A), (A) Amy finished first.
+(D), (D) Eli finished second-to-last.
+(A), (A) The gray book is the second from the left.
+(D), (D) Rob finished third.
+(B), (B) Eli finished third.
+(A), (A) Amy finished third.
+(E), (E) The orange book is the third from the left.
+(D), B.
+(E), (E) The yellow book is the third from the left.
+(B), (B) The red book is the rightmost.
+(E), D.
+(A), (A) The tractor is the oldest.
+(A), (A) The owl is the second from the right.
+(A), (A) The apples are the second-cheapest.
+(C), E.
+(D), C.
+(D), (D) Mya finished third.
+(D), (D) The hawk is the third from the left.
+(C), (C) The brown book is the second from the left.
+(C), (C) The gray book is the second from the left.
+(D), (A) The tractor is the second-newest.
+(D), (D) The yellow book is the second from the left.
+(E), (E) Mel finished third.
+(C), (C) The blue jay is the third from the left.
+(A), (A) The blue book is the leftmost.
+(A), (A) The falcon is the leftmost.
+(A), (A) The oranges are the cheapest.
+(D), (D) The convertible is the oldest.

@@ -1,0 +1,85 @@
+(A), (A) The blue jay is the second from the left.
+(C), (C) The red book is the second from the left.
+(A), (A) The sedan is the oldest.
+(A), (A) The truck is the newest.
+(A), (A) The red book is the leftmost.
+(C), (C) The blue book is the leftmost.
+(C), (C) The quail is the leftmost.
+(A), (A) The gray book is the leftmost.
+(A), (A) The hummingbird is the leftmost.
+(A), (A) The motorcycle is the oldest.
+(C), (C) Mel finished second.
+(A), (A) The green book is the leftmost.
+(A), (A) The crow is the leftmost.
+(C), (C) The yellow book is the second from the left.
+(B), (B) The peaches are the most expensive.
+(C), (C) The red book is the leftmost.
+(A), (A) Joe finished first.
+(B), (B) The orange book is the leftmost.
+(C), (C) Joe finished last.
+(A), (A) The black book is the leftmost.
+(B), (B) Rob finished first.
+(C), (C) The hatchback is the oldest.
+(A), (A) The hatchback is the second-newest.
+(A), (A) The yellow book is the rightmost.
+(A), (A) Eve finished first.
+(B), (B) The hawk is the second from the left.
+(A), (A) The loquats are the most expensive.
+(A), (A) The blue book is the rightmost.
+(C), (C) Mya finished last.
+(A), (A) Amy finished last.**
+(A), (A) Ana finished second.
+(A), (A) The yellow book is the leftmost.
+(A), (A) The purple book is the rightmost.
+(A), (A) Amy finished first.
+(C), (C) Amy finished second.
+(A), (A) The station wagon is the second-newest.
+(C), (C) The bus is the second-newest.
+(A), (A) The limousine is the second-newest.
+(B), (B) The orange book is the leftmost.
+(A), (A) The falcon is the leftmost.
+(A), (A) Ana finished last.
+(A), (A) Eve finished second.
+(A), (A) The green book is the leftmost.
+(B), (B) The falcon is the rightmost.
+(C), (C) The orange book is the rightmost.
+(C), (C) The truck is the newest.
+(C), (C) Amy finished first.
+(B), (B) Rob finished second.
+(C), (C) The orange book is the rightmost.
+(C), (C) The convertible is the newest.
+(B), (B) Amy finished first.
+(A), (A) Eli finished last.
+(A), (A) The robin is the rightmost.
+(B), (B) Ada finished first.
+(A), (A) The peaches are the most expensive.
+(C), (C) The cardinal is the rightmost.
+(A), (A) The red book is the second from the left.
+(A), (A) The peaches are the most expensive.
+(B), (B) The blue jay is the rightmost.
+(A), (A) The purple book is the rightmost.
+(C), (C) The mangoes are the second-most expensive.
+(C), (C) The orange book is the second from the left.
+(C), (C) The tractor is the newest.
+(A), (A) The loquats are the most expensive.
+(B), (B) The peaches are the most expensive.
+(A), (A) The owl is the second from the left.
+(C), (C) The pears are the most expensive.
+(C), (C) Ada finished first.
+(A), (A) The sedan is the second-newest.
+(A), (A) The orange book is the leftmost.
+(A), (A) The motorcycle is the oldest.
+(A), (A) Amy finished second.
+(C), (C) Eve finished first.
+(B), C.
+(A), (A) The station wagon is the newest.
+(C), (C) The brown book is the second from the left.
+(A), (A) The pears are the second-most expensive.
+(A), (A) Eli finished first.
+(B), (B) Mya finished last.
+(A), (A) The apples are the cheapest.
+(A), (A) The convertible is the newest.
+(C), (C) The bus is the oldest.
+(A), (A) The orange book is the leftmost.
+(C), (C) Eve finished first.
+(A), (A) The hawk is the second from the left.

@@ -1,0 +1,10 @@
+(A), (A) The hummingbird is the leftmost.
+(A), (A) The hatchback is the second-newest.
+(C), A.
+(A), B.
+(A), (A) Mel finished last.
+(C), B.
+(C), A.
+(A), (A) Amy finished second.
+(A), (A) The pears are the second-most expensive.
+(A), (A) The apples are the cheapest.

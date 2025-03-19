@@ -1,0 +1,223 @@
+No, False.
+No, False.
+No, Ka tells the truth.
+No, True.
+No, False.
+Yes, False.
+Yes, Delbert tells the truth.
+No, Christie is telling the truth.
+No, True.
+No, Delbert does not tell the truth.
+No, False.
+Yes, True.
+No, Michaela does not tell the truth.
+Yes, True.
+Yes, Shenna tells the truth.
+No, False.
+Yes, Raymond does not tell the truth.
+No, Shalonda tells the truth.
+No, Sal does not tell the truth.
+Yes, True.
+No, False.
+No, Kandi does not tell the truth.
+Yes, False.
+Yes, Amberly tells the truth.
+Yes, True."
+Yes, Jamey tells the truth.
+Yes, Elanor tells the truth.
+Yes, Jerry tells the truth.
+No, Yes.
+No, Shenna tells the truth.
+Yes, Christie tells the truth.
+Yes, True.
+No, Christie does not tell the truth.
+No, False.
+Yes, Osvaldo tells the truth.
+Yes, Dallas tells the truth.
+No, Inga is a liar.
+Yes, True."
+Yes, Sal tells the truth.
+Yes, Conception tells the truth.
+No, Jamey does not tell the truth.
+No, Fletcher does not tell the truth.
+No, False."
+No, False.
+No, False.
+Yes, Michaela tells the truth.
+Yes, Delfina tells the truth.
+Yes, Fidel tells the truth.
+Yes, Shaunda tells the truth.
+Yes, Millie tells the truth.
+Yes, Audrie's truthfulness depends on Willian's truthfulness. If Willian is truthful, then Audrie is truthful. If Willian is lying, then Audrie is lying.
+Yes, True."
+Yes, True.
+No, Shenna tells the truth.
+No, True.
+Yes, Christie tells the truth.
+Yes, True.
+Yes, Millicent tells the truth.
+No, Ka does not necessarily tell the truth.
+No, Shalonda does not tell the truth.
+No, False.
+Yes, Crista tells the truth.
+No, False.
+Yes, Millie tells the truth.
+No, False.
+No, No, Ryan does not tell the truth.
+Yes, Andree tells the truth.
+Yes, Alejandro tells the truth.
+Yes, Jim tells the truth.
+No, False.
+No, False.
+Yes, Leda tells the truth.
+Yes, Inga tells the truth.
+Yes, Ka is telling the truth.
+No, Bernita does not tell the truth.
+Yes, Dallas tells the truth.
+No, False."
+No, False.
+Yes, Phoebe tells the truth.
+Yes, Elanor tells the truth.
+No, False.
+Yes, Sherrie tells the truth.
+No, False.
+Yes, True.
+No, False.
+No, False."
+No, Yes.
+Yes, Jerry tells the truth.
+Yes, Fletcher tells the truth.
+No, False.
+Yes, Helene tells the truth.
+No, No, Teressa does not tell the truth.
+Yes, Amberly does not tell the truth.
+No, False.
+No, False.
+No, False.
+Yes, Amberly tells the truth.
+No, Kandi does not tell the truth.
+Yes, True.
+No, No, Amberly does not tell the truth.
+Yes, Sherrie tells the truth.
+No, Jamey does not tell the truth.
+Yes, Delfina tells the truth.
+No, Shaunda does not tell the truth.
+No, False.
+No, False.
+Yes, Alejandro tells the truth.
+No, False.
+Yes, Elanor tells the truth.
+Yes, Alejandro is telling the truth.
+Yes, Maybelle tells the truth.
+Yes, True.
+Yes, Alejandro tells the truth.
+Yes, Jaymie tells the truth.
+Yes, Willian tells the truth.
+No, False."
+No, False.
+Yes, True."
+No, False.
+No, False.
+Yes, True."
+No, False.
+Yes, Christie tells the truth.
+No, Lorine tells the truth.
+No, Christie does not tell the truth.
+No, Alejandro tells the truth if Inga is lying.
+Yes, True."
+No, False.
+No, Tamika does not tell the truth.
+No, False.
+No, Ka does not tell the truth.
+Yes, True.
+No, Inga does not tell the truth.
+No, False.
+Yes, Shaunda tells the truth.
+Yes, Amberly tells the truth.
+No, Michaela does not tell the truth.
+Yes, True.
+No, False."
+Yes, True.
+No, False.
+No, False.
+No, Delfina tells the truth.
+Yes, Vina tells the truth if the entire chain of statements is consistent and true.
+Yes, Helene tells the truth if and only if Alexis tells the truth.
+Yes, Andree tells the truth.
+Yes, False.
+Yes, Gwenn tells the truth.
+No, False.
+Yes, Jamey tells the truth.
+Yes, Sherrie tells the truth.
+No, False.
+No, Gwenn does not tell the truth.
+Yes, True.
+Yes, Michael tells the truth.
+Yes, Bernita is telling the truth.
+Yes, Leda tells the truth.
+Yes, True.
+Yes, Shalonda does not tell the truth.
+Yes, Vina tells the truth.
+Yes, True.
+No, Sima does not tell the truth.
+Yes, Leda tells the truth.
+Yes, Audrie tells the truth.
+Yes, True.
+Yes, Alexis tells the truth.
+No, Yes.
+Yes, Teressa tells the truth.
+No, True.
+Yes, Millicent tells the truth.
+Yes, Shaunda tells the truth.
+No, True.
+Yes, Alexis tells the truth.
+Yes, True.
+Yes, True.
+No, False.
+No, False.
+Yes, Shalonda does not tell the truth.
+No, False.
+Yes, True.
+No, True.
+No, False.
+Yes, Millicent tells the truth.
+No, False.
+No, False.
+No, Sima tells the truth.
+No, False.
+Yes, False.
+Yes, Dallas tells the truth.
+No, Michaela does not tell the truth.
+No, Kandi is a liar.
+Yes, Vina tells the truth.
+Yes, False.
+Yes, True."
+No, False.
+Yes, Lorine tells the truth.
+No, Delfina tells the truth.
+Yes, False.
+Yes, True.
+No, False.
+Yes, Crista tells the truth.
+Yes, True"
+No, False.
+No, False.
+No, False.
+No, False.
+Yes, True.
+No, Kandi does not tell the truth.
+No, Michael tells the truth.
+Yes, Sal tells the truth.
+Yes, True.
+Yes, Leda tells the truth.
+No, False.
+No, False.
+No, False."
+Yes, Conception tells the truth.
+Yes, Rashida tells the truth.
+Yes, Conception tells the truth.
+No, False.
+Yes, Yes, Phoebe is telling the truth.
+No, False.
+No, Leda does not tell the truth.
+No, False.

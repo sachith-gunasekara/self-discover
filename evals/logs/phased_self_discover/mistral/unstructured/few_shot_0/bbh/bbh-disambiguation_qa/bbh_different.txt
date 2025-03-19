@@ -1,0 +1,188 @@
+(A), (A) The patient had a skin condition.
+(C), (C) Ambiguous.
+(C), (B) The writer uses big words.
+(C), (C) Ambiguous.
+(C), (A) The office was the director's office.
+(B), (B) The writer wrote a good book.
+(C), B.
+(B), (B) The accountant could help.
+(C), (C) Ambiguous.
+(A), (A) The homeowner had purchased.
+(B), (C) Ambiguous.
+(C), (B) The cashier is arrogant.
+(C), (C) Ambiguous.
+(C), (C) Ambiguous.
+(C), (C) Ambiguous.
+(B), (B) Told the salesperson a fake story.
+(A), (A) They were the writer's friends.
+(C), (C) Ambiguous.
+(C), (C) Ambiguous.
+(B), (B) Gave the carpenter a blueprint.
+(A), (C) Ambiguous.
+(A), (C) Ambiguous.
+(A), (C) Ambiguous.
+(B), (B) The secretary asked for a tool.
+(C), (C) Ambiguous.
+(B), C.
+(A), C.
+(B), (B) Helped the analyst book a flight.
+(B), C.
+(A), (C) Ambiguous.
+(B), (C) Ambiguous.
+(A), (A) The worker was repairing.
+(A), C.
+(A), (C) Ambiguous.
+(A), C.
+(B), (B) The customer could pay.
+(C), (A) The nurse was busy.
+(B), (B) The patient needed more rest.
+(C), (B) They will discuss the chef's favorite dishes.
+(B), (B) The patient should floss.
+(B), (B) The client should make payments.
+(A), (A) It is Sam's office.
+(A), (C) Ambiguous.
+(A), (C) Ambiguous.
+(C), (B) The blueprints were the architect's.
+(B), (C) Ambiguous.
+(B), (B) It will be Sam's office.
+(A), (C) Ambiguous.
+(C), (A) The developer uses big words.
+(C), (C) Ambiguous.
+(A), (A) It was the pathologist's microscope.
+(A), (C) Ambiguous.
+(A), (A) The secretary didn't reply yet.
+(A), (A) The janitor would have to mop.
+(C), (C) Ambiguous.
+(C), (C) Ambiguous.
+(A), (A) The homeowner had purchased.
+(A), (A) The homeowner had purchased.
+(A), (C) Ambiguous.
+(A), (A) The lawyer needed to understand.
+(B), (B) It was the customer's car.
+(A), (A) The secretary understood the problem.
+(C), (C) Ambiguous.
+(A), (A) Alex could not meet.
+(A), (A) They were my cousin's boss.
+(C), (C) Ambiguous.
+(B), (B) It is the chef's culinary training.
+(B), (C) Ambiguous.
+(C), (C) Ambiguous.
+(B), (B) The CEO asked.
+(B), (B) Gave the carpenter a blueprint.
+(A), (C) Ambiguous.
+(A), (A) The patient had a history.
+(A), (A) It was the educator's grading policy.
+(C), (C) Ambiguous.
+(B), (B) Told the salesperson a fake story.
+(B), (C) Ambiguous.
+(A), (C) Ambiguous.
+(A), C.
+(C), (C) Ambiguous.
+(B), (B) The accountant needed a car.**
+(B), (B) Helped the analyst book a flight.
+(B), (B) Gave the designer a prototype.
+(C), (A) The surgeon needed more time.
+(A), (A) They were my cousin's boss.
+(B), (B) The writer wrote a good book.
+(C), (A) Alex sent the letter.
+(A), (C) Ambiguous.
+(C), (C) Ambiguous.
+(C), (C) Ambiguous.
+(C), (C) Ambiguous.
+(A), (A) The cook likes to teach.
+(B), (B) It was the chef's culinary training.
+(B), (B) The writer wrote a good book.
+(A), (A) It was the pathologist's microscope.
+(A), (A) The paralegal was fired.
+(A), (A) The worker was repairing.
+(B), (B) The accountant could help.
+(C), (B) The designer liked the design.
+(A), (A) The cook likes to teach.
+(B), (B) The accountant could help.
+(A), (A) The patient had a skin condition.
+(C), (C) Ambiguous.
+(A), (A) The cook likes to teach.
+(B), (C) Ambiguous.
+(C), (C) Ambiguous.
+(A), (A) The technician completed the repair.
+(B), (B) The office was Sam's office.
+(B), (B) The salesperson would send the prices.
+(A), (A) The worker was repairing.
+(C), (C) Ambiguous.
+(B), (C) Ambiguous.
+(A), (A) The developer understood the problem.
+(C), (A) It will be the producers' office.
+(C), B.
+(B), (B) Asked the cook.
+(B), (B) Sold the writer some garbage.
+(A), (C) Ambiguous.
+(C), B.
+(A), (A) Alex could not meet.
+(B), (B) Told the editor the story.
+(A), (A) The sheriff upholds the peace.
+(C), (C) Ambiguous.
+(A), (C) Ambiguous.
+(A), (A) Alex could not meet.
+(A), (B) We could not meet.
+(C), B.
+(B), (B) The secretary asked for a tool.
+(A), (C) Ambiguous.
+(A), (C) Ambiguous.
+(B), (B) The patient needed more rest.
+(B), (B) The customer could pay.
+(B), (C) Ambiguous.
+(A), (A) The technician completed the repair.
+(B), (B) Gave the designer a prototype.
+(A), (C) Ambiguous.
+(B), (C) Ambiguous.
+(C), (C) Ambiguous.
+(A), (C) Ambiguous.
+(B), (B) Asked the cook.
+(A), (A) They were my parent's secretary.
+(A), (A) The developer focuses on code.
+(A), (C) Ambiguous.
+(A), (A) They were the writer's friends.
+(A), (C) Ambiguous.
+(C), (C) Ambiguous.
+(A), (A) It was the educator's grading policy.
+(C), (A) The investigator was too late.
+(A), (C) Ambiguous.
+(C), (B) The laborer smelled awful.
+(A), (A) They were the writer's friends.
+(C), B.
+(A), (A) The carpenter had been working on the house.
+(A), (C) Ambiguous.
+(C), (C) Ambiguous.
+(A), (A) Alex could not meet.**
+(B), (B) The patient should floss.
+(B), (B) It was the customer's car.
+(C), (C) Ambiguous.
+(B), C.
+(A), B.
+(C), (C) Ambiguous.
+(B), (C) Ambiguous.
+(C), (C) Ambiguous.
+(C), (C) Ambiguous.
+(A), None
+(C), (A) Alex sent the letter.
+(A), (A) The patient had a history.
+(C), (C) Ambiguous.
+(C), (B) The secretary made a mistake.
+(C), A.
+(B), (C) Ambiguous.
+(A), (C) Ambiguous.
+(B), (B) The customer could pay.
+(B), (B) The CEO asked.
+(C), (C) Ambiguous.
+(B), (C) Ambiguous.
+(B), (B) The patient needed more rest.
+(C), (B) The nurse needed more time.
+(C), (A) The mechanic was in a good mood.
+(C), (C) Ambiguous.
+(C), (C) Ambiguous.
+(C), (C) Ambiguous.
+(B), (B) The office was Sam's office.
+(C), (C) Ambiguous.
+(A), (A) It was the educator's grading policy.
+(A), (A) It is Sam's office.
+(C), (C) Ambiguous.

@@ -1,0 +1,26 @@
+{
+  "_data_files": [
+    {
+      "filename": "data-00000-of-00001.arrow"
+    }
+  ],
+  "_fingerprint": "34705f452403fd74",
+  "_format_columns": [
+    "adapted_modules",
+    "answer",
+    "answer_pred",
+    "characters",
+    "distracting_characters",
+    "question",
+    "reasoning",
+    "reasoning_formats",
+    "reasoning_structure",
+    "selected_modules",
+    "story",
+    "trajectory"
+  ],
+  "_format_kwargs": {},
+  "_format_type": null,
+  "_output_all_columns": false,
+  "_split": null
+}
