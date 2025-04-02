@@ -1,0 +1,64 @@
+**Reasoning Plan 1: Retrieval of Specific Information**
+{
+    Identify the key information or question being asked: {
+        Determine the specific detail or value requested:
+    },
+    Locate the relevant information in the table: {
+        Search for the row or column containing the requested information:
+    },
+    Extract the requested information: {
+        Retrieve the specific value or detail from the table:
+    }
+}
+
+**Reasoning Plan 2: Sorting and Filtering**
+{
+    Identify the column or attribute to sort or filter by: {
+        Determine the relevant column or attribute:
+    },
+    Sort or filter the table accordingly: {
+        Arrange the rows in the specified order or filter out irrelevant rows:
+    },
+    Extract the requested information: {
+        Retrieve the specific value or detail from the sorted or filtered table:
+    }
+}
+
+**Reasoning Plan 3: Basic Calculations**
+{
+    Identify the relevant columns or attributes: {
+        Determine the columns or attributes involved in the calculation:
+    },
+    Perform the calculation: {
+        Execute the arithmetic operation (e.g., addition, subtraction, multiplication, division):
+    },
+    Extract the result: {
+        Retrieve the calculated value:
+    }
+}
+
+**Reasoning Plan 4: Comparison and Counting**
+{
+    Identify the column or attribute to compare: {
+        Determine the relevant column or attribute:
+    },
+    Compare the values: {
+        Evaluate the values in the specified column or attribute:
+    },
+    Count the number of rows meeting the condition: {
+        Count the number of rows that satisfy the comparison:
+    }
+}
+
+**Reasoning Plan 5: Aggregation**
+{
+    Identify the column or attribute to aggregate: {
+        Determine the relevant column or attribute:
+    },
+    Perform the aggregation: {
+        Execute the aggregation operation (e.g., sum, average, count):
+    },
+    Extract the result: {
+        Retrieve the aggregated value:
+    }
+}

@@ -1,0 +1,34 @@
+```
+{
+    "Step 1: Identify Common Themes or Genres": {
+        "Analyze the given movies to identify common themes, genres, or elements": {}
+    },
+    "Step 2: Narrow Down Options": {
+        "Focus on specific characteristics such as genre, director, or release date to narrow down the options": {}
+    },
+    "Step 3: Analyze Movies from Different Perspectives": {
+        "Analyze the given movies from different perspectives such as plot, characters, tone, and style to identify patterns and connections": {}
+    },
+    "Step 4: Identify Core Characteristics": {
+        "Identify the core characteristic or element that defines the given movies": {}
+    },
+    "Step 5: Consider Relevant Data": {
+        "Consider relevant data or information such as box office performance, awards, or critical reception to provide insights into the given movies": {}
+    },
+    "Step 6: Evaluate Task Type": {
+        "Determine if the task is a technical or practical one that requires specific knowledge of film history, genres, or directors, or a creative challenge that requires innovative thinking": {}
+    },
+    "Step 7: Generate Innovative Ideas": {
+        "Generate innovative and out-of-the-box ideas by combining elements from the given movies": {}
+    },
+    "Step 8: Use Systems Thinking": {
+        "Consider the given movies as part of a larger cinematic ecosystem and understand how they relate to each other": {}
+    },
+    "Step 9: Make an Educated Guess": {
+        "Make an educated guess about other possible similar movies that may not be immediately apparent": {}
+    },
+    "Step 10: Evaluate Options": {
+        "Evaluate the options provided and select the one that best matches the characteristics and themes identified in the previous steps": {}
+    }
+}
+```

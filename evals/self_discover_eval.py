@@ -6,13 +6,7 @@ import time
 from datasets import load_dataset, get_dataset_config_names
 from pyprojroot import here
 import fire
-
-try:
-    # Try importing the notebook version for Jupyter Notebooks
-    from tqdm.notebook import tqdm
-except ImportError:
-    # Fallback to the standard version for CLI environments
-    from tqdm import tqdm
+from tqdm.auto import tqdm
 
 from self_discover import self_discover
 from self_discover._helpers.logger import logger
@@ -42,11 +36,11 @@ def call_self_discover(
     out = self_discover(
         batch["self_discover_input"],
         model,
-        reasoning_structure,
         answer_formats,
+        reasoning_structure,
         phase,
         stream,
-    )
+    )        
 
     delete_keys = ["task_description", "answer_formats", "task_examples"]
 
@@ -179,8 +173,7 @@ def phaseII(
         with open(
             here(
                 os.path.join(
-                    "evals/logs",
-                    config["MODEL"]["model_type"],
+                    BASE_PATH,
                     "phaseI",
                     benchmark,
                     f"{benchmark}-{subset}.txt",
@@ -246,15 +239,17 @@ def main(phase: int = Phase.BOTH.value, stream: bool = False):
     for benchmark, y, dataset_name, subsets in zip(
         benchmarks, y_s, dataset_names, subset_list
     ):
-        logger.info(
-            "Running Self-Discover{} on benchmark {}{}",
-            f" Phase {phase}" if phase in [Phase.I.value, Phase.II.value] else "",
-            benchmark,
-            f", subset {subset} if subset else ''",
-        )
-
         for subset in subsets:
-
+            if subset == "dyck_languages":
+                logger.warning("Skipping {} of {}", subset, benchmark)
+                continue
+            
+            logger.info(
+                "Running Self-Discover{} on benchmark {}{}",
+                f" Phase {phase}" if phase in [Phase.I.value, Phase.II.value] else "",
+                benchmark,
+                f"{f', subset {subset}' if subset else ''}",
+            )
             while True:
                 try:
                     if phase == Phase.I.value:
@@ -266,11 +261,11 @@ def main(phase: int = Phase.BOTH.value, stream: bool = False):
 
                 except Exception as e:
                     error_messages = [
-                        "Rate limit exceeded",
-                        "Requests rate limit exceeded",
-                        "Server disconnected without sending a response",
-                        "Error response 502",
-                        "The read operation timed out",
+                        # "Rate limit exceeded",
+                        # "Requests rate limit exceeded",
+                        # "Server disconnected without sending a response",
+                        # "Error response 502",
+                        # "The read operation timed out",
                     ]
                     if any(msg in str(e) for msg in error_messages):
                         wait_time = config["EVAL"]["wait_time"]

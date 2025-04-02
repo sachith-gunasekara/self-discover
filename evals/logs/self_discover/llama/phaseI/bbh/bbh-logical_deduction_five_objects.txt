@@ -1,0 +1,59 @@
+```
+{
+    "Critical Thinking": {
+        "Analyze the given information": {
+            "Identify the objects and their relationships": {},
+            "Determine the type of relationship (e.g. spatial, comparative)": {}
+        }
+    },
+    "Simplification": {
+        "Simplify the information": {
+            "Eliminate unnecessary details": {},
+            "Combine similar statements": {}
+        }
+    },
+    "Core Issue Identification": {
+        "Identify the central question or problem": {
+            "Determine the correct order or arrangement of objects": {}
+        }
+    },
+    "Problem Decomposition": {
+        "Break down the problem into smaller parts": {
+            "Analyze each statement or relationship individually": {}
+        }
+    },
+    "Causal Analysis": {
+        "Identify the underlying causes or relationships": {
+            "Determine the logical consistency of the statements": {}
+        },
+        "Use causal analysis to determine the correct arrangement": {
+            "Apply logical rules to arrive at a solution": {}
+        }
+    },
+    "Data Analysis": {
+        "Examine the given information": {
+            "Identify patterns or relationships": {}
+        }
+    },
+    "Step-by-Step Thinking": {
+        "Approach the problem in a systematic and sequential manner": {
+            "Analyze each statement or relationship individually": {}
+        }
+    },
+    "Step-by-Step Planning": {
+        "Develop a plan to solve the problem": {
+            "Break down the problem into individual steps": {}
+        }
+    },
+    "Verification": {
+        "Verify the solution through logical consistency checks": {
+            "Ensure the solution is consistent with the given information": {}
+        }
+    },
+    "Answer Selection": {
+        "Select the correct answer from the options": {
+            "Match the solution to one of the answer choices": {}
+        }
+    }
+}
+```

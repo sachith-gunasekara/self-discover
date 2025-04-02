@@ -1,0 +1,39 @@
+```
+{
+    "Step 1: Critical Thinking": {
+        "Analyze the given statements from different perspectives": {},
+        "Identify the relationships between the objects": {},
+        "Evaluate the logical consistency of the information": {}
+    },
+    "Step 2: Simplification": {
+        "Identify the most critical statements that determine the order or position of the objects": {},
+        "Focus on those statements to simplify the problem": {},
+        "Eliminate irrelevant information": {}
+    },
+    "Step 3: Decomposition": {
+        "Break down the problem into smaller parts by analyzing each statement separately": {},
+        "Identify the relationships between the objects": {},
+        "Combine the information to determine the correct order or position of the objects": {}
+    },
+    "Step 4: Core Issue Identification": {
+        "Identify the key question being asked": {},
+        "Focus on the relevant statements that provide information about that position": {}
+    },
+    "Step 5: Causal Analysis": {
+        "Identify the cause-and-effect relationships between the statements": {},
+        "Infer constraints or relationships from the causal analysis": {}
+    },
+    "Step 6: Data Analysis": {
+        "Analyze the given statements as data points": {},
+        "Identify patterns, relationships, and inconsistencies": {},
+        "Infer constraints or relationships from the data analysis": {}
+    },
+    "Step 7: Step-by-Step Thinking": {
+        "Think step-by-step, analyzing each statement in sequence": {},
+        "Combine the information to determine the correct order or position of the objects": {}
+    },
+    "Step 8: Final Determination": {
+        "Use the inferred constraints or relationships to make a final determination about the key question being asked": {}
+    }
+}
+```

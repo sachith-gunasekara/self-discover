@@ -1,0 +1,23 @@
+```
+{
+  "Step 1: Evaluate the logical expression inside the parentheses (if any)": {
+    "Apply the order of operations for logical operators (NOT, AND, OR)": {}
+  },
+  "Step 2: Apply De Morgan's laws and other logical equivalences to simplify the expression": {
+    "Use De Morgan's laws to simplify NOT (A AND B) or NOT (A OR B)": {},
+    "Use the distributive property to simplify A AND (B OR C) or A OR (B AND C)": {}
+  },
+  "Step 3: Evaluate the truth values of the simplified sub-expressions": {
+    "Use truth tables to evaluate the truth values of sub-expressions": {}
+  },
+  "Step 4: Combine the truth values of the sub-expressions using logical operators": {
+    "Apply the truth tables for AND, OR, and NOT to combine the truth values": {}
+  },
+  "Step 5: Simplify the final expression using the laws of Boolean algebra": {
+    "Use the laws of Boolean algebra to simplify the final expression": {}
+  },
+  "Step 6: Determine the final truth value of the expression": {
+    "Use the simplified expression to determine the final truth value": {}
+  }
+}
+```

@@ -1,0 +1,32 @@
+```
+{
+    "Step 1: Analyze Sentence Structure": {
+        "Identify the pronoun and its position in the sentence": {},
+        "Determine the sentence structure and word choice": {}
+    },
+    "Step 2: Identify Potential Antecedents": {
+        "List all nouns in the sentence that could be potential antecedents": {},
+        "Consider the relationships between nouns and pronouns": {}
+    },
+    "Step 3: Evaluate Contextual Clues": {
+        "Look for possessive adjectives, verb agreement, or parallel structure": {},
+        "Consider any background knowledge or common sense": {}
+    },
+    "Step 4: Apply Grammatical Knowledge": {
+        "Recognize the importance of grammatical rules and linguistic conventions": {},
+        "Apply technical expertise in linguistics or language teaching": {}
+    },
+    "Step 5: Evaluate Each Potential Antecedent": {
+        "Systematically analyze each possible antecedent": {},
+        "Consider the grammatical and contextual evidence that supports or contradicts each option": {}
+    },
+    "Step 6: Determine the Most Likely Antecedent": {
+        "Evaluate the relationships between nouns and pronouns": {},
+        "Determine the most likely antecedent based on the analysis": {}
+    },
+    "Step 7: Check for Ambiguity": {
+        "Consider if there are multiple possible antecedents": {},
+        "Determine if the pronoun reference is ambiguous": {}
+    }
+}
+```

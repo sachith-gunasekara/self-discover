@@ -1,0 +1,27 @@
+```
+{
+  "Determine Argument Validity": {
+    "Step 1: Identify Premises and Conclusion": {
+      "Identify the premises and conclusion in the argument":,
+    },
+    "Step 2: Analyze Argument Structure": {
+      "Determine if the argument is deductive or inductive":,
+      "Identify any logical operators (e.g. and, or, not)":,
+    },
+    "Step 3: Check for Logical Fallacies": {
+      "Evaluate the argument for potential logical fallacies":,
+    },
+    "Step 4: Evaluate Assumptions": {
+      "Identify any underlying assumptions in the argument":,
+      "Evaluate the validity and relevance of these assumptions":,
+    },
+    "Step 5: Consider Alternative Perspectives": {
+      "Consider alternative explanations or counterarguments":,
+      "Evaluate the strengths and weaknesses of these alternatives":,
+    },
+    "Step 6: Draw Conclusion": {
+      "Based on the analysis, determine if the argument is valid or invalid":,
+    },
+  },
+}
+```

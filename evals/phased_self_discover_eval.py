@@ -95,7 +95,7 @@ def evaluate(
 
     logger.info("Formatting input prompts")
     dataset = dataset.map(
-        lambda x: format_input_prompt(x, dataset, benchmark, few_shot_examples),
+        lambda x: format_input_prompt(x, benchmark, few_shot_examples, dataset),
         load_from_cache_file=False,
     )
 
@@ -206,6 +206,9 @@ def main(structured: bool = False, few_shot_examples: int = 0, stream: bool = Fa
         )
 
         for subset in subsets:
+            if subset == "dyck_languages":
+                logger.warning("Skipping {} of {}", subset, benchmark)
+                continue
 
             while True:
                 try:
@@ -223,12 +226,12 @@ def main(structured: bool = False, few_shot_examples: int = 0, stream: bool = Fa
 
                 except Exception as e:
                     error_messages = [
-                        "Rate limit exceeded",
-                        "Requests rate limit exceeded",
-                        "Server disconnected without sending a response",
-                        "Error response 502",
-                        "The read operation timed out",
-                        "peer closed connection without sending complete message body"
+                        # "Rate limit exceeded",
+                        # "Requests rate limit exceeded",
+                        # "Server disconnected without sending a response",
+                        # "Error response 502",
+                        # "The read operation timed out",
+                        # "peer closed connection without sending complete message body"
                     ]
                     if any(msg in str(e) for msg in error_messages):
                         wait_time = config["EVAL"]["wait_time"]

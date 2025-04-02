@@ -1,0 +1,19 @@
+```
+{
+    Identify the key elements or items that need to be counted: {
+        Read the problem statement and identify the items mentioned:,
+    },
+    Determine the category or group of items to be counted: {
+        Identify the common characteristic or classification of the items to be counted:,
+    },
+    Filter out irrelevant items: {
+        Exclude items that do not belong to the category or group of items to be counted:,
+    },
+    Count the relevant items: {
+        Systematically count each item that belongs to the category or group of items to be counted:,
+    },
+    Verify the count: {
+        Review the count to ensure that all relevant items have been included and no irrelevant items have been counted:,
+    },
+}
+```

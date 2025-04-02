@@ -1,0 +1,35 @@
+```
+{
+    "Step 1: Analyze the SVG path element": {
+        "Break down the path element into individual commands": {
+            "Identify the type of each command (e.g. line, curve, etc.)": {},
+            "Record the coordinates and parameters of each command": {}
+        }
+    },
+    "Step 2: Identify basic shapes": {
+        "Look for consecutive line commands that form a closed shape": {
+            "Count the number of sides of the shape": {},
+            "Check if the shape is a polygon (e.g. triangle, rectangle, etc.)": {}
+        },
+        "Check for curves that form a circle or ellipse": {
+            "Check if the curve is a full circle or ellipse": {},
+            "Check if the curve is part of a larger shape": {}
+        }
+    },
+    "Step 3: Determine the overall shape": {
+        "Count the number of sides of the shape": {},
+        "Check for symmetry and patterns": {
+            "Check for reflection symmetry": {},
+            "Check for rotational symmetry": {}
+        }
+    },
+    "Step 4: Evaluate the shape against the options": {
+        "Compare the number of sides and shape characteristics with the options": {
+            "Check if the shape matches a specific option (e.g. triangle, rectangle, etc.)": {}
+        }
+    },
+    "Step 5: Make a final determination": {
+        "Choose the option that best matches the shape characteristics": {}
+    }
+}
+```

@@ -1,0 +1,53 @@
+```
+{
+    "Determine the key causal relationships and contributing factors": {
+        "Identify the main event or outcome": {},
+        "Identify the potential causes or contributing factors": {},
+        "Determine the relationships between the causes and the outcome": {}
+    },
+    "Analyze alternative perspectives on causation": {
+        "Consider multiple viewpoints on the causes of the outcome": {},
+        "Evaluate the impact of each viewpoint on the assignment of blame or responsibility": {}
+    },
+    "Simplify the causal chain of events": {
+        "Identify the most relevant causes and events": {},
+        "Remove unnecessary or redundant information": {},
+        "Clarify the relationships between the remaining causes and events": {}
+    },
+    "Evaluate the potential risks and drawbacks of assigning causation": {
+        "Consider the potential consequences of assigning causation to a particular event or action": {},
+        "Evaluate the potential impact on the outcome or consequences": {}
+    },
+    "Apply critical thinking and systems thinking": {
+        "Analyze the problem from different perspectives": {},
+        "Question assumptions about causation": {},
+        "Evaluate the evidence or information available": {},
+        "Consider the problem as part of a larger system": {},
+        "Understand the interconnectedness of various elements": {}
+    },
+    "Define the core issue or problem": {
+        "Clearly define the problem or issue": {},
+        "Identify the key causal relationships and contributing factors": {}
+    },
+    "Identify and analyze underlying causes": {
+        "Identify the underlying causes or factors contributing to the problem": {},
+        "Analyze the relationships between the causes and the outcome": {}
+    },
+    "Determine the type of problem": {
+        "Determine if the problem is technical, practical, conceptual, or theoretical": {},
+        "Evaluate the required expertise or skill set to understand the causal relationships": {}
+    },
+    "Evaluate the complexity of the problem": {
+        "Determine if the problem is a complex causal challenge": {},
+        "Evaluate the need for creative solutions and innovation": {}
+    },
+    "Consider alternative causal relationships": {
+        "Imagine alternative explanations for the cause of the event": {},
+        "Evaluate the feasibility and likelihood of each alternative explanation": {}
+    },
+    "Draw a conclusion based on the analysis": {
+        "Summarize the key findings and insights": {},
+        "Draw a conclusion about the causal relationships and contributing factors": {}
+    }
+}
+```

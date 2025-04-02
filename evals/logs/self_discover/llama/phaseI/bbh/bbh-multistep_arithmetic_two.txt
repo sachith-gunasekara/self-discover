@@ -1,0 +1,41 @@
+```
+{
+  "Step 1: Analyze the mathematical expression": {
+    "Identify the core mathematical operations": {
+      "Determine the correct order of operations": 
+    },
+    "Check for any patterns or relationships between numbers": {
+      "Question any assumptions about the order of operations": 
+    }
+  },
+  "Step 2: Simplify the expression": {
+    "Combine like terms": {
+      "Cancel out any zeros or negative signs": 
+    },
+    "Rearrange the numbers to make the calculations easier": {
+      "Apply mathematical properties such as the distributive property": 
+    }
+  },
+  "Step 3: Break down the complex mathematical expression": {
+    "Identify individual calculations or groups of operations": {
+      "Perform one calculation at a time": 
+    },
+    "Use the results to inform the next step in the solution process": {
+      "Evaluate the mathematical properties being used": 
+    }
+  },
+  "Step 4: Perform the calculations": {
+    "Follow the order of operations": {
+      "Apply mathematical rules and properties": 
+    },
+    "Check for any errors or inconsistencies": {
+      "Verify the calculations": 
+    }
+  },
+  "Step 5: Evaluate the final result": {
+    "Check if the result is reasonable": {
+      "Verify if the result is correct": 
+    }
+  }
+}
+```

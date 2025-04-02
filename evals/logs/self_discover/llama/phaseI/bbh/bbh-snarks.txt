@@ -1,0 +1,35 @@
+```
+{
+    "Step 1: Analyze the tone, language, and context of the statements": {
+        "Identify potential linguistic or rhetorical devices associated with sarcasm": {},
+        "Consider the context in which the statement is being made": {}
+    },
+    "Step 2: Evaluate the evidence or information available": {
+        "Look for inconsistencies or contradictions in the statement": {},
+        "Consider alternative perspectives or viewpoints on the issue being discussed": {}
+    },
+    "Step 3: Identify potential sarcasm, irony, or other forms of subtle meaning": {
+        "Consider the tone and language used in the statement": {},
+        "Look for potential indicators of sarcasm, such as hyperbole or understatement": {}
+    },
+    "Step 4: Consider the core issue or problem being addressed in the statement": {
+        "Identify the underlying causes or factors contributing to the tone and language used": {},
+        "Consider how sarcasm might be used to comment on the issue": {}
+    },
+    "Step 5: Reflect on your own biases and assumptions about the speaker's intent": {
+        "Take a step back from the statement and consider your own perspective": {},
+        "Reflect on how your own biases and assumptions might influence your interpretation": {}
+    },
+    "Step 6: Systematically evaluate the statement": {
+        "Break down the statement into its constituent parts": {},
+        "Analyze each word and phrase for potential indicators of sarcasm": {}
+    },
+    "Step 7: Consider alternative interpretations of the statement": {
+        "Imagine the statement is meant to be taken literally": {},
+        "Consider other ways to interpret the language and tone used": {}
+    },
+    "Step 8: Make a determination about the presence of sarcasm": {
+        "Based on the analysis, determine whether the statement is sarcastic or not": {}
+    }
+}
+```

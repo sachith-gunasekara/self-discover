@@ -1,0 +1,70 @@
+```
+{
+    "Step 1: Identify the core issue or problem": {
+        "Identify the question being asked": {},
+        "Determine the key information needed to answer the question": {}
+    },
+    "Step 2: Simplify the problem": {
+        "Focus on the specific object, color, or location mentioned in the question": {},
+        "Identify the relevant objects and their characteristics": {}
+    },
+    "Step 3: Break down the problem into smaller parts": {
+        "Identify the objects and their positions in the arrangement": {},
+        "Determine the relationships between the objects": {}
+    },
+    "Step 4: Extract key information": {
+        "Extract the key information or detail needed to answer the question": {},
+        "Identify any patterns or relationships that can provide insights": {}
+    },
+    "Step 5: Analyze the relationships between objects": {
+        "Analyze the relationships between the objects and their characteristics": {},
+        "Determine how the objects relate to each other": {}
+    },
+    "Step 6: Use the information to answer the question": {
+        "Use the extracted information and analysis to answer the question": {},
+        "Select the correct answer from the options": {}
+    }
+}
+```
+
+For spatial or visual problems:
+
+```
+{
+    "Step 1: Visualize the arrangement": {
+        "Visualize the arrangement of objects": {},
+        "Identify the positions and relationships between the objects": {}
+    },
+    "Step 2: Identify the key object or location": {
+        "Identify the key object or location mentioned in the question": {},
+        "Determine its position in the arrangement": {}
+    },
+    "Step 3: Determine the relationship between the key object and other objects": {
+        "Determine the relationship between the key object and other objects": {},
+        "Identify any patterns or relationships that can provide insights": {}
+    },
+    "Step 4: Use the information to answer the question": {
+        "Use the visualized arrangement and analysis to answer the question": {},
+        "Select the correct answer from the options": {}
+    }
+}
+```
+
+For problems involving removal of objects:
+
+```
+{
+    "Step 1: Identify the objects to be removed": {
+        "Identify the objects to be removed": {},
+        "Determine their positions in the arrangement": {}
+    },
+    "Step 2: Visualize the arrangement after removal": {
+        "Visualize the arrangement after the objects are removed": {},
+        "Identify the remaining objects and their positions": {}
+    },
+    "Step 3: Use the information to answer the question": {
+        "Use the visualized arrangement after removal to answer the question": {},
+        "Select the correct answer from the options": {}
+    }
+}
+```

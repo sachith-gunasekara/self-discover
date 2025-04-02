@@ -1,0 +1,28 @@
+```
+{
+    "Determine the core issue or problem": {
+        "Identify the key question": "Do you return to the starting point?"
+    },
+    "Simplify the instructions": {
+        "Cancel out opposing movements": "Remove any pairs of turns or steps that cancel each other out"
+    },
+    "Break down the instructions into smaller parts": {
+        "Analyze each movement or turn": "Track the effects of each movement or turn on the overall position and orientation"
+    },
+    "Analyze the instructions step by step": {
+        "Track changes in position and orientation": "Monitor the changes in position and orientation after each movement or turn"
+    },
+    "Use spatial thinking": {
+        "Consider the problem as part of a larger spatial system": "Understand the interconnectedness of various movements and turns, and how they affect the overall position and orientation"
+    },
+    "Simulate the instructions": {
+        "Use a systematic approach to track movements and turns": "Determine the final position and orientation"
+    },
+    "Evaluate the final position and orientation": {
+        "Compare to the starting point": "Determine if the final position is the same as the starting point"
+    },
+    "Make a conclusion": {
+        "Answer the key question": "Yes or No, depending on whether the final position is the same as the starting point"
+    }
+}
+```

@@ -1,6 +1,6 @@
 [MODEL]
-model_type = "mistral"
+model_type = "llama"
 
 [EVAL]
-batch_size = 10
+batch_size = 5
 wait_time = 1

@@ -1,0 +1,28 @@
+```
+{
+    Identify the type of error: {
+        Compare the source and translation texts to identify the type of error:,
+    },
+    Check for Named Entities errors: {
+        Verify if any entity (names, places, locations, etc.) has been changed to a different entity:,
+    },
+    Check for Numerical Values errors: {
+        Verify if any numerical values (ordinals or cardinals), dates, and/or units have been changed:,
+    },
+    Check for Modifiers or Adjectives errors: {
+        Verify if any modifiers and adjectives pertaining to a noun have been changed:,
+    },
+    Check for Negation or Antonyms errors: {
+        Verify if a negation has been introduced or removed, or if comparatives have been changed to their antonyms:,
+    },
+    Check for Facts errors: {
+        Verify if any trivial factual errors not pertaining to the above classes have been introduced:,
+    },
+    Check for Dropped Content errors: {
+        Verify if a significant clause in the translation has been removed:,
+    },
+    Select the correct answer: {
+        Based on the type of error identified, select the correct answer from the options:,
+    },
+}
+```

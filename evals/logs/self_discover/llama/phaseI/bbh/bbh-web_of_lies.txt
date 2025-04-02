@@ -1,0 +1,29 @@
+```
+{
+    "Step 1: Identify the Target Person": {
+        "Identify the person whose truthfulness needs to be determined": {}
+    },
+    "Step 2: Analyze the Chain of Statements": {
+        "Break down the chain of statements into smaller parts": {},
+        "Identify the relationships between each pair of people": {}
+    },
+    "Step 3: Simplify the Problem": {
+        "Identify the key statements and relationships between people": {},
+        "Focus on the most relevant information to determine the truthfulness of the target person": {}
+    },
+    "Step 4: Evaluate the Truthfulness of Each Person": {
+        "Analyze the relationships between each person's statements": {},
+        "Identify potential causes or motivations for lying or telling the truth": {}
+    },
+    "Step 5: Determine the Truthfulness of the Target Person": {
+        "Combine the results from the previous steps to determine the overall truthfulness of the target person": {}
+    },
+    "Step 6: Consider Alternative Scenarios": {
+        "Consider alternative scenarios or possibilities for the chain of statements": {},
+        "Evaluate the likelihood of each scenario to determine the most plausible solution": {}
+    },
+    "Step 7: Draw a Conclusion": {
+        "Based on the analysis, determine whether the target person tells the truth or lies": {}
+    }
+}
+```

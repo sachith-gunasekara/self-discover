@@ -7,7 +7,7 @@ from evals.prompts import answer_formats, task_description
 
 
 def format_input_prompt(
-    instance, dataset, benchmark: str, few_shot_examples: int
+    instance, benchmark: str, few_shot_examples: int = 0, dataset = None
 ) -> dict:
     if benchmark == "t4d":
         if few_shot_examples != 0:
@@ -66,6 +66,7 @@ def format_input_prompt(
             )
         }
 
+    print(few_shot_examples)
     if few_shot_examples != 0:
         result["few_shot_examples"] = few_shot_examples_str
 

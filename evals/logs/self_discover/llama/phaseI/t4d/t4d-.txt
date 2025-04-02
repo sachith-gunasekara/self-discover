@@ -1,0 +1,19 @@
+```
+{
+    Identify the key individuals involved in the scenario: {
+        Extract the names of individuals mentioned in the observation:,
+    },
+    Identify the individuals' plans and interests: {
+        Extract the information about the individuals' plans and interests mentioned in the observation:,
+    },
+    Determine the individuals who are directly affected by the problem: {
+        Identify the individuals who are involved in the plan to use an object soon:,
+    },
+    Analyze the scenario to identify patterns and connections: {
+        Identify the individuals who moved an object and the individuals who are involved in the plan to use the object soon:,
+    },
+    Determine who among the individuals would benefit from receiving helpful information: {
+        Select the individuals who are involved in the plan to use an object soon and who did not move the object:,
+    },
+}
+```

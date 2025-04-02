@@ -1,0 +1,41 @@
+```
+{
+    Identify key assumptions: {
+        Identify the sport being referred to in the sentence:,
+        Identify the specific action being described in the sentence:,
+        Identify the key elements such as the person, action, and sport:,
+    },
+    Simplify the sentence: {
+        Remove any unnecessary words or phrases from the sentence:,
+        Identify the main verb and subject of the sentence:,
+    },
+    Analyze from different perspectives: {
+        Evaluate the sentence based on the rules of the sport:,
+        Evaluate the sentence based on the abilities of the person mentioned:,
+        Evaluate the sentence based on the context in which the action is taking place:,
+    },
+    Identify the core issue or problem: {
+        Check for inconsistencies with the sport or action being described:,
+        Check for any contradictions or ambiguities in the sentence:,
+    },
+    Gather relevant data or information: {
+        Check for any relevant sports statistics or rules:,
+        Check for any relevant information about the person mentioned:,
+    },
+    Determine the type of problem: {
+        Check if the problem is technical or practical:,
+        Check if the problem is conceptual or theoretical:,
+    },
+    Evaluate the sentence: {
+        Check if the sentence is a description of a creative or innovative action:,
+        Check if the sentence is a description of a standard or common action:,
+    },
+    Consider alternative explanations: {
+        Guess other possible explanations or interpretations of the sentence:,
+        Consider alternative perspectives or viewpoints:,
+    },
+    Evaluate the plausibility of the sentence: {
+        Based on the analysis, determine if the sentence is plausible or not:,
+    },
+}
+```
