@@ -1,49 +1,80 @@
 import os
 import json
+import atexit
 
 from transformers import AutoTokenizer
 from langchain_core.callbacks import BaseCallbackHandler
 
 from self_discover._helpers.logger import logger
 
+from .kafka_producer import KafkaProducerHelper
+
+
 tokenizer = AutoTokenizer.from_pretrained("meta-llama/Llama-3.1-405B-Instruct")
 
 
+TARGET_TOPIC = "self-discover-cost"
+
+
 class TokenCountingCallback(BaseCallbackHandler):
-    def __init__(self, rate_per_1M_tokens, cost_cap, cost_file, lock):
+    def __init__(
+        self, rate_per_1M_tokens, cost_cap, current_running_cost, producer_key
+    ):
         self.rate_per_1M_tokens = rate_per_1M_tokens
         self.cost_cap = cost_cap
-        self.cost_file = cost_file
-        self.lock = lock
+        self.running_cost = current_running_cost
+        self.producer_key = producer_key
+        self.pid = os.getpid()
 
-        if not os.path.exists(self.cost_file):
-            with open(self.cost_file, "w") as f:
-                json.dump({"running_cost": 0}, f)
+        self.producer = None
+
+        self.producer = KafkaProducerHelper(TARGET_TOPIC, self.producer_key)
+        atexit.register(self._cleanup_producer)
+        logger.info(
+            "[PID {}] Kafka producer initialized for callback and registered for atexit cleanup.",
+            self.pid,
+        )
+
+    def _cleanup_producer(self):
+        logger.info("[PID {}] Attempting producer cleanup via atexit...", self.pid)
+        if self.producer:
+            try:
+                self.producer.close()
+                self.producer = None
+            except Exception as e:
+                logger.error("[PID {}] Error during producer cleanup: {}", self.pid, e)
+        else:
+            logger.info(
+                "[PID {}] Producer already closed or not initialized during cleanup.",
+                self.pid,
+            )
 
     def reset_values(self):
         """Reset token counts and cost for a new LLM call."""
         self.prompt_tokens = 0
         self.completion_tokens = 0
-        self.total_cost = 0
 
     def calculate_cost(self):
-        return ((self.prompt_tokens + self.completion_tokens) / 1e6) * self.rate_per_1M_tokens
+        cost = (
+            (self.prompt_tokens + self.completion_tokens) / 1e6
+        ) * self.rate_per_1M_tokens
 
-    def read_running_cost(self):
-        with self.lock:
-            with open(self.cost_file, "r") as f:
-                data = json.load(f)
-            return data["running_cost"]
+        self.running_cost += cost
+
+        return cost
 
     def update_running_cost(self):
-        running_cost = self.read_running_cost() + self.calculate_cost()
+        payload = self.producer.generate_event_payload(
+            os.getpid(),
+            self.prompt_tokens,
+            self.completion_tokens,
+            self.calculate_cost(),
+        )
 
-        with self.lock:
-            with open(self.cost_file, "w") as f:
-                json.dump({"running_cost": running_cost}, f)
+        self.producer.produce(payload)
 
     def is_under_cost_cap(self):
-        return self.read_running_cost() <= self.cost_cap
+        return self.running_cost <= self.cost_cap
 
     def can_make_api_call(self):
         if not self.is_under_cost_cap():

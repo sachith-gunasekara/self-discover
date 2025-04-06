@@ -66,7 +66,6 @@ def format_input_prompt(
             )
         }
 
-    print(few_shot_examples)
     if few_shot_examples != 0:
         result["few_shot_examples"] = few_shot_examples_str
 

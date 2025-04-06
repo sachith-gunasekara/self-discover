@@ -1,4 +1,5 @@
 import os
+import json
 import threading
 
 from langchain_core.rate_limiters import InMemoryRateLimiter
@@ -14,8 +15,9 @@ from self_discover._helpers.logger import logger
 llama = True if "llama" in config["MODEL"]["model_type"] else False
 
 RATE_PER_1M_TOKENS = 0.8
-COST_CAP = 120.0  # USD
-COST_FILE = here(f"evals/logs/running_cost.json")
+COST_CAP = 118.0  # USD
+PRODUCER_KEY = "running_cost"
+OUTPUT_FILE = here(f"evals/logs/running_cost.json")
 MODEL_ID = (
     "llama3.1-405b-instruct-fp8" if llama else "mistral-large-2407"
 )  # Use if llama model is from Hyperbolic
@@ -30,7 +32,14 @@ model_kwargs = {
 }
 
 lock = threading.Lock()
-token_callback = TokenCountingCallback(RATE_PER_1M_TOKENS, COST_CAP, COST_FILE, lock)
+def read_running_cost():
+    with lock:
+        with open(OUTPUT_FILE, "r") as f:
+            data = json.load(f)
+
+    return data["running_cost"]
+
+token_callback = TokenCountingCallback(RATE_PER_1M_TOKENS, COST_CAP, read_running_cost(), PRODUCER_KEY)
 
 if llama:
     model = ChatOpenAI(

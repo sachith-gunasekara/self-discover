@@ -14,7 +14,6 @@ pyprojroot = "^0.3.0"
 langchain = "^0.3.14"
 loguru = "^0.7.3"
 logtail-python = "^0.3.3"
-python-dotenv = "^1.0.1"
 langchain-community = "^0.3.20"
 
 [tool.poetry.group.experiments.dependencies]
@@ -25,6 +24,8 @@ datasets = "^3.2.0"
 transformers = "^4.49.0"
 langfuse = "^2.57.13"
 tomlkit = "^0.13.2"
+python-dotenv = "^1.0.1"
+kafka-python = "^2.1.5"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.3.4"

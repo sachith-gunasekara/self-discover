@@ -1035,6 +1035,26 @@ files = [
 ]
 
 [[package]]
+name = "kafka-python"
+version = "2.1.5"
+description = "Pure Python client for Apache Kafka"
+optional = false
+python-versions = "*"
+groups = ["experiments"]
+files = [
+    {file = "kafka_python-2.1.5-py2.py3-none-any.whl", hash = "sha256:205953e581c0371cada35bebdacc58ac7dee6c3f9e8d95b9a6a0a7bacc054ca0"},
+    {file = "kafka_python-2.1.5.tar.gz", hash = "sha256:6765c25440046cdadeb9c31469566be259d50802d27d4f8aae86d9ae755b78e2"},
+]
+
+[package.extras]
+benchmarks = ["pyperf"]
+crc32c = ["crc32c"]
+lz4 = ["lz4"]
+snappy = ["python-snappy"]
+testing = ["mock ; python_version < \"3.3\"", "pytest", "pytest-mock", "pytest-timeout"]
+zstd = ["zstandard"]
+
+[[package]]
 name = "langchain"
 version = "0.3.22"
 description = "Building applications with LLMs through composability"
@@ -2279,7 +2299,7 @@ version = "1.1.0"
 description = "Read key-value pairs from a .env file and set them as environment variables"
 optional = false
 python-versions = ">=3.9"
-groups = ["main"]
+groups = ["main", "experiments"]
 files = [
     {file = "python_dotenv-1.1.0-py3-none-any.whl", hash = "sha256:d7c01d9e2293916c18baf562d95698754b0dbbb5e74d457c45d4f6561fb9d55d"},
     {file = "python_dotenv-1.1.0.tar.gz", hash = "sha256:41f90bc6f5f177fb41f53e87666db362025010eb28f60a01c9143bfa33a2b2d5"},
@@ -3447,4 +3467,4 @@ cffi = ["cffi (>=1.11)"]
 [metadata]
 lock-version = "2.1"
 python-versions = "^3.10"
-content-hash = "2a8506054905d8cebb15f78fda81fec7171d593a7cfabe3763ebe1037995cd31"
+content-hash = "67da9de6f0179a2fc4e0a2642801bd57f155551f9a4ba244718c258c9f138fe3"
