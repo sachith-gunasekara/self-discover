@@ -1,0 +1,20 @@
+(N), D.
+(A), B.
+(E), (D).
+(E), F.
+(B), A.
+(I), (I) eight
+(B), A.
+(E), B.
+(H), G.
+(E), (E) four.
+(F), E.
+(O), (O) black.
+(G), (G) six.
+(L), (D).
+(D), C.
+(C), E.
+(I), (I) mauve or (O) black.
+(D), J.
+(C), B.
+(A), N.
