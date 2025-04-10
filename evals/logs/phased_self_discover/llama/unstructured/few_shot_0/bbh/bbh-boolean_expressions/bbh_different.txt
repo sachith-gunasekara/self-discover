@@ -1,0 +1,5 @@
+False, a logical consequence of the given statement.
+True, False.
+False, consistent with the rules of Boolean logic.
+True, False.
+False, True.
