@@ -1,0 +1,3 @@
+(B), None
+(B), E.
+(B), the value of the counter, which represents the number of penguins less than 8 years old.
