@@ -1,0 +1,7 @@
+False, False.",
+False, True.
+False, correct based on the order of operations and boolean logic rules"
+True, False.
+True, False.
+True, False.
+True, True.",

@@ -1,0 +1,21 @@
+(D), C.
+(N), D.
+(A), B.
+(E), (D).
+(J), F.
+(B), A.
+(A), E.
+(H), G.
+(F), D.
+(G), F.
+(L), L or D, but since the question does not allow for multiple answers, I will choose one of the two furthest colors.
+(A), (A) zero.
+(D), C.
+(G), F.
+(E), F.
+(H), C.
+(D), J.
+(C), B.
+(M), G.
+(B), C.
+(A), G.

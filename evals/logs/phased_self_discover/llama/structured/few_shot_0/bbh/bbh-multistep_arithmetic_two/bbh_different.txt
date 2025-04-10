@@ -1,0 +1,25 @@
+-5453, -5463."
+-37, 43.
+250992, 251472.
+-3850, correct"
+-8, 0.
+343, the result of combining the two expressions, which is 343."
+20, verified to be accurate."
+-20, -18.
+88, 74.
+-97, -99.
+8, verified to be 8"
+312, -360.
+33, reasonable and correct based on the given expression."
+36, -90.
+630, 1890.
+48, None
+42, the result of the multiplication, which is 42."
+5, -17.
+72, the result of the multiplication, which is 72."
+-113, None
+107, the result of the subtraction in Step 5.4"
+48, 59.
+101, 59.
+-43, 85.
+21, accurate and correct"

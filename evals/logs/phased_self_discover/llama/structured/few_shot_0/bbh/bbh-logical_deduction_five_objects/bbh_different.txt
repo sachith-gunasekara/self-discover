@@ -1,0 +1,22 @@
+(B), D.
+(B), D.
+(E), C.
+(D), A.
+(C), one of the given options, and it is option (C)."
+(E), C.
+(E), A.
+(C), B.
+(E), C.
+(C), E.
+(C), D.
+(E), D.
+(E), D.
+(C), E.
+(D), E.
+(D), E.
+(C), B.
+(B), A.
+(B), C.
+(D), B.
+(D), consistent with all the given statements, including 'Joe finished last', 'Ana finished second', 'Mya finished second-to-last', and 'Eve finished below Amy'."
+(C), E.

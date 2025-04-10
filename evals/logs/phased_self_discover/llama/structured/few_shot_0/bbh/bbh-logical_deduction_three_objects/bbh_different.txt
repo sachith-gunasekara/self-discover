@@ -1,0 +1,6 @@
+(B), based on logical deduction and consistent with the given information. Therefore, the oranges are the second-most expensive."
+(A), C.
+(C), A.
+(C), C.",
+(C), A.
+(A), consistent with the given statements and logical deductions. The falcon is indeed the leftmost bird."

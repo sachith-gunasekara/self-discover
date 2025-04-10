@@ -1,0 +1,27 @@
+(A), B.
+(B), A.
+(B), A.
+(B), A.
+(B), A.
+(B), A.
+(A), B.
+(B), A.
+(B), A.
+(A), B.
+(A), B.
+(B), A.
+(B), A.
+(B), A.
+(B), A.
+(B), A.
+(B), A.
+(A), Cannot be determined.
+(B), A.
+(B), A.
+(B), A.
+(A), B.
+(B), A.
+(B), A.
+(A), B is not the answer as the question is not about which is not sarcastic. Neither statement appears to be sarcastic.
+(A), B.
+(B), A.
