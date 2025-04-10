@@ -1,0 +1,5 @@
+True, False.
+True, False.
+False, None
+True, already in the expected format, which is a Boolean value.
+True, False.
