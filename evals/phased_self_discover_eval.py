@@ -143,7 +143,8 @@ def evaluate(
         result = batch.map(
             lambda instance: call_phased_self_discover(
                 instance, benchmark, structured, stream
-            )
+            ),
+            num_proc=batch_size
         )
 
         logger.info(
@@ -210,10 +211,6 @@ def main(structured: bool = False, few_shot_examples: int = 0, stream: bool = Fa
         )
 
         for subset in subsets:
-            if subset == "dyck_languages":
-                logger.warning("Skipping {} of {}", subset, benchmark)
-                continue
-
             while True:
                 try:
                     acc = evaluate(

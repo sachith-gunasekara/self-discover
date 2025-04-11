@@ -240,9 +240,6 @@ def main(phase: int = Phase.BOTH.value, stream: bool = False):
         benchmarks, y_s, dataset_names, subset_list
     ):
         for subset in subsets:
-            if subset == "dyck_languages":
-                logger.warning("Skipping {} of {}", subset, benchmark)
-                continue
             
             logger.info(
                 "Running Self-Discover{} on benchmark {}{}",
