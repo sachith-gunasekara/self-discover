@@ -1,0 +1,25 @@
+{
+  "_data_files": [
+    {
+      "filename": "data-00000-of-00001.arrow"
+    }
+  ],
+  "_fingerprint": "d17d6493a2590874",
+  "_format_columns": [
+    "input",
+    "target",
+    "self_discover_input",
+    "few_shot_examples",
+    "task_description",
+    "selected_modules",
+    "adapted_modules",
+    "reasoning_plan",
+    "reasoning",
+    "trajectory",
+    "answer_pred"
+  ],
+  "_format_kwargs": {},
+  "_format_type": null,
+  "_output_all_columns": false,
+  "_split": null
+}

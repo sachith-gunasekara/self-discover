@@ -1,0 +1,30 @@
+(B), B (However, note that this is an approximation as none of the given options exactly match the calculated answer).
+(C), B.
+(A), C.
+(B), in the correct format (MM/DD/YYYY) and matches option (B)."
+(A), the option that matches the correct date of Christmas Eve in 1937.",
+(E), B.
+(B), C
+(B), E.
+(E), B.
+(A), 04/29/2002.
+(F), verified to be correct as it matches the calculated date of December 23, 1937."
+(B), D.
+(F), B.
+(D), 02/02/2020.
+(A), B.
+(B), C.
+(D), F.
+(D), 07/10/1972.
+(B), A.
+(E), C."
+(C), 11/21/2001."
+(B), F.
+(C), B.
+(B), C.
+(F), D.
+(D), B.
+(D), 11/22/2001.
+(C), D
+(C), F.
+(B), 11/30/1929.

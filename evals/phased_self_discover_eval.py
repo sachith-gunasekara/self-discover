@@ -200,6 +200,10 @@ def main(structured: bool = False, few_shot_examples: int = 0, stream: bool = Fa
     for benchmark, y, dataset_name, subsets in zip(
         benchmarks, y_s, dataset_names, subset_list
     ):
+        if few_shot_examples > 0 and benchmark == "math":
+            logger.warning("Skipping MATH with few shot examples")
+            continue
+        
         logger.info(
             "Running Phased Self-Discover on {}",
             benchmark,

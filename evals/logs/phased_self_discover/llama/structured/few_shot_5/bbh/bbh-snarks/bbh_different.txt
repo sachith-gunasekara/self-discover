@@ -1,0 +1,17 @@
+(A), B.
+(B), A.
+(B), A.
+(A), B.
+(B), A.
+(B), A.
+(B), A.
+(B), A.
+(A), A or B (Both statements are identical).
+(B), A.
+(A), None
+(B), A.
+(A), B.
+(B), A.
+(B), A.
+(B), A.
+(B), A.
