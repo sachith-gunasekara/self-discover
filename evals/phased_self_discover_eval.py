@@ -143,8 +143,7 @@ def evaluate(
         result = batch.map(
             lambda instance: call_phased_self_discover(
                 instance, benchmark, structured, stream
-            ),
-            num_proc=batch_size
+            )
         )
 
         logger.info(
