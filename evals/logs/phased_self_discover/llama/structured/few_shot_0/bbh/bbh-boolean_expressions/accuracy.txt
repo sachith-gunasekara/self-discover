@@ -1,1 +1,1 @@
-Accuracy: 0.972
+Accuracy: 0.984
