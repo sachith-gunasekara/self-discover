@@ -4,18 +4,16 @@
       "filename": "data-00000-of-00001.arrow"
     }
   ],
-  "_fingerprint": "d310e950d209ec0c",
+  "_fingerprint": "c226719802b6a1d8",
   "_format_columns": [
     "adapted_modules",
     "answer_pred",
-    "few_shot_examples",
     "input",
     "reasoning",
-    "reasoning_plan",
+    "reasoning_formats",
+    "reasoning_structure",
     "selected_modules",
-    "self_discover_input",
     "target",
-    "task_description",
     "trajectory"
   ],
   "_format_kwargs": {},
