@@ -1,5 +1,5 @@
 [MODEL]
-model_type = "llama"
+model_type = "mistral"
 
 [EVAL]
 batch_size = 5

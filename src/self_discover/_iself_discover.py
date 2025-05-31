@@ -11,8 +11,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-from ._prompts import _phased_self_discover_prompts as prompts
-from ._helpers.handlers import langfuse_handler
+from ._prompts import _iself_discover_prompts as prompts
 from ._helpers.logger import logger
 from ._helpers.validators import validate_params
 from ._helpers import stream_response, invoke_graph
@@ -43,7 +42,7 @@ unstructured_application_prompt = PromptTemplate.from_template(
 )
 
 
-class PhasedSelfDiscoverState(TypedDict):
+class ISelfDiscoverState(TypedDict):
     task_description: str
     answer_formats: str
     few_shot_examples: str
@@ -57,7 +56,7 @@ class PhasedSelfDiscoverState(TypedDict):
 ## Corrector nodes for few shot examples ##
 
 
-def append_few_shot_examples(state: PhasedSelfDiscoverState):
+def append_few_shot_examples(state: ISelfDiscoverState):
     logger.info("Appending few shot examples to task description")
 
     task_description = state["task_description"]
@@ -69,7 +68,7 @@ def append_few_shot_examples(state: PhasedSelfDiscoverState):
     }
 
 
-def restore_task_description(state: PhasedSelfDiscoverState):
+def restore_task_description(state: ISelfDiscoverState):
     logger.info("Restoring original task description before APPLICATION step")
 
     return {"task_description": state["task_description_backup"]}
@@ -78,7 +77,7 @@ def restore_task_description(state: PhasedSelfDiscoverState):
 ## Initial Nodes ##
 
 
-def select(state: PhasedSelfDiscoverState):
+def select(state: ISelfDiscoverState):
     logger.info("Executing SELECT step")
     chain = select_prompt | LLM.model | StrOutputParser()
 
@@ -87,7 +86,7 @@ def select(state: PhasedSelfDiscoverState):
     return {"selected_modules": result}
 
 
-def adapt(state: PhasedSelfDiscoverState):
+def adapt(state: ISelfDiscoverState):
     logger.info("Executing ADAPT step")
     chain = adapt_prompt | LLM.model | StrOutputParser()
 
@@ -101,7 +100,7 @@ def adapt(state: PhasedSelfDiscoverState):
 # Structured #
 
 
-def structured_planning(state: PhasedSelfDiscoverState):
+def structured_planning(state: ISelfDiscoverState):
     logger.info("Executing STRUCTURED PLANNING step")
     chain = structured_planning_prompt | LLM.model | StrOutputParser()
 
@@ -110,7 +109,7 @@ def structured_planning(state: PhasedSelfDiscoverState):
     return {"reasoning_plan": result}
 
 
-def structured_application(state: PhasedSelfDiscoverState):
+def structured_application(state: ISelfDiscoverState):
     logger.info("Executing STRUCTURED APPLICATION step")
     chain = structured_application_prompt | LLM.model | StrOutputParser()
 
@@ -122,7 +121,7 @@ def structured_application(state: PhasedSelfDiscoverState):
 # Unstructured #
 
 
-def unstructured_planning(state: PhasedSelfDiscoverState):
+def unstructured_planning(state: ISelfDiscoverState):
     logger.info("Executing UNSTRUCTURED PLANNING step")
     chain = unstructured_planning_prompt | LLM.model | StrOutputParser()
 
@@ -131,7 +130,7 @@ def unstructured_planning(state: PhasedSelfDiscoverState):
     return {"reasoning_plan": result}
 
 
-def unstructured_application(state: PhasedSelfDiscoverState):
+def unstructured_application(state: ISelfDiscoverState):
     logger.info("Executing UNSTRUCTURED APPLICATION step")
     chain = unstructured_application_prompt | LLM.model | StrOutputParser()
 
@@ -143,23 +142,23 @@ def unstructured_application(state: PhasedSelfDiscoverState):
 ## Routing Functions ##
 
 
-def determine_initial_node(state: PhasedSelfDiscoverState):
+def determine_initial_node(state: ISelfDiscoverState):
     if state["few_shot_examples"]:
         return "append_few_shot_examples"
     else:
         return "select"
 
 
-def determine_pre_application_node(state: PhasedSelfDiscoverState):
+def determine_pre_application_node(state: ISelfDiscoverState):
     if state["few_shot_examples"]:
         return "restore_task_description"
     else:
         return "application"
 
 
-def build_phased_self_discover_graph(structured: bool = False):
-    logger.info("Building Phased Self-Discover graph")
-    graph_builder = StateGraph(PhasedSelfDiscoverState)
+def build_iself_discover_graph(structured: bool = False):
+    logger.info("Building iSelf-Discover graph")
+    graph_builder = StateGraph(ISelfDiscoverState)
 
     graph_builder.add_node(append_few_shot_examples)
     graph_builder.add_node(restore_task_description)
@@ -181,11 +180,11 @@ def build_phased_self_discover_graph(structured: bool = False):
     graph_builder.add_edge("restore_task_description", "application")
     graph_builder.add_edge("application", END)
 
-    logger.debug("Compiling Phased Self-Discover graph")
+    logger.debug("Compiling iSelf-Discover graph")
     return graph_builder.compile()
 
 
-def phased_self_discover(
+def iself_discover(
     task_description: str,
     model: BaseChatModel,
     answer_formats: str,
@@ -193,7 +192,7 @@ def phased_self_discover(
     few_shot_examples_str: str = "",
     stream: bool = False,
 ):
-    logger.info("Starting Phased Self-Discover")
+    logger.info("Starting iSelf-Discover")
     validate_params(task_description, model, answer_formats)
 
     LLM.model = model
@@ -204,8 +203,8 @@ def phased_self_discover(
         "few_shot_examples": few_shot_examples_str,
     }
 
-    graph = build_phased_self_discover_graph(structured)
+    graph = build_iself_discover_graph(structured)
 
     result = invoke_graph(graph, state, Langfuse.CONFIG, stream)
-    logger.debug("Phased Self-Discover result: {}", result.keys())
+    logger.debug("iSelf-Discover result: {}", result.keys())
     return result

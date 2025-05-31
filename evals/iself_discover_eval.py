@@ -8,7 +8,7 @@ import fire
 
 from tqdm import tqdm
 
-from self_discover import phased_self_discover
+from self_discover import iself_discover
 from self_discover._helpers.logger import logger
 
 sys.path.append(str(here()))
@@ -30,8 +30,8 @@ BASE_PATH = here(
 )
 
 
-def call_phased_self_discover(instance, benchmark: str, structured: bool, stream: bool):
-    out = phased_self_discover(
+def call_iself_discover(instance, benchmark: str, structured: bool, stream: bool):
+    out = iself_discover(
         instance["self_discover_input"],
         model,
         get_answer_formats(benchmark),
@@ -133,7 +133,7 @@ def evaluate(
         batch = dataset.select(range(start_idx, end_idx))
 
         logger.info(
-            "Running Phased Self-Discover on batch {}-{} of the dataset {}, subset {}",
+            "Running iSelf-Discover on batch {}-{} of the dataset {}, subset {}",
             start_idx,
             end_idx,
             dataset_name,
@@ -141,7 +141,7 @@ def evaluate(
         )
 
         result = batch.map(
-            lambda instance: call_phased_self_discover(
+            lambda instance: call_iself_discover(
                 instance, benchmark, structured, stream
             )
         )
@@ -205,7 +205,7 @@ def main(structured: bool = False, few_shot_examples: int = 0, stream: bool = Fa
             continue
         
         logger.info(
-            "Running Phased Self-Discover on {}",
+            "Running iSelf-Discover on {}",
             benchmark,
         )
 

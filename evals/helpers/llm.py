@@ -39,14 +39,14 @@ def read_running_cost():
 
     return data["running_cost"]
 
-token_callback = TokenCountingCallback(RATE_PER_1M_TOKENS, COST_CAP, read_running_cost(), PRODUCER_KEY)
+# token_callback = TokenCountingCallback(RATE_PER_1M_TOKENS, COST_CAP, read_running_cost(), PRODUCER_KEY)
 
 if llama:
     model = ChatOpenAI(
         model=MODEL_ID,
         base_url="https://api.lambdalabs.com/v1",
         api_key=os.environ["LAMBDALABS_API_KEY"],
-        callbacks=[token_callback],
+        # callbacks=[token_callback],
         **model_kwargs
     )
 else:
