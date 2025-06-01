@@ -4,10 +4,10 @@
     <em>An open-source implementation for the research paper investigating the effects of structured versus unstructured reasoning in Large Language Models using instance-level Self-Discover.</em>
 </p>
 <p align="center">
-    <a href="[LINK_TO_YOUR_PAPER_WHEN_PUBLIC_OR_PREPRINT]"><img src="https://img.shields.io/badge/Paper-PDF-red?style=for-the-badge&logo=adobeacrobatreader" alt="Paper PDF"></a>
-    <img src="https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python" alt="Python Version">
-    <a href="https://github.com/sachith-gunasekara/self-discover/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"></a>
-    <a href="https://python-poetry.org/"><img src="https://img.shields.io/badge/Poetry-Package%20Manager-purple?style=for-the-badge&logo=poetry" alt="Poetry"></a>
+    <a href="[LINK_TO_YOUR_PAPER_WHEN_PUBLIC_OR_PREPRINT]"><img src="https://img.shields.io/badge/Paper-PDF-red?style=plastic&logo=adobeacrobatreader" alt="Paper PDF"></a>
+    <img src="https://img.shields.io/badge/Python-3.9%2B-blue?style=plastic&logo=python" alt="Python Version">
+    <a href="https://github.com/sachith-gunasekara/self-discover/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=plastic" alt="License"></a>
+    <a href="https://python-poetry.org/"><img src="https://img.shields.io/badge/Poetry-Package%20Manager-purple?style=plastic&logo=poetry" alt="Poetry"></a>
 </p>
 </div>
 
